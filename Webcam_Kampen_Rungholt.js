@@ -6,45 +6,45 @@
 // Cam URL: https://webtv.feratel.com/webtv/?design=v3v&cam=3150&c24=0
 // Preview Cam imgURL "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg"
 
-const camLocation = "Kampen Hotel Rungholt"
-const camSubtitle = "Mein Bild 1.0"
-const url = "https://webtv.feratel.com/webtv/?design=v3v&cam=3150&c24=0"
-const imgUrl = "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg"
-const imgReq = await new Request(imgUrl)
-const img = await imgReq.loadImage()
+const camLocation = "Kampen Hotel Rungholt";
+const camSubtitle = "Mein Bild 1.0";
+const url = "https://webtv.feratel.com/webtv/?design=v3v&cam=3150&c24=0";
+const imgUrl = "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg";
+const imgReq = await new Request(imgUrl);
+const img = await imgReq.loadImage();
 
 if (config.runsInWidget) {
-  let widget = createWidget(img)
-  Script.setWidget(widget)
-  Script.complete()
+  let widget = createWidget(img);
+  Script.setWidget(widget);
+  Script.complete();
 } else { 	
-  let widget = createWidget(img)
-  await widget.presentMedium()
+  let widget = createWidget(img);
+  await widget.presentMedium();
 }
 
 function createWidget(img) {
 
-  const widget = new ListWidget()
-  widget.backgroundColor = Color.black()
-  widget.url = url
-  widget.backgroundImage = img 
+  const widget = new ListWidget();
+  widget.backgroundColor = Color.black();
+  widget.url = url;
+  widget.backgroundImage = img;
 
-  widget.addSpacer()
+  widget.addSpacer();
 
-  const titleText = widget.addText(camLocation)
-  titleText.font = Font.boldSystemFont(12)
-  titleText.textColor = Color.white()
-  titleText.shadowRadius = 3
-  titleText.shadowColor = Color.black()
+  const titleText = widget.addText(camLocation);
+  titleText.font = Font.boldSystemFont(12);
+  titleText.textColor = Color.white();
+  titleText.shadowRadius = 3;
+  titleText.shadowColor = Color.black();
 
-  widget.addSpacer(2)
+  widget.addSpacer(2);
 
-  const subtitleText = widget.addText(camSubtitle)
-  subtitleText.font = Font.systemFont(8)
-  subtitleText.textColor = Color.white()
-  subtitleText.textOpacity = 0.8
-  subtitleText.shadowRadius = 3
-  subtitleText.shadowColor = Color.black()
+  const subtitleText = widget.addText(camSubtitle);
+  subtitleText.font = Font.systemFont(8);
+  subtitleText.textColor = Color.white();
+  subtitleText.textOpacity = 0.8;
+  subtitleText.shadowRadius = 3;
+  subtitleText.shadowColor = Color.black();
 
   return widget
 }
