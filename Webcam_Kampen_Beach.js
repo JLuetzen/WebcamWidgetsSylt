@@ -7,11 +7,17 @@
 // Preview Cam imgURL https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg
 
 const camLocation = "Kampen Kliffende";
-const camSubtitle = "Mein Bild 1.0";
 const url = "https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab";
 const imgUrl = "https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg";
 const imgReq = await new Request(imgUrl);
 const img = await imgReq.loadImage();
+
+let actualdate = new Date();
+let lastrefresh = new DateFormatter();
+lastrefresh.useShortDateStyle();
+lastrefresh.useShortTimeStyle();
+camSubtitle = lastrefresh.string(actualdate);
+
 
 if (config.runsInWidget) {
   let widget = createWidget(img);
