@@ -7,11 +7,16 @@
 // Preview Cam imgURL "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg"
 
 const camLocation = "Kampen Hotel Rungholt";
-const camSubtitle = "Mein Bild 1.0";
 const url = "https://webtv.feratel.com/webtv/?design=v3v&cam=3150&c24=0";
 const imgUrl = "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg";
 const imgReq = await new Request(imgUrl);
 const img = await imgReq.loadImage();
+
+let actualdate = new Date();
+let lastrefresh = new DateFormatter();
+lastrefresh.useShortDateStyle();
+lastrefresh.useShortTimeStyle();
+camSubtitle = lastrefresh.string(actualdate);
 
 if (config.runsInWidget) {
   let widget = createWidget(img);
