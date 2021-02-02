@@ -9,11 +9,16 @@
 
 
 const camLocation = "Westerland Hotel Miramar";
-const camSubtitle = "Mein Bild 1.0";
 const url = "https://livestream.nordwind-ev.de/westerland-03.html";
 const imgUrl = "https://www.worldcam.pl/images/webcams/420x236/strand-sylt.jpg";
 const imgReq = await new Request(imgUrl);
 const img = await imgReq.loadImage();
+
+let actualdate = new Date();
+let lastrefresh = new DateFormatter();
+lastrefresh.useShortDateStyle();
+lastrefresh.useShortTimeStyle();
+camSubtitle = lastrefresh.string(actualdate);
 
 if (config.runsInWidget) {
   let widget = createWidget(img);
