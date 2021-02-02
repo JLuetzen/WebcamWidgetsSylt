@@ -9,11 +9,16 @@
 
 
 const camLocation = "Westerland Kurpromenade";
-const camSubtitle = "Mein Bild 1.0";
 const url = "https://player.livespotting.com/?alias=nn1xc3my&ch=LS_3f855";
 const imgUrl = "https://cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.jpg";
 const imgReq = await new Request(imgUrl);
 const img = await imgReq.loadImage();
+
+let actualdate = new Date();
+let lastrefresh = new DateFormatter();
+lastrefresh.useShortDateStyle();
+lastrefresh.useShortTimeStyle();
+camSubtitle = lastrefresh.string(actualdate);
 
 if (config.runsInWidget) {
   let widget = createWidget(img);
