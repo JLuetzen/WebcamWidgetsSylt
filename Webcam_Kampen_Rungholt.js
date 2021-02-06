@@ -2,6 +2,7 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: camera-retro;
 // Original script by Andreas Redeker <hello@andreasredeker.de>
+// https://gist.github.com/andreasRedeker/da8fdee258326af14400187c521723df
 // Enhanced by: J. Lützen <kliffkieker67@gmail.com>
 // Cam URL: https://webtv.feratel.com/webtv/?design=v3v&cam=3150&c24=0
 // Preview Cam imgURL "https://cs3.wettercomassets.com/thumbnails/variants/5afdfcba9c6a4/16x9_player.jpg"
