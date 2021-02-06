@@ -2,6 +2,7 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: camera-retro;
 // Original script by Andreas Redeker <hello@andreasredeker.de>
+// https://gist.github.com/andreasRedeker/da8fdee258326af14400187c521723df
 // Enhanced by: J. Lützen <kliffkieker67@gmail.com>
 // Cam URL  https://player.livespotting.com/?alias=nn1xc3my&ch=LS_3f855
 // Preview Cam imgURL "https://cs3.wettercomassets.com/thumbnails/variants/5c6c8bfda5b4b90f1f0a3b07/16x9_player.jpg"
