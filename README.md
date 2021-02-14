@@ -1,8 +1,10 @@
 # iPhone-Scriptable-Webcam-Widgets-Sylt
 A collection of webcam widgets with webcams from / on the famous island of Sylt for the iPhone 
+They will show you a near-time live-picture of the webcam on your homescreen.
+The livestream will start when the preview picture is tapped.
 
 These iPhone widgets are based on the original script from Andreas Redeker <hello@andreasredeker.de>; https://gist.github.com/andreasRedeker .
-Once imported in Scriptable, add a sized widget to the home screen and configure it:
-let it point to the imported script and set "when interacting" to "Open URL"
+For the sake of easier maintenance, all widget scripts including installation instructions are located here:
 
-Once you tap the widget image on the home screen, the default browser will open to the webcam's live stream
+https://gist.github.com/JLuetzen/015f1fda87289a6b0633798f3b43ad06
+
