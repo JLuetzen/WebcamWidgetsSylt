@@ -3,8 +3,6 @@ A collection of webcam widgets with webcams from / on the famous island of Sylt 
 They will show you a near-time live-picture of the webcam on your homescreen.
 The livestream will start when the preview picture is tapped.
 
-These iPhone widgets are based on the original script from Andreas Redeker <hello@andreasredeker.de>; https://gist.github.com/andreasRedeker .
-
 These widgets are available including installation instructions as gists: (links shortened)
 
 (1) iPhone Widget 6 Webcams Sylt Shuttle / Autozug Sylt at Autoverladung Niebüll and Westerland: https://bit.ly/3dj5YcN
