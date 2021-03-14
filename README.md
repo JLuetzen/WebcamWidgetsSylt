@@ -6,9 +6,10 @@ Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 Zu allem Widgets geht es hier:
 https://gist.github.com/JLuetzen
 
-Ihr findet da den Code und unten die Installations-Anleitung, ein wenig müsst Ihr noch selber machen.
-Die Links gehen zur Installationsanleitung, der Code steht darüber. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
+Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst Ihr noch selber machen.
 
+
+Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 
 (1) iPhone Widget 6 Webcams Sylt Shuttle / Autozug Sylt an der Autoverladung Niebüll & Westerland: https://bit.ly/3dj5YcN
 
