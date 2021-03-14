@@ -17,7 +17,8 @@ Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben
 
 (3) iPhone Widget 4 einzelne WebCams auf Sylt : https://bit.ly/2LS9NKA 
 
-(4) iPhone Widget 3 WebCams Syltfähre List und Havneby : https://bit.ly/3bHVm5U
+(4) iPhone Widget 3 WebCams Syltfähre List und Havneby : https://bit.ly/3eCBe7d
+
 
 Have fun and enjoy!
 
