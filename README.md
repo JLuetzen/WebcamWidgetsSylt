@@ -19,7 +19,12 @@ Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben
 
 (4) iPhone Widget 3 WebCams Syltfähre List und Havneby : https://bit.ly/3eCBe7d
 
-
 Have fun and enjoy!
 
 -JL-
+
+
+Übrigens: 
+Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt/ 
+Dickes Danke and Sven Erbeck, diese Reise geht weiter...
+
