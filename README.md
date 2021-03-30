@@ -1,5 +1,5 @@
 # iPhone-Scriptable-Webcam-Widgets-Sylt
-Hier ist eine Sammlung von iPhone Widgets, die Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt direkt auf dem Homescreen des iPhones zeigen.
+Hier ist eine Sammlung von iPhone WebCam Widgets, die Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt direkt auf dem Homescreen des iPhones zeigen.
 Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder immer aktuell. 
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
