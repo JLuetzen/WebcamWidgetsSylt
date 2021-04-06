@@ -25,7 +25,7 @@ Have fun and enjoy!
 
 
 Übrigens: 
-Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt/ 
+Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: [HIER](https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt)
 Dickes Danke and Sven Erbeck, diese Reise geht weiter...
 
 .
