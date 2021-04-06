@@ -12,19 +12,19 @@ Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Schritte erklärt. 
 
-(1) iPhone Widget 6 Webcams Sylt Shuttle / Autozug Sylt an der Autoverladung Niebüll & Westerland: [https://bit.ly/3dj5YcN](https://bit.ly/3dj5YcN)
+**(1) iPhone Widget 6 Webcams Sylt Shuttle** / Autozug Sylt an der Autoverladung Niebüll & Westerland: [https://bit.ly/3dj5YcN](https://bit.ly/3dj5YcN)
 
 ![image](https://user-images.githubusercontent.com/76537507/107881079-d8915700-6ee2-11eb-8b95-bf23f391e63e.png)
 
-(2) iPhone Widget 5 Livespotting Webcams Sylt: [https://bit.ly/3b2wrsd](https://bit.ly/3b2wrsd) 
+**(2) iPhone Widget 5 Livespotting Webcams Sylt**: [https://bit.ly/3b2wrsd](https://bit.ly/3b2wrsd) 
 
 ![image](https://user-images.githubusercontent.com/76537507/107877916-8d217d80-6ecf-11eb-96f4-81c0dec1ecd3.png)
 
-(3) iPhone Widget 4 einzelne WebCams auf Sylt : [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
+**(3) iPhone Widget 4 einzelne WebCams auf Sylt**: [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
 
 ![image](https://user-images.githubusercontent.com/76537507/107123733-7790d000-689f-11eb-826a-f930ecd28b7f.png)
 
-(4) iPhone Widget 3 WebCams Syltfähre List und Havneby : [https://bit.ly/3eCBe7d](https://bit.ly/3eCBe7d)
+**(4) iPhone Widget 3 WebCams Syltfähre List und Havneby** : [https://bit.ly/3eCBe7d](https://bit.ly/3eCBe7d)
 
 ![IMG_0339 (Bearbeitet)](https://user-images.githubusercontent.com/76537507/112061354-acf73180-8b5e-11eb-9110-c15c924b1add.jpg)
 
