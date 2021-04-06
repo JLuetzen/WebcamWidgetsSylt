@@ -14,19 +14,19 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
 
 **(1) iPhone Widget 6 Webcams Sylt Shuttle** / Autozug Sylt an der Autoverladung Niebüll & Westerland: [https://bit.ly/3dj5YcN](https://bit.ly/3dj5YcN)
 
-![image](images/Preview_SyltShuttle.png "Sylt-Shuttle")
+![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="700px" width="400px"}
 
 **(2) iPhone Widget 5 Livespotting Webcams Sylt**: [https://bit.ly/3b2wrsd](https://bit.ly/3b2wrsd) 
 
-![image](images/Perview_Livespotting.png "LiveSpotting")
+![image](images/Perview_Livespotting.png "LiveSpotting"){:height="700px" width="400px"}
 
 **(3) iPhone Widget 4 einzelne WebCams auf Sylt**: [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
 
-![image](images/Preview_Single.png "Single WebCams")
+![image](images/Preview_Single.png "Single WebCams"){:height="700px" width="400px"}
 
 **(4) iPhone Widget 3 WebCams Syltfähre List und Havneby** : [https://bit.ly/3eCBe7d](https://bit.ly/3eCBe7d)
 
-![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre")
+![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre"){:height="700px" width="400px"}
 
 Have fun and enjoy!
 
