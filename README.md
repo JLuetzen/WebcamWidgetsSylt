@@ -51,7 +51,7 @@ So weiß man bei der Anreise immer, wie viel gerade los ist und ob man unter Ums
 Gleiches gilt natürlich auch für die Abreise mit der Kombination Verladestation Westerland und Fähranleger List.
 Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
-![image](images/IMG_0447 (Bearbeitet).jpg "Anreise")
+![image](images/IMG_0447_Ostern.jpg "Anreise")
 
 Have fun and enjoy!
 
