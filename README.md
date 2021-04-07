@@ -23,7 +23,7 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
     <th>6 Webcams Sylt am Shuttle</th>
     <th>3 WebCams Syltfähre</th>
     <th>5 Livespotting Webcams Sylt</th>
-    <th>je 4 einzelne WebCams auf Sylt</th>
+    <th>Einzelene WebCams auf Sylt</th>
   </tr>
   <tr>
     <td><img alt="" border="0" src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
@@ -38,6 +38,12 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
     <td><a href="https://bit.ly/2LS9NKA">[Link zum Einrichten]</a></td>
   </tr>
 </table>
+
+Die einzelnen WebCams sind:
+* Kampen Quermarkenfeuer
+* Kampen Hotel Rungholt (Dank an Dirk Erdmann für die Unterstützung!)
+* Westerlamd Kurpromenade
+* Westerland Hotel Miramar
 
 
 Have fun and enjoy!
