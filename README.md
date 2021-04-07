@@ -4,6 +4,10 @@
 Hier ist eine Sammlung von WebCam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol. 
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
+<iframe id="player" type="text/html" width="640" height="360"
+  src="http://www.youtube.com/embed/En-h2LZYh1w?enablejsapi=1&origin=http://example.com"
+  frameborder="0"></iframe>
+
 Für alle, die nicht auf ihre Lieblings-Insel können (wie mich 😉) bietet sich hier die Gelegenheit,Live-Bilder und Streams sehr bequem anzusehen. 
 Wer aber auf die Insel reisen möchte oder sie wieder verlassen muss, der findet hier ein sehr angenehmes Angebot, sich über die Situation an den Verladestationen in Westerland oder Niebüll sowie an den Fähranlegern in List oder Havneby zu informieren.
 Das macht diese Widgets so attraktiv. 
