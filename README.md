@@ -23,7 +23,7 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
     <th>6 Webcams Sylt am Shuttle</th>
     <th>3 WebCams Syltfähre</th>
     <th>5 Livespotting Webcams Sylt</th>
-    <th>Einzelene WebCams auf Sylt</th>
+    <th>Einzelne WebCams auf Sylt</th>
   </tr>
   <tr>
     <td><img alt="" border="0" src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
