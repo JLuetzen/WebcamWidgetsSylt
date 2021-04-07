@@ -25,7 +25,7 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
     <th>6 Webcams Sylt am Shuttle</th><th>3 WebCams Syltfähre</th><th>5 Livespotting Webcams Sylt</th><th>je 4 einzelne WebCams auf Sylt</th>
   </tr>
   <tr>
-    <td>![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="400px" width="250px"}</td><td>![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre"){:height="400px" width="250px"}</td><td>![image](images/Perview_Livespotting.png "LiveSpotting"){:height="400px" width="250px"}</td><td>![image](images/Preview_Single.png "Single WebCams"){:height="400px" width="250px"}</td>
+    <td><img alt="" border="0" src="images/Preview_SyltShuttle.png" title="Sylt-Shuttle">![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="400px" width="250px"}</td><td>![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre"){:height="400px" width="250px"}</td><td>![image](images/Perview_Livespotting.png "LiveSpotting"){:height="400px" width="250px"}</td><td>![image](images/Preview_Single.png "Single WebCams"){:height="400px" width="250px"}</td>
   </tr>
   <tr>
     <td>[Link zum Einrichten](https://bit.ly/3dj5YcN)</td><td>[Link zum Einrichten](https://bit.ly/3eCBe7d)</td><td>[Link zum Einrichten](https://bit.ly/3b2wrsd)</td><td>[Link zum Einrichten](https://bit.ly/2LS9NKA) </td>
