@@ -1,3 +1,5 @@
+![image](images/IMG_0184_corrected_20210403_Banner.jpg "Banner-List-Ellenbogen"){:height="250px" width="600px"}
+
 # Webcam Widgets von Sylt für das iPhone
 Hier ist eine Sammlung von WebCam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol. 
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
