@@ -18,7 +18,7 @@ Zu allem Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst Ihr noch selber machen.
 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
-Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Schritte erklärt. 
+Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schritte erklärt. 
 
 <table>
   <tr>
