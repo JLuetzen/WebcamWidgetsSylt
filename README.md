@@ -20,6 +20,19 @@ Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Schritte erklärt. 
 
+<table>
+  <tr>
+    <th>6 Webcams Sylt am Shuttle</th><th>3 WebCams Syltfähre</th><th>5 Livespotting Webcams Sylt</th><th>je 4 einzelne WebCams auf Sylt</th>
+  </tr>
+  <tr>
+    <td>![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="400px" width="250px"}</td><td>![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre"){:height="400px" width="250px"}</td><td>![image](images/Perview_Livespotting.png "LiveSpotting"){:height="400px" width="250px"}</td><td>![image](images/Preview_Single.png "Single WebCams"){:height="400px" width="250px"}</td>
+  </tr>
+  <tr>
+    <td>[Link zum Einrichten](https://bit.ly/3dj5YcN)</td><td>[Link zum Einrichten](https://bit.ly/3eCBe7d)</td><td>[Link zum Einrichten](https://bit.ly/3b2wrsd)</td><td>[Link zum Einrichten](https://bit.ly/2LS9NKA) </td>
+  </tr>
+</table>
+
+
 **(1) iPhone Widget 6 Webcams Sylt Shuttle** / Autozug Sylt an der Autoverladung Niebüll & Westerland: [https://bit.ly/3dj5YcN](https://bit.ly/3dj5YcN)
 
 ![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="400px" width="250px"}
@@ -28,7 +41,7 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
 
 ![image](images/Perview_Livespotting.png "LiveSpotting"){:height="400px" width="250px"}
 
-**(3) iPhone Widget 4 einzelne WebCams auf Sylt**: [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
+**(3) iPhone Widget je 4 einzelne WebCams auf Sylt**: [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
 
 ![image](images/Preview_Single.png "Single WebCams"){:height="400px" width="250px"}
 
