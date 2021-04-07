@@ -48,7 +48,7 @@ Have fun and enjoy!
 Übrigens: 
 Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: [HIER](https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt)
 
-![Livespotting_Blog_Eintrag](images/livestreaming-open-source-app-sylt.jpg "livestreaming-open-source-app-sylt"){:height="200px" width="400px"}
+![Livespotting_Blog_Eintrag](images/livestreaming-open-source-app-sylt.jpg "livestreaming-open-source-app-sylt")
 
 Dickes Danke and Sven Erbeck, diese Reise geht weiter...
 
