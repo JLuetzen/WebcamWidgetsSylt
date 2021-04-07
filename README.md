@@ -1,5 +1,11 @@
-# Scriptable iPhone Webcam Widgets Sylt
-Hier ist eine Sammlung von iPhone WebCam Widgets, die Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt direkt auf dem Homescreen des iPhones zeigen.
+# Webcam Widgets von Sylt für das iPhone
+Hier ist eine Sammlung von WebCam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol. 
+Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
+
+Für alle, die nicht auf ihre Lieblings-Insel können (wie mich 😉) bietet sich hier die Gelegenheit,Live-Bilder und Streams sehr bequem anzusehen. 
+Wer aber auf die Insel reisen möchte oder sie wieder verlassen muss, der findet hier ein sehr angenehmes Angebot, sich über die Situation an den Verladestationen in Westerland oder Niebüll sowie an den Fähranlegern in List oder Havneby zu informieren.
+Das macht diese Widgets so attraktiv. 
+
 Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder immer aktuell. 
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
