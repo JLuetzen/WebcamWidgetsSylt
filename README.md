@@ -22,32 +22,25 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
 
 <table>
   <tr>
-    <th>6 Webcams Sylt am Shuttle</th><th>3 WebCams Syltfähre</th><th>5 Livespotting Webcams Sylt</th><th>je 4 einzelne WebCams auf Sylt</th>
+    <th>6 Webcams Sylt am Shuttle</th>
+    <th>3 WebCams Syltfähre</th>
+    <th>5 Livespotting Webcams Sylt</th>
+    <th>je 4 einzelne WebCams auf Sylt</th>
   </tr>
   <tr>
-    <td><img alt="" border="0" src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td><td><img alt="" border="0" src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td><td><img alt="" border="0" src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td><td><img alt="" border="0" src="images/Preview_Single.jpg" title="Single WebCams")></td>
+    <td><img alt="" border="0" src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
+    <td><img alt="" border="0" src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
+    <td><img alt="" border="0" src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
+    <td><img alt="" border="0" src="images/Preview_Single.jpg" title="Single WebCams")></td>
   </tr>
   <tr>
-    <td>[Link zum Einrichten](https://bit.ly/3dj5YcN)</td><td>[Link zum Einrichten](https://bit.ly/3eCBe7d)</td><td>[Link zum Einrichten](https://bit.ly/3b2wrsd)</td><td>[Link zum Einrichten](https://bit.ly/2LS9NKA) </td>
+    <td><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
+    <td><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
+    <td><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
+    <td><a href="https://bit.ly/2LS9NKA">[Link zum Einrichten]</a></td>
   </tr>
 </table>
 
-
-**(1) iPhone Widget 6 Webcams Sylt Shuttle** / Autozug Sylt an der Autoverladung Niebüll & Westerland: [https://bit.ly/3dj5YcN](https://bit.ly/3dj5YcN)
-
-![image](images/Preview_SyltShuttle.png "Sylt-Shuttle"){:height="400px" width="250px"}
-
-**(2) iPhone Widget 5 Livespotting Webcams Sylt**: [https://bit.ly/3b2wrsd](https://bit.ly/3b2wrsd) 
-
-![image](images/Perview_Livespotting.png "LiveSpotting"){:height="400px" width="250px"}
-
-**(3) iPhone Widget je 4 einzelne WebCams auf Sylt**: [https://bit.ly/2LS9NKA](https://bit.ly/2LS9NKA) 
-
-![image](images/Preview_Single.png "Single WebCams"){:height="400px" width="250px"}
-
-**(4) iPhone Widget 3 WebCams Syltfähre List und Havneby** : [https://bit.ly/3eCBe7d](https://bit.ly/3eCBe7d)
-
-![IMG_0339 (Bearbeitet)](images/Preview_SyltFaehre.jpg "FRS-Syltfähre"){:height="400px" width="250px"}
 
 Have fun and enjoy!
 
