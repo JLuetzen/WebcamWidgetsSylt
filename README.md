@@ -43,14 +43,16 @@ Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Sch
 
 Die einzelnen WebCams sind:
 * Kampen Quermarkenfeuer
-* Kampen Hotel Rungholt (Dank an Dirk Erdmann für die Unterstützung!)
+* Kampen Hotel Rungholt (Dank an D.E. für die Unterstützung!)
 * Westerland Kurpromenade
 * Westerland Hotel Miramar
 
 
 Richtig interessant wird es, wenn man die Bilder auf dem Homescreen kombiniert, z.B. die Bilder von der Verladestation in Niebüll mit denen vom Fähr-Anleger in Havneby.
 So weiß man bei der Anreise immer, wie viel gerade los ist und ob man unter Umständen mit Wartezeiten rechnen muss. 
+
 Gleiches gilt natürlich auch für die Abreise mit der Kombination Verladestation Westerland und Fähranleger List.
+
 Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
 ![image](images/IMG_0447_Ostern.jpg "Anreise")
