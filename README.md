@@ -11,11 +11,9 @@ Das macht diese Widgets so attraktiv.
 Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder immer aktuell. 
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
-Zu allem Widgets geht es hier:
-[https://gist.github.com/JLuetzen](https://gist.github.com/JLuetzen)
+Zu allem Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 
 Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst Ihr noch selber machen.
-
 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube--Video, das die jeweiligen Schritte erklärt. 
