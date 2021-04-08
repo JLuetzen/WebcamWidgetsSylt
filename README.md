@@ -84,7 +84,7 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 **2,99 € für die Kaffeedose**
 Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaffedose [HIER](https://paypal.me/pools/c/8wTSL0q3CO) sehr freuen. Vielen herzlichen Dank!
 
-Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: kliffkieker67@gmail.com.
+Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailo:kliffkieker67@gmail.com).
 
 
 Hashtags:
