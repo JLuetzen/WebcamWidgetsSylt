@@ -60,7 +60,7 @@ Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
 ![image](images/IMG_0447_Ostern.jpg "Anreise")
 
-Have fun and enjoy!
+Cool, oder? Now have fun and enjoy!
 
 -JL-
 
