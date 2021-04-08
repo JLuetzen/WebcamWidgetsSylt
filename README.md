@@ -85,4 +85,4 @@ Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
-Bei Fragen oder Problemen: kliffkieker67@gmail.com
+Bei Fragen oder Problemen: kliffkieker67@gmail.com.
