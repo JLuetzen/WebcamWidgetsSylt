@@ -49,6 +49,7 @@ Die einzelnen WebCams sind:
 * Westerland Kurpromenade
 * Westerland Hotel Miramar
 
+------------------------------------------------
 
 Richtig interessant wird es, wenn man die Bilder auf dem Homescreen kombiniert, z.B. die Bilder von der Verladestation in Niebüll mit denen vom Fähr-Anleger in Havneby.
 So weiß man bei der Anreise immer, wie viel gerade los ist und ob man unter Umständen mit Wartezeiten rechnen muss. 
@@ -63,6 +64,7 @@ Have fun and enjoy!
 
 -JL-
 
+------------------------------------------------
 
 Übrigens: 
 Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: [HIER](https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt)
