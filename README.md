@@ -22,6 +22,7 @@ Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schritte erklärt. 
 
+<pre>
 <table>
   <tr>
     <th>6 Webcams Sylt am Shuttle</th>
@@ -42,6 +43,7 @@ Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schr
     <td><a href="https://bit.ly/2LS9NKA">[Link zum Einrichten]</a></td>
   </tr>
 </table>
+</pre>
 
 Die einzelnen WebCams sind:
 * Kampen Quermarkenfeuer
