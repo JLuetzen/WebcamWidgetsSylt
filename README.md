@@ -76,11 +76,11 @@ Dickes Danke an Sven Erbeck, diese Reise geht weiter...
 
 ------------------------------------------------
 
-> Danke an:
-> Sabine
-> Sver Erbeck, Livespotting.com
-> D. Erdmann, Hotel Rungholt, Kampen
-> C. Kochanek, C-A Ferienwohnugn Sylt, Westerland
+Danke an:
+* Sabine
+* Sven Erbeck, Livespotting.com
+* D. Erdmann, Hotel Rungholt, Kampen
+* C. Kochanek, C-A Ferienwohnung Sylt, Westerland
  
 
 Hashtags:
