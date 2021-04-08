@@ -84,3 +84,5 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
+
+Bei Fragen oder Problemen: kliffkieker67@gmail.com
