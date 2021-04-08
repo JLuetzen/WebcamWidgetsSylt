@@ -22,7 +22,6 @@ Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schritte erklärt. 
 
-<pre>
 <table>
   <tr>
     <th>6 Webcams Sylt am Shuttle</th>
@@ -43,10 +42,9 @@ Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schr
     <td><a href="https://bit.ly/2LS9NKA">[Link zum Einrichten]</a></td>
   </tr>
 </table>
-</pre>
 
 Die einzelnen WebCams sind:
-* Kampen Quermarkenfeuer
+* Kampen Quermarkenfeuer (2021.04: kein Video)
 * Kampen Hotel Rungholt (Dank an D.E. für die Unterstützung!)
 * Westerland Kurpromenade
 * Westerland Hotel Miramar
@@ -73,6 +71,18 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 ![Livespotting_Blog_Eintrag](images/livestreaming-open-source-app-sylt.jpg "livestreaming-open-source-app-sylt")
 
-Dickes Danke and Sven Erbeck, diese Reise geht weiter...
+Dickes Danke an Sven Erbeck, diese Reise geht weiter...
 
-.
+
+------------------------------------------------
+
+> Danke an:
+> Sabine
+> Sver Erbeck, Livespotting.com
+> D. Erdmann, Hotel Rungholt, Kampen
+> C. Kochanek, C-A Ferienwohnugn Sylt, Westerland
+ 
+
+Hashtags:
+#sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
+#webcamwidgets #webcamwidgetssylt
