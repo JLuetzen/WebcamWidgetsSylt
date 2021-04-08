@@ -45,7 +45,7 @@ Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schr
 
 Die einzelnen WebCams sind:
 * Kampen Quermarkenfeuer (2021.04: kein Video)
-* Kampen Hotel Rungholt (Dank an D.E. für die Unterstützung!)
+* Kampen Hotel Rungholt
 * Westerland Kurpromenade
 * Westerland Hotel Miramar
 
