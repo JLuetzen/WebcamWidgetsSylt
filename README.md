@@ -88,10 +88,9 @@ Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaf
 
 Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailto:kliffkieker67@gmail.com).
 
+![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
 ------------------------------------------------
 Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
-
-![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
