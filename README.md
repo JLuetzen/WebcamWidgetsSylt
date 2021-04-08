@@ -65,7 +65,6 @@ Cool, oder? Now have fun and enjoy!
 -JL-
 
 ------------------------------------------------
-
 Übrigens: 
 Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht: [HIER](https://livespotting.com/blog/ios-widget-fuer-livespotting-webcams-sylt)
 
@@ -73,14 +72,13 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 
 ------------------------------------------------
-
 **Danke an**
 - Sabine
 - S. Erbeck, [Livespotting.com](https://livespotting.com)
 - D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
  
-
+------------------------------------------------
 **2,99 € für die Kaffeedose**
 
 
