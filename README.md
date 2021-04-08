@@ -15,7 +15,7 @@ Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
 ------------------------------------------------
 
-Zu allem Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
+Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 
 Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst Ihr noch selber machen.
 
