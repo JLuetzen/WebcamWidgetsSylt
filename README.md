@@ -74,12 +74,11 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 ------------------------------------------------
 
-Danke an:
--------------------------
-* Sabine
-* S. Erbeck, [Livespotting.com](https://livespotting.com)
-* D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
-* C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
+**Danke an**
+- Sabine
+- S. Erbeck, [Livespotting.com](https://livespotting.com)
+- D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
+- C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
  
 
 Hashtags:
