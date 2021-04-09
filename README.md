@@ -93,6 +93,5 @@ Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
-<div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
