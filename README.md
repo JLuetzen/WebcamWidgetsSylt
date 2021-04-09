@@ -87,6 +87,7 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 
 Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaffedose [HIER](https://paypal.me/pools/c/8wTSL0q3CO) sehr freuen. Vielen herzlichen Dank!
+
 Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailto:kliffkieker67@gmail.com).
 
 ------------------------------------------------
