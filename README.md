@@ -1,3 +1,6 @@
+---
+youtubeId: En-h2LZYh1w
+---
 ![image](images/IMG_0184_corrected_20210403_Banner.jpg "Banner-List-Ellenbogen")
 
 # Webcam Widgets von Sylt für das iPhone
@@ -6,7 +9,7 @@ Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
 Wie das genau auf dem Smartphone aussieht, zeigen [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video und [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video für die WebCams vom Sylt-Shuttle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/En-h2LZYh1w" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include YT-Player_Demo.html id=page.youtubeId %}
 
 Für alle, die nicht auf ihre Lieblings-Insel können (wie ich 😉) bietet sich somit hier die Gelegenheit, Live-Bilder und Streams sehr bequem anzusehen. 
 Wer aber auf die Insel reisen möchte oder sie wieder verlassen muss, der findet hier ein sehr angenehmes Angebot, sich über die Situation an den Verladestationen in Westerland oder Niebüll sowie an den Fähranlegern in List oder Havneby zu informieren.
