@@ -34,7 +34,7 @@ Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst 
 Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
 Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schritte erklärt. 
 
-<table align="center">
+<table class="center">
   <tr>
     <th>6 Webcams Autozug Sylt-Shuttle</th>
     <th>3 WebCams Syltfähre</th>
