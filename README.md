@@ -40,10 +40,10 @@ Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schr
     <th>Einzelne WebCams auf Sylt</th>
   </tr>
   <tr>
-    <td><img alt="" border="0" src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
-    <td><img alt="" border="0" src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
-    <td><img alt="" border="0" src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
-    <td><img alt="" border="0" src="images/Preview_Single.jpg" title="Single WebCams"></td>
+    <td><src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
+    <td><src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
+    <td><src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
+    <td><src="images/Preview_Single.jpg" title="Single WebCams"></td>
   </tr>
   <tr>
     <td><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
