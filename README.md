@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="stylesheet.css">  
+
 ![image](images/IMG_0184_corrected_20210403_Banner.jpg "Banner-List-Ellenbogen")
 
 # Webcam Widgets von Sylt für das iPhone
