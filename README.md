@@ -10,7 +10,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: https://youtu.be/
 
 {% include youtubePlayer.html id="YtO87t9DvtA" %}
 
-Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
+Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und vom Sylt-Shuttle [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
 
 <br>  
 Für alle, die nicht auf ihre Lieblings-Insel können (wie ich 😉) bietet sich somit hier die Gelegenheit, Live-Bilder und Streams sehr bequem anzusehen. 
