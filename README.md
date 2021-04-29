@@ -6,16 +6,11 @@
 Hier ist eine Sammlung von WebCam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol. 
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
-Wie das genau auf dem Smartphone aussieht, zeigen [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video 
+Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: https://youtu.be/YtO87t9DvtA
 
-{% include youtubePlayer.html id="En-h2LZYh1w" %}
+{% include youtubePlayer.html id="YtO87t9DvtA" %}
 
-<br> 
-und [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video für die WebCams vom Sylt-Shuttle
-
-<br>  
-
-{% include youtubePlayer.html id="okgi-ZKg_PY" %}
+Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
 
 <br>  
 Für alle, die nicht auf ihre Lieblings-Insel können (wie ich 😉) bietet sich somit hier die Gelegenheit, Live-Bilder und Streams sehr bequem anzusehen. 
@@ -103,6 +98,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
 - S. Erbeck, [Livespotting.com](https://livespotting.com)
 - H.-J. Rotter, [feratel media Technologies GmbH](https://www.feratel.com/)
+- M. Franzen, Sylt-Tourismus-Service, [www.insel-sylt.de](www.insel-sylt.de)
 
 ------------------------------------------------
 Hashtags:
