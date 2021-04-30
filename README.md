@@ -54,7 +54,7 @@ Die einzelnen WebCams sind:
 * Kampen Quermarkenfeuer 
 * Kampen Hotel Rungholt
 * Westerland Kurpromenade
-* Westerland Surfcam Sylt 
+* Westerland Surfcam-Sylt 
 
 ------------------------------------------------
 
