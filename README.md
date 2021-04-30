@@ -54,7 +54,7 @@ Die einzelnen WebCams sind:
 * Kampen Quermarkenfeuer 
 * Kampen Hotel Rungholt
 * Westerland Kurpromenade
-* Westerland Hotel Miramar
+* Westerland Surfcam Sylt 
 
 ------------------------------------------------
 
@@ -99,6 +99,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 - S. Erbeck, [Livespotting.com](https://livespotting.com)
 - H.-J. Rotter, [feratel media Technologies GmbH](https://www.feratel.com/)
 - M. Franzen, Sylt-Tourismus-Service, [www.insel-sylt.de](www.insel-sylt.de)
+- M. Hoppe, [www.nordwind-ev.de](www.nordwind-ev.de)
 
 ------------------------------------------------
 Hashtags:
