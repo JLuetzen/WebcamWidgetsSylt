@@ -24,10 +24,10 @@ Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
 Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 
-Ihr findet da alles, den Code und die Installations-Anleitung. Ein wenig müsst Ihr noch selber machen.
-
-Die Links hier unten führen Euch zur Installationsanleitung, zum Code nach oben scrollen. Markiert den Code von unten nach oben und lasst kein Zeichen aus.
-Zu jedem Installationsschritt gibt es ein YouTube-Video, das die jeweiligen Schritte erklärt. 
+Ihr findet da alles, den Code und die Installations-Anleitung in Text und als YouTube-Video. Ein wenig müsst Ihr noch selber machen.
+Das erste Video erklärt, wie das Widget-Script von Github nach Scriptable gebracht wird: https://youtu.be/tRHFpwIr_l0
+das zweite Video stellt dar, wie dann das Widget eingerichtet wird https://youtu.be/tRHFpwIr_l0 .
+Ihr werdet sehen, das ist sehr einfach.
 
 <table class="center">
   <tr>
