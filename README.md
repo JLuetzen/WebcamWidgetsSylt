@@ -33,28 +33,20 @@ Ihr werdet sehen, das ist alles sehr einfach.
   <tr>
     <th>6 Webcams Autozug Sylt-Shuttle</th>
     <th>3 WebCams Syltfähre</th>
-    <th>5 Livespotting Webcams Sylt</th>
-    <th>Einzelne WebCams auf Sylt</th>
+    <th>7 Webcams Livespotting und andere Sylt</th>
   </tr>
   <tr>
     <td><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
     <td><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
     <td><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
-    <td><img src="images/Preview_Single.jpg" title="Single WebCams"></td>
   </tr>
   <tr>
     <td><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
     <td><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
     <td><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
-    <td><a href="https://bit.ly/2LS9NKA">[Link zum Einrichten]</a></td>
   </tr>
 </table>
 
-Die einzelnen WebCams sind:
-* Kampen Quermarkenfeuer 
-* Kampen Hotel Rungholt
-* Westerland Kurpromenade
-* Westerland Surfcam-Sylt 
 
 ------------------------------------------------
 
