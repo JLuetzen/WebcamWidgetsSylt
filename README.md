@@ -31,8 +31,8 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 <table class="center">
   <tr>
-    <th>6 Webcams Autozug Sylt-Shuttle</th>
-    <th>3 WebCams Syltfähre</th>
+    <th>6 Webcams Autozug Sylt-Shuttle           </th>
+    <th>3 WebCams Syltfähre                      </th>
     <th>7 Webcams Livespotting und andere vonSylt</th>
   </tr>
   <tr>
@@ -41,9 +41,9 @@ Ihr werdet sehen, das ist alles sehr einfach.
     <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
   </tr>
   <tr>
-    <td style = "text-align: center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
-    <td style = "text-align: center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
-    <td style = "text-align: center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
+    <td text align="center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
+    <td text align="center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
+    <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
   </tr>
 </table>
 
