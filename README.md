@@ -31,9 +31,9 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 <table class="center">
   <tr>
-    <th>6 Webcams Autozug Sylt-Shuttle</th>
-    <th>3 WebCams Syltfähre</th>
-    <th>7 Webcams Livespotting & andere vonSylt</th>
+    <th>.  6 Webcams Autozug Sylt-Shuttle</th>
+    <th>.    3 WebCams Syltfähre</th>
+    <th>7 Webcams Livespotting & andere von Sylt</th>
   </tr>
   <tr>
     <td text align="center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
