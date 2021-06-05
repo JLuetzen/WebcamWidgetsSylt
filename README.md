@@ -36,9 +36,9 @@ Ihr werdet sehen, das ist alles sehr einfach.
     <th>7 Webcams Livespotting und andere vonSylt</th>
   </tr>
   <tr>
-    <td><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
-    <td><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
-    <td><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
+    <td style = "text-align: center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
+    <td style = "text-align: center"> <img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
+    <td style = "text-align: center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
   </tr>
   <tr>
     <td style = "text-align: center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
