@@ -37,7 +37,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
   </tr>
   <tr>
     <td text align="center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
-    <td text align="center"> <img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
+    <td text align="center"><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
     <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
   </tr>
   <tr>
@@ -58,6 +58,16 @@ Gleiches gilt natürlich auch für die Abreise mit der Kombination Verladestatio
 Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
 ![image](images/IMG_0447_Ostern.jpg "Anreise")
+
+Hier noch ein paar Impressionen, wie man sich die Widgets einrichten kann:
+
+<table class="center">
+  <tr>
+    <td text align="center"><img src="images/IMG_1070.jpeg" title="Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/IMG_1075.jpeg" title="FRS-Syltfähre"></td>
+    <td text align="center"><img src="images/IMG_1076.jpeg" title="Livespotting & andere"></td>
+  </tr>
+</table>
 
 Cool, oder? Now have fun and enjoy!
 
