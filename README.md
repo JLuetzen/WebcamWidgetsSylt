@@ -41,6 +41,25 @@ Ihr werdet sehen, das ist alles sehr einfach.
     <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
   </tr>
   <tr>
+    <td text align="left">
+        3 Webcams Autoverladung Niebüll<br>
+        3 Webcams Autoverladung Westerland
+    </td>
+    <td text align="left">
+      1 Webcam Fähranlege Havneby/Röm<br>
+      2 Webcam Fähranleger List auf Sylt
+    </td>
+    <td text align="left">
+      Westerland Kurpromenade - Livespotting
+      Surfcam Sylt - Verein Nordwind e.V.
+      Hörnum Lighthouse - Livespotting
+      Kampen Quermarkenfeuer - Livespotting
+      Kampen Hotel Rungholt - Feratel
+      Rantum Beach - Livespotting
+      Sansibar Beach - Livespotting
+    </td>
+  </tr>
+  <tr>
     <td text align="center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
     <td text align="center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
     <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
