@@ -91,6 +91,12 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ------------------------------------------------
 
+**Surfen auf dem Brombachsee
+
+Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widget zu dieser Cam findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) 
+
+------------------------------------------------
+
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
 ------------------------------------------------
