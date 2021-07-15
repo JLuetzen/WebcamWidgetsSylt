@@ -93,7 +93,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 **Es gibt Aufkleber....**
 
-![IMG_1201](https://user-images.githubusercontent.com/76537507/125810540-70ed9f4b-1cdf-42a0-a139-68c5109869f9.JPG)
+![IMG_1201](https://user-images.githubusercontent.com/76537507/125841732-abbe21f9-e217-468b-bb2c-3e53c7b50514.jpeg)
 
 Ich gebe diese Aufkleber weg für unschlagbare 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
 Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie.
