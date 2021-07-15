@@ -1,5 +1,4 @@
-![IMG_1201](https://user-images.githubusercontent.com/76537507/125843769-fac0b5eb-b575-4241-9a22-788fe48d9bff.jpeg)
-![IMG_1201](https://user-images.githubusercontent.com/76537507/125843800-99650e1b-0d9b-4e4c-8e65-6964d2e723d6.jpeg)
+
 <link rel="stylesheet" type="text/css" href="stylesheet.css">  
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
