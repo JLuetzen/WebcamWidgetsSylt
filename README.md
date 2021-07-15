@@ -83,7 +83,7 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 ------------------------------------------------
 
-# 2,99 € für die Kaffeedose**
+### 2,99 € für die Kaffeedose
 
 
 Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaffedose [HIER](https://paypal.me/pools/c/8wTSL0q3CO) sehr freuen. Vielen herzlichen Dank!
@@ -92,7 +92,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ------------------------------------------------
 
-# Es gibt Aufkleber....**
+### Es gibt Aufkleber....
 
 ![IMG_1201](https://user-images.githubusercontent.com/76537507/125841732-abbe21f9-e217-468b-bb2c-3e53c7b50514.jpeg)
 
@@ -105,7 +105,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ------------------------------------------------
 
-# Surfen auf dem Brombachsee**
+### Surfen auf dem Brombachsee
 
 Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widget zu dieser Cam findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) 
 
@@ -115,7 +115,7 @@ Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widge
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
 ------------------------------------------------
-# Danke an**
+### Danke an
 - Sabine
 - D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
@@ -125,7 +125,7 @@ Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widge
 - M. Hoppe, [www.nordwind-ev.de](www.nordwind-ev.de)
 
 ------------------------------------------------
-## Hashtags:
+#### Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
