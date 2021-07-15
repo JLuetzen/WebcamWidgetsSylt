@@ -91,6 +91,15 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ------------------------------------------------
 
+**Es gibt Aufkleber....**
+
+![IMG_1201](https://user-images.githubusercontent.com/76537507/125810540-70ed9f4b-1cdf-42a0-a139-68c5109869f9.JPG)
+
+Ich gebe diese Aufkleber weg für unschlagbare 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
+Versand erfolgt allerdings nur innerhalb Deutschlands
+
+------------------------------------------------
+
 **Surfen auf dem Brombachsee**
 
 Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widget zu dieser Cam findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) 
