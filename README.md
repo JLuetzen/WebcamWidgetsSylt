@@ -1,3 +1,5 @@
+![IMG_1201](https://user-images.githubusercontent.com/76537507/125843769-fac0b5eb-b575-4241-9a22-788fe48d9bff.jpeg)
+![IMG_1201](https://user-images.githubusercontent.com/76537507/125843800-99650e1b-0d9b-4e4c-8e65-6964d2e723d6.jpeg)
 <link rel="stylesheet" type="text/css" href="stylesheet.css">  
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
@@ -94,7 +96,8 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ### Es gibt Aufkleber....
 
-![IMG_1201](https://user-images.githubusercontent.com/76537507/125841732-abbe21f9-e217-468b-bb2c-3e53c7b50514.jpeg)
+![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)
+
 
 Ich gebe diese Aufkleber weg für unschlagbare 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
 
