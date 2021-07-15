@@ -31,19 +31,20 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 <table class="center">
   <tr>
+    <th>7 Webcams Livespotting & andere von Sylt</th>
     <th>6 Webcams Autozug Sylt-Shuttle</th>
     <th>3 WebCams Syltfähre</th>
-    <th>7 Webcams Livespotting & andere von Sylt</th>
   </tr>
   <tr>
+    <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
     <td text align="center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
     <td text align="center"><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
-    <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
+
   </tr>
   <tr>
+    <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
     <td text align="center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
     <td text align="center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
-    <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
   </tr>
 </table>
 
@@ -124,7 +125,7 @@ Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widge
 - M. Hoppe, [www.nordwind-ev.de](www.nordwind-ev.de)
 
 ------------------------------------------------
-Hashtags:
+## Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
