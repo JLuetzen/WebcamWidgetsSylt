@@ -107,9 +107,16 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ------------------------------------------------
 
-### Surfen auf dem Brombachsee
+### Surfen auf dem Brombachsee oder dem Altmühlsee
 
-Auch am Brombachsee gibt es eine Webcam, die von Surfern genutzt wird. Das Widget zu dieser Cam findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) 
+Auch am Brombachsee und am Altmühlsee gibt es Webcams, die von Surfern genutzt wird. Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) 
+
+
+------------------------------------------------
+
+### "Das will ich auch..."
+
+Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich Euch Widgets schreiben soll, dann meldet Euch gerne per Mail bei mir. 
 
 
 ------------------------------------------------
