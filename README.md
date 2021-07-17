@@ -1,5 +1,6 @@
 
-<link rel="stylesheet" type="text/css" href="stylesheet.css">  
+<link rel="stylesheet" type="text/css" href="stylesheet.css"> 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
