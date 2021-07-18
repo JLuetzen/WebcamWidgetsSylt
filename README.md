@@ -1,7 +1,13 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
-<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.png?">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!--- <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.png?"> --->
+
 </head>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
