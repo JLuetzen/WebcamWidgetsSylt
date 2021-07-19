@@ -102,7 +102,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ------------------------------------------------
 
-### Es gibt Aufkleber....
+### Aufkleber....
 
 ![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)
 
@@ -116,9 +116,9 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ------------------------------------------------
 
-### Surfen auf dem Brombachsee oder dem Altmühlsee
+### Surfcams Bayern
 
-Auch am Brombachsee und am Altmühlsee gibt es Webcams, die von Surfern genutzt werden. Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f)
+Auch am Brombachsee, Altmühlsee und am Chiemsee gibt es Webcams, die von Surfern genutzt werden. Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f)
 
 
 ------------------------------------------------
