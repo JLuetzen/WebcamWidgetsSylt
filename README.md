@@ -118,7 +118,19 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ### Surfcams Bayern
 
-Auch am Brombachsee, Altmühlsee und am Chiemsee gibt es Webcams, die von Surfern genutzt werden. Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f)
+Auch an den Bayrischen Seen gibt es Webcams, die von Surfern genutzt werden. 
+Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f), bitte da den Hinweis beachten.
+
+Diese Seen sind eingebunden:
+* Brombachsee
+* Altmühlsee
+* Chiemsee
+* Ammersee
+* Walchensee
+* Kochelsee
+* Starnbergersee
+* Tegernsee
+* Gardasee
 
 
 ------------------------------------------------
