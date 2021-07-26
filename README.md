@@ -118,7 +118,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ### Surfcams Bayern
 
-Auch an den Bayrischen Seen gibt es Webcams, die von Surfern genutzt werden. 
+Auch an den Bayrischen Seen gibt es Webcams, die von Surfern genutzt werden.
 Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f), bitte da den Hinweis beachten.
 
 Diese Seen sind eingebunden:
@@ -152,7 +152,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - S. Erbeck, [Livespotting.com](https://livespotting.com)
 - H.-J. Rotter, [feratel media Technologies GmbH](https://www.feratel.com/)
 - M. Franzen, P. Villwock, Insel Sylt Tourismus-Service, [www.insel-sylt.de](https://www.insel-sylt.de)
-- M. Hoppe, [www.nordwind-ev.de](www.nordwind-ev.de)
+- M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
 
 ------------------------------------------------
 #### Hashtags:
