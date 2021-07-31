@@ -135,6 +135,22 @@ Diese Seen sind eingebunden:
 
 ------------------------------------------------
 
+### CSML-Edition
+
+Webcams im Norden... [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zu finden
+
+Diese Webcams sind eingebunden:
+* Sankt Peter-Ording, Badestelle Ording
+* Sankt Peter-Ording, Erlebnispromenade
+* Sankt Peter-Ording, Küstenpanorama
+* Büsum I
+* Büsum II
+* Büsum Deichhausen
+* Greetsiel (derzeit offline)
+
+
+------------------------------------------------
+
 ### "Das will ich auch..."
 
 Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich Euch Widgets schreiben soll, dann meldet Euch gerne per Mail bei mir.
