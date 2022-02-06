@@ -181,7 +181,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
 ------------------------------------------------
 ##### 2022-02-06
-Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden.
+Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden, es ist [Hier](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) zu finden.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
