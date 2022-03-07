@@ -98,6 +98,8 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 
 Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaffedose [HIER](https://paypal.me/jensluetzen) sehr freuen. Vielen herzlichen Dank!
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="8gy54qdgqyq" data-color="#5F7FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailto:kliffkieker67@gmail.com).
 
 ------------------------------------------------
