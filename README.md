@@ -103,7 +103,7 @@ Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaf
 --->
 
 
-<a href="https://www.buymeacoffee.com/8gy54qdgqyq/e/61153" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/8gy54qdgqyq/e/61153" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailto:kliffkieker67@gmail.com).
