@@ -2,4 +2,4 @@
 2;Kampen Quermarkenfeuer;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab
 3;Surfcam Sylt;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
 4;Walchensee;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg
-5;Chiemsee Prienavera;"https://www.terra-hd.de/prienavera/" + stream_date_time + ".jpg";https://www.terra-hd.de/prienavera/
+5;Chiemsee Prienavera;https://www.terra-hd.de/prienavera/+ stream_date_time +.jpg;https://www.terra-hd.de/prienavera/
