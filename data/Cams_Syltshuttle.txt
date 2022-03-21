@@ -1,0 +1,6 @@
+1;Autoverladung Niebüll;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg
+2;Autoverladung Niebüll;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_2.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_2.jpg
+3;Autoverladung Niebüll;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg
+4;Autoverladung WESTERLAND;https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg;https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg
+5;Autoverladung WESTERLAND;https://paw14.de/WebCam_Voss_Papierhaus_Richtung_Sky/Voss2.jpg;https://paw14.de/WebCam_Voss_Papierhaus_Richtung_Sky/Voss2.jpg
+6;Autoverladung WESTERLAND;https://sylter-freizeit-team.de/webcamWE.jpg;https://sylter-freizeit-team.de/webcamWE.jpg
