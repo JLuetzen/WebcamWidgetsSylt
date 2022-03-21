@@ -3,7 +3,7 @@
 3;Chiemsee Übersee;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/+ stream_date_time +_lt.jpg
 4;Ammersee;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/ammersee/+ stream_date_time +_lt.jpg
 5;Walchensee;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg
-6;Kochelsee;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/+ stream_date_time +.mp4
+6;Kochelsee;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/+ stream_date_time +_lt.jpg
 7;Starnbergersee;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/+ stream_date_time +.mp4
 8;Tegernsee;https://www.foto-webcam.org/webcam/tegernseewest/+ stream_date_time +_lm.jpg;https://www.foto-webcam.org/webcam/tegernseewest/+ stream_date_time +_lm.jpg
 9;Gardasee, Malcesine;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/gardasee/+ stream_date_time +.mp4
