@@ -1,4 +1,4 @@
-1;Brombachsee;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/+ stream_date_time +.mp4
+1;Brombachsee;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/+ stream_date_time +_lm.jpg
 2;Altmühlsee;https://timeshift.odn.de/cam-seenland-01/live.jpg;https://timeshift.odn.de/cam-seenland-01/live.jpg
 3;Chiemsee;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/+ stream_date_time +.mp4
 4;Ammersee;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/ammersee/+ stream_date_time +_lm.jpg
