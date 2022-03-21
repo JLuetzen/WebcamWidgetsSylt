@@ -9,3 +9,4 @@
 9;Gardasee, Malcesine;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/gardasee/+ stream_date_time +.mp4
 10;Chiemsee Prienavera;https://www.terra-hd.de/prienavera/+ stream_date_time +.jpg;https://www.terra-hd.de/prienavera/
 11;Tegernsee Wallberg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg
+12;Tegernsee Sonnenbichl;https://www.foto-webcam.eu/webcam/sonnenbichl/current/640.jpg;https://www.foto-webcam.eu/webcam/sonnenbichl/+ stream_date_time +_hd.jpg
