@@ -1,11 +1,11 @@
 1;Brombachsee;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/full.jpg
 2;Altmühlsee;https://timeshift.odn.de/cam-seenland-01/live.jpg;https://timeshift.odn.de/cam-seenland-01/live.jpg
 3;Chiemsee Übersee;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/full.jpg
-4;Ammersee;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/full.jpg
-5;Walchensee;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/full.jpg
-6;Kochelsee;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/full.jpg
-7;Starnbergersee Ammerland;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/current/full.jpg
-8;Gardasee, Malcesine;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/full.jpg
-9;Chiemsee Prienavera;https://www.terra-hd.de/prienavera/img/current/400.jpg;https://www.terra-hd.de/prienavera/img/current/1920.jpg
-10;Tegernsee Wallberg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg
-11;Tegernsee Sonnenbichl;https://www.foto-webcam.eu/webcam/sonnenbichl/current/400.jpg;https://www.foto-webcam.eu/webcam/sonnenbichl/current/1920.jpg
+4;Chiemsee Prienavera;https://www.terra-hd.de/prienavera/img/current/400.jpg;https://www.terra-hd.de/prienavera/img/current/1920.jpg
+5;Tegernsee Wallberg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg
+6;Tegernsee Sonnenbichl;https://www.foto-webcam.eu/webcam/sonnenbichl/current/400.jpg;https://www.foto-webcam.eu/webcam/sonnenbichl/current/1920.jpg
+7;Ammersee;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/ammersee/current/full.jpg
+8;Walchensee;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/full.jpg
+9;Kochelsee;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/kochelsee/current/full.jpg
+10;Starnbergersee Ammerland;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/starnbergersee/current/full.jpg
+11;Gardasee, Malcesine;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/gardasee/current/full.jpg
