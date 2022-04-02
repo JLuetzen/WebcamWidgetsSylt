@@ -1,4 +1,4 @@
-1;Brombachsee;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/512.jpg
+1;Brombachsee;49.133940;10.959700;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/512.jpg
 2;Kampen Quermarkenfeuer;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab
 3;Surfcam Sylt;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
 4;Walchensee;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg
