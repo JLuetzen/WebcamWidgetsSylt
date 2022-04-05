@@ -2,5 +2,5 @@ Brombachsee Foto;https://www.addicted-sports.com;49.133940;10.959700;;https://ww
 Brombachsee;https://www.addicted-sports.com;49.133940;10.959700;streamvideo;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/
 Kampen Quermarkenfeuer;https://www.kampen.de/;;;;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab
 Surfcam Sylt;https://surfcam-sylt.de;;;;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
-Walchensee;https://www.addicted-sports.com;;;streamvideo;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg
+Walchensee;https://www.addicted-sports.com;;;streamvideo;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/webcam/walchensee/urfeld/
 Chiemsee Prienavera;https://www.prienavera.de;;;;https://www.terra-hd.de/prienavera/img/current/400.jpg;https://www.terra-hd.de/prienavera/
