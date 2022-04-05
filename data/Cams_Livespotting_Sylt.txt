@@ -1,7 +1,7 @@
-1;Westerland Kurpromendade;https://cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_3f855
-2;Surfcam Sylt - Westerland;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
-3;Hörnum;https://cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.jpg;https://player.livespotting.tv/jwp.html?alias=PS_9c086
-4;Kampen Quermarkenfeuer;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab
-5;Kampen Hotel Rungholt;http://wtvpict.feratel.com/picture/37/3150.jpeg?design=noxdesign&dcsdesign=WTP_partner;http://webtv.feratel.com/webtv/?design=v4&cam=3150&pg=5EB12424-7C2D-428A-BEFF-0C9140CD772F
-6;Rantum;https://cdn.livespotting.com/vpu/4b7r3v86/3phv8zc6.jpg;https://player.livespotting.tv/jwp.html?alias=PS_f9931&ch=LS_8ae47
-7;Sansibar;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz
+Westerland Kurpromendade;https://www.insel-sylt.de/;54.909833;8.299280;;https://cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_3f855
+Surfcam Sylt - Westerland;https://surfcam-sylt.de;54.90752281054138;8.29862747832145;;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
+Hörnum;https://www.insel-sylt.de/;54.75467236852279;8.292296027861138;;https://cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.jpg;https://player.livespotting.tv/jwp.html?alias=PS_9c086
+Kampen Quermarkenfeuer;https://www.kampen.de;54.96674643238445;8.338308210235626;;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab
+Kampen Hotel Rungholt;https://hotel-rungholt.de/;54.95702061945808;8.332784329534084;;http://wtvpict.feratel.com/picture/37/3150.jpeg?design=noxdesign&dcsdesign=WTP_partner;http://webtv.feratel.com/webtv/?design=v4&cam=3150&pg=5EB12424-7C2D-428A-BEFF-0C9140CD772F
+Rantum;https://www.insel-sylt.de/;;;;https://cdn.livespotting.com/vpu/4b7r3v86/3phv8zc6.jpg;https://player.livespotting.tv/jwp.html?alias=PS_f9931&ch=LS_8ae47
+Sansibar;https://livespotting.tv/;54.81466340907194;8.285084670384071;;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz
