@@ -4,4 +4,4 @@ Kampen Quermarkenfeuer;https://www.kampen.de;;;https://cdn.livespotting.com/vpu/
 Surfcam Sylt;https://surfcam-sylt.de;;;https://surfcam-sylt.de/preview.jpg;https://surfcam-sylt.de/
 Walchensee;https://www.addicted-sports.com;;;https://www.addicted-sports.com/fileadmin/webcam/walchensee/current/400.jpg;https://www.addicted-sports.com/webcam/walchensee/urfeld/
 Chiemsee Prienavera;https://www.prienavera.de;;;https://www.terra-hd.de/prienavera/img/current/400.jpg;https://www.terra-hd.de/prienavera/
-Kampen Golfclub Sylt;https://www.golfclubsylt.de/;54.942142;8.336588;https://www.golfclubsylt.de/;https://www.golfclubsylt.de/
+Kampen Golfclub Sylt;https://www.golfclubsylt.de;54.942142;8.336588;https://www.golfclubsylt.de/;https://www.golfclubsylt.de/
