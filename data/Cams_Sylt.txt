@@ -5,3 +5,4 @@ Kampen Quermarkenfeuer;https://www.kampen.de;54.96674643238445;8.338308210235626
 Kampen Hotel Rungholt;https://hotel-rungholt.de/;54.95702061945808;8.332784329534084;http://wtvpict.feratel.com/picture/37/3150.jpeg?design=noxdesign&dcsdesign=WTP_partner;http://webtv.feratel.com/webtv/?design=v4&cam=3150&pg=5EB12424-7C2D-428A-BEFF-0C9140CD772F
 Rantum;https://www.insel-sylt.de/;54.84841039611982;8.287760832809381;https://cdn.livespotting.com/vpu/4b7r3v86/3phv8zc6.jpg;https://player.livespotting.tv/jwp.html?alias=PS_f9931&ch=LS_8ae47
 Sansibar;https://livespotting.tv/;54.81466340907194;8.285084670384071;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz
+Kampen Golfclub Sylt;https://www.golfclubsylt.de;54.942142;8.336588;https://www.golfclubsylt.de;https://www.golfclubsylt.de/webcam.html
