@@ -7,7 +7,7 @@
 // So ist bei Fehlern ein automatisches Update auf den geänderten Code innerhalb eines Tages möglich
 //
 
-module.exports.determineSpecialCase = async function(specialcase) {
+	module.exports.determineSpecialCase = async function(specialcase) {
 
 	var nighttime = "N";
 
@@ -32,7 +32,12 @@ module.exports.determineSpecialCase = async function(specialcase) {
 		timestamp = lastrefresh.string(actualdate);
 		time = timestamp.substr(-5);
 
-		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
+
+switch ( camProvider ) {
+
+	case ("https://www.addicted-sports.com") :
+//		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
+		if (camURL.substr(-3)!= "jpg") {
 			if (time > "23:00" || time < "06:00") {nighttime = "Y";}
 			if (nighttime != "Y") {
 				console.log("jetzt in Addicted-to Sport Video")
@@ -75,15 +80,18 @@ module.exports.determineSpecialCase = async function(specialcase) {
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
 		}
+	break;
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
+
 //
 // Special Case Prienavera
 // Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
 // dieses Bild ist Vorschaubild und Bild in der Großansicht
 //
-		if ( camProvider == "https://www.prienavera.de" ){
+	case ( "https://www.prienavera.de" ) :
+//		if ( camProvider == "https://www.prienavera.de" ){
 				console.log("in der IF Funktion");
 
 				webview = new WebView();
@@ -108,15 +116,18 @@ module.exports.determineSpecialCase = async function(specialcase) {
 				movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
 				console.log("im Modul: Timestamp Prien: " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
-			}
+//			}
 //
 // Ende prienavera
 //
+	break;
+
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
 // dieses Bild ist Vorschaubild. Für das Bild in der Großansicht gehts auf die HP
 //
-	if ( camProvider == "https://www.golfclubsylt.de" ){
+	case ( "https://www.golfclubsylt.de" ) :
+//	if ( camProvider == "https://www.golfclubsylt.de" ){
 			console.log("in Golfclub : " + camURL);
 			webview = new WebView();
 			console.log("Golfclub : " + camURL)
@@ -136,10 +147,13 @@ module.exports.determineSpecialCase = async function(specialcase) {
 			imgURL = response;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
 			specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
-	}
+//	}
 //
 // Ende Golfclub Sylt
 //
+	break;
+
+} // Ende switch
 
 /*
 //
