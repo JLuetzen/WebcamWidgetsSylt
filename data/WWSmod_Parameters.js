@@ -22,7 +22,7 @@
 // GitHubLogoName							--> Im Widget rechts Name des Logo-PNG
 // GitHubErrorPic							--> Name des Fehler-PNG wenn zu große Parameter aufgerufen wurden
 // GitHubSpecialCaseFile			--> Name des nachzuladenen Moduls für das WebScraping
-
+//
 
 module.exports.assignParameters = async function(myFilename) {
 
