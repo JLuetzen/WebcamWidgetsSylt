@@ -38,7 +38,7 @@ switch ( camProvider ) {
 	case ("https://www.addicted-sports.com") :
 //		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
 		if (camURL.substr(-3)!= "jpg") {
-			if ( (camURL.includes("walchensee") && (time > "22:00" || time < "06:00") ) {nighttime = "Y";}
+			//if ( (camURL.includes("walchensee") && (time > "22:00" || time < "06:00") ) {nighttime = "Y";}
 			if (time > "23:00" || time < "06:00") {nighttime = "Y";}
 			if (nighttime != "Y") {
 				console.log("jetzt in Addicted-to Sport Video")
@@ -78,7 +78,7 @@ switch ( camProvider ) {
 			else {
 				camURL = imgURL;
 				movietimestamp = "No video between 23:00 - 06:00"
-				if (camURL.includes("walchensee")) {movietimestamp = "No video between 22:00 - 06:00";}
+				//if (camURL.includes("walchensee")) {movietimestamp = "No video between 22:00 - 06:00";}
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
 		}
