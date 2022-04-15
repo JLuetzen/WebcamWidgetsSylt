@@ -64,7 +64,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases-WALCHENSEE';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
 
 
