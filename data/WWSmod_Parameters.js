@@ -28,7 +28,7 @@ module.exports.assignParameters = async function(myFilename) {
 
 switch (myFilename) {
 
-	case ("WWS_Syltcams.js"):
+	case ("WWS_Syltcams"):
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
@@ -38,7 +38,7 @@ switch (myFilename) {
 	break;
 
 
-	case ("WWS_Syltfaehre.js"):
+	case ("WWS_Syltfaehre"):
 		CamFamily = "FRS Syltfähre";
 		GitHubCamFile = "Cams_Syltfaehre.txt";
 		sourceURL = "https://wwsylt.live";
@@ -48,7 +48,7 @@ switch (myFilename) {
 	break;
 
 
-	case ("WWS_Syltshuttle.js"):
+	case ("WWS_Syltshuttle"):
 		CamFamily = "Autozug Sylt";
 		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
@@ -58,7 +58,7 @@ switch (myFilename) {
 	break;
 
 
-	case ("WWS_Surfcams_Bayern.js"):
+	case ("WWS_Surfcams_Bayern"):
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
@@ -68,7 +68,7 @@ switch (myFilename) {
 	break;
 
 
-	case ("WWS_CSML-Edition.js"):
+	case ("WWS_CSML-Edition"):
 		CamFamily = "CSML Edition";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
