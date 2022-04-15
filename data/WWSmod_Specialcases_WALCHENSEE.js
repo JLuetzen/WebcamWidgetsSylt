@@ -32,7 +32,7 @@
 		timestamp = lastrefresh.string(actualdate);
 		time = timestamp.substr(-5);
 
-if ( (camURL.includes("walchensee") ) {console.log("Walchensee gefunden")}
+//if ( (camURL.includes("walchensee") ) {console.log("Walchensee gefunden")}
 //	if ( (camURL.includes("walchensee") && (time > "22:00" || time < "06:00") ) {console.log("CASE walchensee"); nighttime = "Y";}
 
 switch ( camProvider ) {
