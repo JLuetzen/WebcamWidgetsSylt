@@ -32,7 +32,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo Eastern2022.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
