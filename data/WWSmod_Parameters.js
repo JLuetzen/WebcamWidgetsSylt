@@ -34,7 +34,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
 
 
@@ -44,7 +44,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
 
 
@@ -54,7 +54,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
 
 
@@ -64,7 +64,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
 
 
@@ -74,7 +74,7 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 	break;
 
 
@@ -84,11 +84,11 @@ switch (myFilename) {
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWS_Specialcases'
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases'
 
 	}
 
-	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubDataPath + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile;
+	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile;
 	console.log("Im Modul..");
 	console.log("myFileParameters : " + myFileParameters);
 
