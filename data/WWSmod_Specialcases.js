@@ -78,7 +78,7 @@ switch ( camProvider ) {
 			else {
 				camURL = imgURL;
 				movietimestamp = "No video between 23:00 - 06:00"
-				if (CamURL.includes("walchensee") {movietimestamp = "No video between 22:00 - 06:00";}
+				if (CamURL.includes("walchensee")) {movietimestamp = "No video between 22:00 - 06:00";}
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
 		}
