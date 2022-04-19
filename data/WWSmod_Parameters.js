@@ -32,7 +32,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
@@ -42,7 +42,7 @@ switch (myFilename) {
 		CamFamily = "FRS Syltfähre";
 		GitHubCamFile = "Cams_Syltfaehre.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
@@ -52,7 +52,7 @@ switch (myFilename) {
 		CamFamily = "Autozug Sylt";
 		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
@@ -62,7 +62,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
@@ -72,7 +72,7 @@ switch (myFilename) {
 		CamFamily = "CSML Edition";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Eastern2022.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 	break;
