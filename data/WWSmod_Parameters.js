@@ -68,6 +68,15 @@ switch (myFilename) {
 	break;
 
 
+	case ("WWS_Surfcams_Bayern_WS"):
+		CamFamily = "Testcase Walchensee";
+		GitHubCamFile = "Surfcams_Bayern.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases-WALCHENSEE';
+	break;
+
 	case ("WWS_CSML-Edition"):
 		CamFamily = "CSML Edition";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
