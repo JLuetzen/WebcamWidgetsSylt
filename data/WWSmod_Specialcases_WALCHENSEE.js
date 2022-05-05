@@ -57,14 +57,14 @@ switch ( camProvider ) {
 				let js = `
 				(function() {
 				try {
-					var x = document.getElementById('streamvideo').innerHTML;
+					var x = document.getElementById('streamvideoS').innerHTML;
 				}
 				catch(err) {
 					console.log("StreamVideo NICHT vorhanden");
 					return;
 				}
 				console.log("StreamVideo ist vorhanden --> Weitermachen...");
-				var x = document.getElementById('streamvideo').innerHTML;
+				var x = document.getElementById('streamvideoS').innerHTML;
 				 completion(x);
 				return;
 				})();
