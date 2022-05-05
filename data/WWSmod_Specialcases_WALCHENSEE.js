@@ -56,6 +56,12 @@ switch ( camProvider ) {
 
 				let js = `
 				(function() {
+				try {document.getElementById('streamvideo').innerHTML};
+				catch(err) {
+					console.log("StreamVideo NICHT vorhanden");
+					return;
+				}
+				console.log("StreamVideo ist vorhanden --> Weitermachen...");
 				var x = document.getElementById('streamvideo').innerHTML;
 				 completion(x);
 				return;
