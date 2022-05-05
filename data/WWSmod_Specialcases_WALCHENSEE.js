@@ -48,11 +48,7 @@ switch ( camProvider ) {
 				console.log("CamURL jetzt: " + camURL)
 				await webview.loadHTML(res,camURL);
 
-				if ( res.includes("streamvideo") ) {
-					console.log("Suche nach Livestream erfolgreich")
-				} else {
-					console.log("Suche nach Livestream NICHT erfolgreich")
-				}
+				console.log("---> Version sucht nach nicht vorhandenem String! <----")
 
 				let js = `
 				(function() {
@@ -60,7 +56,7 @@ switch ( camProvider ) {
 					var x = document.getElementById('streamvideoS').innerHTML;
 				}
 				catch(err) {
-					console.log("StreamVideo NICHT vorhanden");
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
 					return;
 				}
 				console.log("StreamVideo ist vorhanden --> Weitermachen...");
