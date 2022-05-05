@@ -48,9 +48,15 @@ switch ( camProvider ) {
 				console.log("CamURL jetzt: " + camURL)
 				await webview.loadHTML(res,camURL);
 
+				if ( res.includes("streamvideo") ) {
+					console.log("Suche nach Livestream erfolgreich")
+				} else {
+					console.log("Suche nach Livestream NICHT erfolgreich")
+				}
+
 				let js = `
 				(function() {
-				var x = document.getElementById('streamvideoS').innerHTML;
+				var x = document.getElementById('streamvideo').innerHTML;
 				 completion(x);
 				return;
 				})();
