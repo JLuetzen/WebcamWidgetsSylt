@@ -50,7 +50,7 @@ switch ( camProvider ) {
 
 				let js = `
 				(function() {
-				var x = document.getElementById('streamvideo').innerHTML;
+				var x = document.getElementById('streamvideoS').innerHTML;
 				 completion(x);
 				return;
 				})();
