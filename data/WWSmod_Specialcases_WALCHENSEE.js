@@ -57,7 +57,7 @@ switch ( camProvider ) {
 				let js = `
 				(function() {
 				try {
-					document.getElementById('streamvideo').innerHTML
+					var x = document.getElementById('streamvideo').innerHTML;
 				}
 				catch(err) {
 					console.log("StreamVideo NICHT vorhanden");
@@ -70,6 +70,7 @@ switch ( camProvider ) {
 				})();
 				`
 				let response = await webview.evaluateJavaScript(js, true);
+				console.log("Nach dem JS!");
 				console.log(response);
 	// Building movielink part (back end of URL)
 				var partsArray = response.split(/"/);
