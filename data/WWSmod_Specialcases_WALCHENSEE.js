@@ -38,6 +38,7 @@ switch ( camProvider ) {
 	case ("https://www.addicted-sports.com") :
 		switch ( camURL ) {
 			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
+			case ("https://www.addicted-sports.com/webcam/chiemsee/uebersee/"):
 
 // in Kurzform:
 //
