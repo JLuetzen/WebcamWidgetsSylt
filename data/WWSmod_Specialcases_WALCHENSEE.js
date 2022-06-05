@@ -91,9 +91,7 @@ switch ( camProvider ) {
 				movietimestamp = "No video at this time"
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
-
-
-
+			
 		break;
 
 /*
