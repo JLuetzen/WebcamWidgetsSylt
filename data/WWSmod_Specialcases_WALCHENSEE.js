@@ -54,6 +54,7 @@ switch ( camProvider ) {
 				}
 				catch(err) {
 					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
+					camURL = imgURL;
 					return;
 				}
 				console.log("StreamVideo ist vorhanden --> Weitermachen...");
