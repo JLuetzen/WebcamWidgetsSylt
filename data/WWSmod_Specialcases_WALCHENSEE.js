@@ -38,20 +38,64 @@ switch ( camProvider ) {
 	case ("https://www.addicted-sports.com") :
 		switch ( camURL ) {
 			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
+
+// in Kurzform:
+//
+// Der zu prüfende URL ist schon der vom Stream
+// dann hol Dir den URL vom aktuellen Video
+// wenn der nicht auffindbar ist, zeig das aktuelle bild
+
 				webview = new WebView();
 				videoreq = new Request(camURL);
 				res = await videoreq.loadString();
 				await webview.loadHTML(res,camURL);
 
+				let js = `
+				(function() {
+				try {
+					var x = document.getElementById('streamvideoS').innerHTML;
+				}
+				catch(err) {
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
+					return;
+				}
+				console.log("StreamVideo ist vorhanden --> Weitermachen...");
+				var x = document.getElementById('streamvideoS').innerHTML;
+				 completion(x);
+				return;
+				})();
+				`
 
+				let response = await webview.evaluateJavaScript(js, true);
+				console.log("Nach dem JS!");
+				console.log(response);
+	// Building movielink part (back end of URL)
+				var partsArray = response.split(/"/);
+				var movielink = partsArray[1];
+				console.log("MovieLink : " + movielink);
+
+	// building Domain part (front nose of URL)
+				partsArray = camURL.split("/");
+				camURL = partsArray[0] + "//" + partsArray[2];
+				console.log("Front Nose of URL");
+				camURL = camURL + movielink;
+				console.log("Komplette VideoURL: " + camURL);
+
+// extracting Movie timestamp from MovieLink
+				movietimestamp = "Video from: " + movielink.substr(-8,2) + ":" + movielink.substr(-6,2);
+				console.log("Timestamp : " + movietimestamp);
+				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 
 			break;
 
-
-
+			default:
+				camURL = imgURL;
+				movietimestamp = "No video at this time"
+				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+			}
 		}
-	break;
 
+/*
 	case ("https://www.addicted-sports.zom") :
 //		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
 		if (camURL.substr(-3)!= "jpg") {
@@ -109,6 +153,8 @@ switch ( camProvider ) {
 			}
 		}
 	break;
+*/
+
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
