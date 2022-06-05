@@ -9,7 +9,7 @@
 
 	module.exports.determineSpecialCase = async function(specialcase) {
 
-	var nighttime = "N";
+	var movietimestamp = "Jens says hello";
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
