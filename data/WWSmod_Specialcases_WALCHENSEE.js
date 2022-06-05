@@ -86,12 +86,12 @@ switch ( camProvider ) {
 	//		break;
 
 		else {
-				console.log("Kein Video gefunden, stelle auf IMG zurück")
+				console.log("Zeige aktuelles Livebild")
 				camURL = imgURL;
-				movietimestamp = "No video at this time"
+				movietimestamp = "Livebild"
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
-			
+
 		break;
 
 /*
