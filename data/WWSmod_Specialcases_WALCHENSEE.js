@@ -36,6 +36,23 @@
 switch ( camProvider ) {
 
 	case ("https://www.addicted-sports.com") :
+		switch ( camURL ) {
+			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
+				webview = new WebView();
+				videoreq = new Request(camURL);
+				res = await videoreq.loadString();
+				await webview.loadHTML(res,camURL);
+
+
+
+			break;
+
+
+
+		}
+	break;
+
+	case ("https://www.addicted-sports.zom") :
 //		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
 		if (camURL.substr(-3)!= "jpg") {
 			if (time > "23:00" || time < "06:00") {nighttime = "Y";}
