@@ -53,7 +53,7 @@ switch ( camProvider ) {
 					var x = document.getElementById('streamvideo').innerHTML;
 				}
 				catch(err) {
-					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN // neue Version");
 					camURL = imgURL;
 					return;
 				}
