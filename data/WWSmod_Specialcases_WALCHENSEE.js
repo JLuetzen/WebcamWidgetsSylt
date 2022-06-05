@@ -36,15 +36,11 @@
 switch ( camProvider ) {
 
 	case ("https://www.addicted-sports.com") :
-		switch ( camURL ) {
-			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
-			case ("https://www.addicted-sports.com/webcam/chiemsee/uebersee/"):
+//		switch ( camURL ) {
+//			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
+//			case ("https://www.addicted-sports.com/webcam/chiemsee/uebersee/"):
 
-// in Kurzform:
-//
-// Der zu prüfende URL ist schon der vom Stream
-// dann hol Dir den URL vom aktuellen Video
-// wenn der nicht auffindbar ist, zeig das aktuelle bild
+		if (camURL.substr(-3)!= "jpg") {
 
 				webview = new WebView();
 				videoreq = new Request(camURL);
@@ -86,10 +82,10 @@ switch ( camProvider ) {
 				movietimestamp = "Video from: " + movielink.substr(-8,2) + ":" + movielink.substr(-6,2);
 				console.log("Timestamp : " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+			}
+	//		break;
 
-			break;
-
-			default:
+		else {
 				console.log("Kein Video gefunden, stelle auf IMG zurück")
 				camURL = imgURL;
 				movietimestamp = "No video at this time"
