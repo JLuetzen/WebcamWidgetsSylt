@@ -2,6 +2,7 @@ Brombachsee Foto;https://www.addicted-sports.com;49.133940;10.959700;https://www
 Brombachsee Video;https://www.addicted-sports.com;49.133940;10.959700;https://www.addicted-sports.com/fileadmin/webcam/brombachsee/current/400.jpg;https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/
 Altmühlsee;https://altmuehlsee.de/;49.13197970429097;10.734952388765207;https://timeshift.odn.de/cam-seenland-01/live.jpg;https://timeshift.odn.de/cam-seenland-01/live.jpg
 Chiemsee Übersee;https://www.addicted-sports.com;47.83780609359978;12.484889480527642;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/400.jpg;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/full.jpg
+Chiemsee Übersee Video;https://www.addicted-sports.com;47.83780609359978;12.484889480527642;https://www.addicted-sports.com/fileadmin/webcam/chiemsee/current/400.jpg;https://www.addicted-sports.com/webcam/chiemsee/uebersee/
 Chiemsee Prienavera;https://www.prienavera.de;47.863978947583455;12.366708277263113;https://www.terra-hd.de/prienavera/img/current/400.jpg;https://www.terra-hd.de/prienavera/
 Tegernsee Wallberg;http://www.wallbergbahn.de/webcams/;47.6615400562093;11.793764841613651;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg;https://www.foto-webcam.org/webcam/wallberg/current/full.jpg
 Tegernsee Sonnenbichl;https://www.foto-webcam.eu/webcam/sonnenbichl/;47.70334218294889;11.714647524875923;https://www.foto-webcam.eu/webcam/sonnenbichl/current/400.jpg;https://www.foto-webcam.eu/webcam/sonnenbichl/current/1920.jpg
