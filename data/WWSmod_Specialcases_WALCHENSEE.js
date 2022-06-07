@@ -53,7 +53,7 @@ switch ( camProvider ) {
 					var x = document.getElementById('streamvideo').innerHTML;
 				}
 				catch(err) {
-					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN -1");
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN -2");
 					var x = "Error - no video";
 					completion(x);
 					return;
@@ -68,6 +68,15 @@ switch ( camProvider ) {
 				let response = await webview.evaluateJavaScript(js, true);
 				console.log("Nach dem JS!");
 				console.log("Script-Ergebnis: " + response);
+
+				if (response = "Error - no video") {
+					console.log("Zeige aktuelles Livebild")
+					camURL = imgURL;
+					movietimestamp = "Livebild"
+					specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+				}
+				else {
+
 	// Building movielink part (back end of URL)
 				var partsArray = response.split(/"/);
 				var movielink = partsArray[1];
@@ -84,14 +93,12 @@ switch ( camProvider ) {
 				movietimestamp = "Video from: " + movielink.substr(-8,2) + ":" + movielink.substr(-6,2);
 				console.log("Timestamp : " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+				}
 			}
 	//		break;
 
 		else {
-				console.log("Zeige aktuelles Livebild")
-				camURL = imgURL;
-				movietimestamp = "Livebild"
-				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+
 			}
 
 		break;
