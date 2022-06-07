@@ -9,16 +9,8 @@
 
 	module.exports.determineSpecialCase = async function(specialcase) {
 
-//	var movietimestamp = "Jens says hello";  // setting a default value
-	var myJS;  		// my Java Script to analze Webpages
-	var response; 	// holds the results of myJS after execution
-	var timestamp;
-	var time;
-	var webview;
-	var res;
-	var req;
-
-	console.log("im Modul Specialcase: V10");
+	var nighttime = "N";
+	console.log("im Modul Specialcase: V1");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -45,49 +37,29 @@
 switch ( camProvider ) {
 
 	case ("https://www.addicted-sports.com") :
-//		switch ( camURL ) {
-//			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
-//			case ("https://www.addicted-sports.com/webcam/chiemsee/uebersee/"):
-
+//		if ( (camProvider == "https://www.addicted-sports.com") && (camURL.substr(-3)!= "jpg")) {
 		if (camURL.substr(-3)!= "jpg") {
-
+			if (time > "23:00" || time < "06:00") {nighttime = "Y";}
+			if (nighttime != "Y") {
+				console.log("jetzt in Addicted-to Sport Video")
 				webview = new WebView();
-				req = new Request(camURL);
-				res = await req.loadString();
+				console.log("CamURL jetzt in IF: " + camURL)
+				videoreq = new Request(camURL);
+				res = await videoreq.loadString();
+				console.log("CamURL jetzt: " + camURL)
 				await webview.loadHTML(res,camURL);
 
-				var myJS = `
+				let bavarianpage = `
 				(function() {
-				try {
-					var x = document.getElementById('streamvideo').innerHTML;
-				}
-				catch(err) {
-					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
-					var x = "Error - no video";
-					completion(x);
-					return;
-				}
-				console.log("StreamVideo ist vorhanden --> Weitermachen...");
 				var x = document.getElementById('streamvideo').innerHTML;
 				 completion(x);
 				return;
 				})();
 				`
-
-				var response = await webview.evaluateJavaScript(myJS, true);
-				console.log("Nach dem JS!");
-				console.log("Script-Ergebnis: " + response);
-
-				if (response == "Error - no video") {
-					console.log("Zeige aktuelles Livebild")
-					camURL = imgURL;
-					movietimestamp = "Kein Video verfügbar -> Livebild"
-					specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
-				}
-				else {
-
+				let bavarianresponse = await webview.evaluateJavaScript(bavarianpage, true);
+				console.log(bavarianresponse);
 	// Building movielink part (back end of URL)
-				var partsArray = response.split(/"/);
+				var partsArray = bavarianresponse.split(/"/);
 				var movielink = partsArray[1];
 				console.log("MovieLink : " + movielink);
 
@@ -103,15 +75,13 @@ switch ( camProvider ) {
 				console.log("Timestamp : " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 				}
+			else {
+				camURL = imgURL;
+				movietimestamp = "No video between 23:00 - 06:00"
+				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 			}
-	//		break;
-
-		else {
-
-			}
-
-		break;
-
+		}
+	break;
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
@@ -121,74 +91,68 @@ switch ( camProvider ) {
 // Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
 // dieses Bild ist Vorschaubild und Bild in der Großansicht
 //
-	case ("https://www.prienavera.de") :
+	case ( "https://www.prienavera.de" ) :
 //		if ( camProvider == "https://www.prienavera.de" ){
-				console.log("PRIENAVERA in der IF Funktion 7");
-				console.log("PRIENAVERA: camURL lautet: " + camURL);
+				console.log("in der IF Funktion");
+
 				webview = new WebView();
+				camURL="https://www.terra-hd.de/prienavera/";
 				req = new Request(camURL);
 				res = await req.loadString();
 				await webview.loadHTML(res, camURL);
-				console.log("PRIENAVERA nach loadHTML");
 
-				var myJS = `
+				let prienpage = `
 				(function() {
 				var x = document.querySelector('.webcamimage').src
 				 completion(x);
 				return;
 				})();
 				`
+				let prienresponse = await webview.evaluateJavaScript(prienpage, true);
+				console.log("im Modul: Response Prien: " + prienresponse);
 
-				console.log("PRIENAVERA nach JScript");
-				var response = await webview.evaluateJavaScript(myJS, true);
-				console.log("im Modul: Response Prien: " + response);
-
-				imgURL = response;
-				camURL = response
+				imgURL = prienresponse;
+				camURL = prienresponse;
 				// extracting Movie timestamp from MovieLink
 				movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
 				console.log("im Modul: Timestamp Prien: " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //			}
-
+//
+// Ende prienavera
+//
 	break;
-	//
-	// Ende prienavera
-	//
-
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
 // dieses Bild ist Vorschaubild. Für das Bild in der Großansicht gehts auf die HP
 //
-	case ("https://www.golfclubsylt.de") :
+	case ( "https://www.golfclubsylt.de" ) :
 //	if ( camProvider == "https://www.golfclubsylt.de" ){
 			console.log("in Golfclub : " + camURL);
 			webview = new WebView();
 			console.log("Golfclub : " + camURL)
-			req = new Request(camURL);
-			res = await req.loadString();
+			webcamreq = new Request(camURL);
+			res = await webcamreq.loadString();
 			await webview.loadHTML(res, camURL);
 
-			var myJS = `
+			let golfpage = `
 			(function() {
 			var x = document.querySelectorAll('figure.image_container img')[1].src
 			 completion(x);
 			return;
 			})();
 			`
-			var response = await webview.evaluateJavaScript(myJS, true);
-			console.log("Response Golfclub: " + response);
-			imgURL = response;
+			let golfresponse = await webview.evaluateJavaScript(golfpage, true);
+			console.log("Response Golfclub: " + golfresponse);
+			imgURL = golfresponse;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
 			specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //	}
-
+//
+// Ende Golfclub Sylt
+//
 	break;
-	//
-	// Ende Golfclub Sylt
-	//
-//*/
 
 } // Ende switch
 
@@ -211,4 +175,3 @@ switch ( camProvider ) {
 	return specialcase;
 
 }
-// ENDE
