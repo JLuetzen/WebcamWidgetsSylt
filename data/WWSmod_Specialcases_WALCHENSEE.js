@@ -114,12 +114,16 @@ switch ( camProvider ) {
 //
 	case ( "https://www.prienavera.de" ) :
 //		if ( camProvider == "https://www.prienavera.de" ){
-				console.log("PRIENAVERA in der IF Funktion 3");
+				console.log("PRIENAVERA in der IF Funktion 4");
 
 				webview = new WebView();
+				console.log("PRIENAVERA nach WebView");
+
 				//camURL="https://www.terra-hd.de/prienavera/";
 				prienreq = new Request(camURL);
+				console.log("PRIENAVERA nach prienreq");
 				res = await prienreq.loadString();
+				console.log("PRIENAVERA nach res");
 				await webview.loadHTML(res, camURL);
 
 				dataGets = `
