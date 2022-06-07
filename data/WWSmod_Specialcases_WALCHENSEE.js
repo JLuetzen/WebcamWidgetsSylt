@@ -12,7 +12,7 @@
 	var movietimestamp = "Jens says hello";  // setting a default value
 	var myJS  		// my Java Script to analze Webpages
 	var response 	// holds the results of myJS after execution
-	console.log("im Modul Specialcase: V2");
+	console.log("im Modul Specialcase: V3");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -115,7 +115,7 @@ switch ( camProvider ) {
 // Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
 // dieses Bild ist Vorschaubild und Bild in der Großansicht
 //
-	case ( "https://www.prienavera.de" ) :
+	case ("https://www.prienavera.de") :
 //		if ( camProvider == "https://www.prienavera.de" ){
 				console.log("PRIENAVERA in der IF Funktion 7");
 				console.log("PRIENAVERA: camURL lautet: " + camURL);
@@ -155,7 +155,7 @@ switch ( camProvider ) {
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
 // dieses Bild ist Vorschaubild. Für das Bild in der Großansicht gehts auf die HP
 //
-	case ( "https://www.golfclubsylt.de" ) :
+	case ("https://www.golfclubsylt.de") :
 //	if ( camProvider == "https://www.golfclubsylt.de" ){
 			console.log("in Golfclub : " + camURL);
 			webview = new WebView();
