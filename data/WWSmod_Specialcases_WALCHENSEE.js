@@ -54,6 +54,7 @@ switch ( camProvider ) {
 				}
 				catch(err) {
 					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
+					var x = "Error - no video"
 					return;
 				}
 				console.log("StreamVideo ist vorhanden --> Weitermachen...");
@@ -65,7 +66,7 @@ switch ( camProvider ) {
 
 				let response = await webview.evaluateJavaScript(js, true);
 				console.log("Nach dem JS!");
-				console.log(response);
+				console.log("Script-Ergebnis: " + response);
 	// Building movielink part (back end of URL)
 				var partsArray = response.split(/"/);
 				var movielink = partsArray[1];
