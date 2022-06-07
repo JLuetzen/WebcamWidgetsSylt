@@ -10,6 +10,7 @@
 	module.exports.determineSpecialCase = async function(specialcase) {
 
 	var nighttime = "N";
+	console.log("im Modul Specialcase: V1");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -55,10 +56,10 @@ switch ( camProvider ) {
 				return;
 				})();
 				`
-				let response = await webview.evaluateJavaScript(bavarianpage, true);
-				console.log(response);
+				let bavarianresponse = await webview.evaluateJavaScript(bavarianpage, true);
+				console.log(bavarianresponse);
 	// Building movielink part (back end of URL)
-				var partsArray = response.split(/"/);
+				var partsArray = bavarianresponse.split(/"/);
 				var movielink = partsArray[1];
 				console.log("MovieLink : " + movielink);
 
@@ -107,11 +108,11 @@ switch ( camProvider ) {
 				return;
 				})();
 				`
-				response = await webview.evaluateJavaScript(prienpage, true);
-				console.log("im Modul: Response Prien: " + response);
+				let prienresponse = await webview.evaluateJavaScript(prienpage, true);
+				console.log("im Modul: Response Prien: " + prienresponse);
 
-				imgURL = response;
-				camURL = response
+				imgURL = prienresponse;
+				camURL = prienresponse;
 				// extracting Movie timestamp from MovieLink
 				movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
 				console.log("im Modul: Timestamp Prien: " + movietimestamp);
@@ -142,9 +143,9 @@ switch ( camProvider ) {
 			return;
 			})();
 			`
-			let response = await webview.evaluateJavaScript(golfpage, true);
-			console.log("Response Golfclub: " + response);
-			imgURL = response;
+			let golfresponse = await webview.evaluateJavaScript(golfpage, true);
+			console.log("Response Golfclub: " + golfresponse);
+			imgURL = golfresponse;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
 			specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //	}
