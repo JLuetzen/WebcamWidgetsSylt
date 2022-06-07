@@ -9,7 +9,10 @@
 
 	module.exports.determineSpecialCase = async function(specialcase) {
 
-	var movietimestamp = "Jens says hello";
+	var movietimestamp = "Jens says hello";  // setting a default value
+	var myJS  		// my Java Script to analze Webpages
+	var response 	// holds the results of myJS after execution
+	console.log("im Modul Specialcase: V1");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -47,7 +50,7 @@ switch ( camProvider ) {
 				res = await videoreq.loadString();
 				await webview.loadHTML(res,camURL);
 
-				let js = `
+				var myJS = `
 				(function() {
 				try {
 					var x = document.getElementById('streamvideo').innerHTML;
@@ -65,7 +68,7 @@ switch ( camProvider ) {
 				})();
 				`
 
-				let response = await webview.evaluateJavaScript(js, true);
+				var response = await webview.evaluateJavaScript(myJS, true);
 				console.log("Nach dem JS!");
 				console.log("Script-Ergebnis: " + response);
 
@@ -122,7 +125,7 @@ switch ( camProvider ) {
 				await webview.loadHTML(res, camURL);
 				console.log("PRIENAVERA nach loadHTML");
 
-				let dataGets = `
+				var myJS = `
 				(function() {
 				var x = document.querySelector('.webcamimage').src
 				 completion(x);
@@ -131,7 +134,7 @@ switch ( camProvider ) {
 				`
 
 				console.log("PRIENAVERA nach JScript");
-				response = await webview.evaluateJavaScript(dataGets, true);
+				var response = await webview.evaluateJavaScript(dataGets, true);
 				console.log("im Modul: Response Prien: " + response);
 
 				imgURL = response;
@@ -161,14 +164,14 @@ switch ( camProvider ) {
 			res = await webcamreq.loadString();
 			await webview.loadHTML(res, camURL);
 
-			let dataGets = `
+			let myJS = `
 			(function() {
 			var x = document.querySelectorAll('figure.image_container img')[1].src
 			 completion(x);
 			return;
 			})();
 			`
-			let response = await webview.evaluateJavaScript(dataGets, true);
+			var response = await webview.evaluateJavaScript(myJS, true);
 			console.log("Response Golfclub: " + response);
 			imgURL = response;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
