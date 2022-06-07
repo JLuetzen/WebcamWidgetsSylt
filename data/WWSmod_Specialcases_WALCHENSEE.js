@@ -53,12 +53,12 @@ switch ( camProvider ) {
 					var x = document.getElementById('streamvideo').innerHTML;
 				}
 				catch(err) {
-					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN -2");
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN 3");
 					var x = "Error - no video";
 					completion(x);
 					return;
 				}
-				console.log("StreamVideo ist vorhanden --> Weitermachen...");
+				console.log("StreamVideo ist vorhanden --> Weitermachen... 3");
 				var x = document.getElementById('streamvideo').innerHTML;
 				 completion(x);
 				return;
@@ -69,10 +69,10 @@ switch ( camProvider ) {
 				console.log("Nach dem JS!");
 				console.log("Script-Ergebnis: " + response);
 
-				if (response = "Error - no video") {
+				if (response == "Error - no video") {
 					console.log("Zeige aktuelles Livebild")
 					camURL = imgURL;
-					movietimestamp = "Livebild"
+					movietimestamp = "Kein Video verfügbar -> Livebild"
 					specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 				}
 				else {
