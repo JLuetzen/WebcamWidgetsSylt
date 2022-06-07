@@ -17,7 +17,7 @@
 	var webview;
 	var res;
 
-	console.log("im Modul Specialcase: V5");
+	console.log("im Modul Specialcase: V6");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -42,7 +42,7 @@
 
 
 switch ( camProvider ) {
-/*
+
 	case ("https://www.addicted-sports.com") :
 //		switch ( camURL ) {
 //			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
@@ -110,7 +110,7 @@ switch ( camProvider ) {
 			}
 
 		break;
-*/
+
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
