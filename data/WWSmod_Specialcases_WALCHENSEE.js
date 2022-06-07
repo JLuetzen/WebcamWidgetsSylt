@@ -109,7 +109,7 @@ switch ( camProvider ) {
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
-
+/*
 //
 // Special Case Prienavera
 // Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
@@ -182,6 +182,8 @@ switch ( camProvider ) {
 	//
 	// Ende Golfclub Sylt
 	//
+
+*/	
 } // Ende switch
 
 /*
