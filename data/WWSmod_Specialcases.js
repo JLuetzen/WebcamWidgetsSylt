@@ -48,14 +48,14 @@ switch ( camProvider ) {
 				console.log("CamURL jetzt: " + camURL)
 				await webview.loadHTML(res,camURL);
 
-				let js = `
+				let bavarianpage = `
 				(function() {
 				var x = document.getElementById('streamvideo').innerHTML;
 				 completion(x);
 				return;
 				})();
 				`
-				let response = await webview.evaluateJavaScript(js, true);
+				let response = await webview.evaluateJavaScript(bavarianpage, true);
 				console.log(response);
 	// Building movielink part (back end of URL)
 				var partsArray = response.split(/"/);
@@ -100,14 +100,14 @@ switch ( camProvider ) {
 				res = await req.loadString();
 				await webview.loadHTML(res, camURL);
 
-				let dataGets = `
+				let prienpage = `
 				(function() {
 				var x = document.querySelector('.webcamimage').src
 				 completion(x);
 				return;
 				})();
 				`
-				response = await webview.evaluateJavaScript(dataGets, true);
+				response = await webview.evaluateJavaScript(prienpage, true);
 				console.log("im Modul: Response Prien: " + response);
 
 				imgURL = response;
@@ -135,14 +135,14 @@ switch ( camProvider ) {
 			res = await webcamreq.loadString();
 			await webview.loadHTML(res, camURL);
 
-			let dataGets = `
+			let golfpage = `
 			(function() {
 			var x = document.querySelectorAll('figure.image_container img')[1].src
 			 completion(x);
 			return;
 			})();
 			`
-			let response = await webview.evaluateJavaScript(dataGets, true);
+			let response = await webview.evaluateJavaScript(golfpage, true);
 			console.log("Response Golfclub: " + response);
 			imgURL = response;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
