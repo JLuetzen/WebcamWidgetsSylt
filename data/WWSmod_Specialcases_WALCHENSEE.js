@@ -9,9 +9,14 @@
 
 	module.exports.determineSpecialCase = async function(specialcase) {
 
-	var movietimestamp = "Jens says hello";  // setting a default value
-	var myJS  		// my Java Script to analze Webpages
-	var response 	// holds the results of myJS after execution
+//	var movietimestamp = "Jens says hello";  // setting a default value
+	var myJS;  		// my Java Script to analze Webpages
+	var response; 	// holds the results of myJS after execution
+	var timestamp;
+	var time;
+	var webview;
+	var res;
+
 	console.log("im Modul Specialcase: V3");
 
 	myArray = specialcase.split("*");
@@ -149,7 +154,7 @@ switch ( camProvider ) {
 	//
 	// Ende prienavera
 	//
-*/
+
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
@@ -182,7 +187,7 @@ switch ( camProvider ) {
 	//
 	// Ende Golfclub Sylt
 	//
-
+*/
 
 } // Ende switch
 
