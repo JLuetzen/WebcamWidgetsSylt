@@ -100,7 +100,7 @@ switch ( camProvider ) {
 				res = await req.loadString();
 				await webview.loadHTML(res, camURL);
 
-				dataGets = `
+				let dataGets = `
 				(function() {
 				var x = document.querySelector('.webcamimage').src
 				 completion(x);
