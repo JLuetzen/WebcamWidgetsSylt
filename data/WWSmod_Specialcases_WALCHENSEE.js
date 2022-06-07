@@ -42,7 +42,7 @@
 
 
 switch ( camProvider ) {
-
+/*
 	case ("https://www.addicted-sports.com") :
 //		switch ( camURL ) {
 //			case ("https://www.addicted-sports.com/webcam/brombachsee/allmannsdorf/") :
@@ -110,7 +110,7 @@ switch ( camProvider ) {
 			}
 
 		break;
-
+*/
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
@@ -187,7 +187,7 @@ switch ( camProvider ) {
 	//
 	// Ende Golfclub Sylt
 	//
-*/
+//*/
 
 } // Ende switch
 
@@ -210,3 +210,4 @@ switch ( camProvider ) {
 	return specialcase;
 
 }
+// ENDE
