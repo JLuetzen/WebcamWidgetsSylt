@@ -12,7 +12,7 @@
 	var movietimestamp = "Jens says hello";  // setting a default value
 	var myJS  		// my Java Script to analze Webpages
 	var response 	// holds the results of myJS after execution
-	console.log("im Modul Specialcase: V1");
+	console.log("im Modul Specialcase: V2");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
