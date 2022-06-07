@@ -16,8 +16,9 @@
 	var time;
 	var webview;
 	var res;
+	var req;
 
-	console.log("im Modul Specialcase: V6");
+	console.log("im Modul Specialcase: V7");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -163,11 +164,11 @@ switch ( camProvider ) {
 	case ("https://www.golfclubsylt.de") :
 //	if ( camProvider == "https://www.golfclubsylt.de" ){
 			console.log("in Golfclub : " + camURL);
-			golfwebview = new WebView();
+			webview = new WebView();
 			console.log("Golfclub : " + camURL)
-			webcamreq = new Request(camURL);
-			golfres = await webcamreq.loadString();
-			await golfwebview.loadHTML(golfres, camURL);
+			req = new Request(camURL);
+			res = await req.loadString();
+			await webview.loadHTML(res, camURL);
 
 			var myJS = `
 			(function() {
@@ -176,7 +177,7 @@ switch ( camProvider ) {
 			return;
 			})();
 			`
-			var response = await golfwebview.evaluateJavaScript(myJS, true);
+			var response = await webview.evaluateJavaScript(myJS, true);
 			console.log("Response Golfclub: " + response);
 			imgURL = response;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
