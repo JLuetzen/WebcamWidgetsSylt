@@ -141,10 +141,12 @@ switch ( camProvider ) {
 				console.log("im Modul: Timestamp Prien: " + movietimestamp);
 				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //			}
-//
-// Ende prienavera
-//
+
 	break;
+	//
+	// Ende prienavera
+	//
+
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
@@ -172,11 +174,11 @@ switch ( camProvider ) {
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
 			specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //	}
-//
-// Ende Golfclub Sylt
-//
-	break;
 
+	break;
+	//
+	// Ende Golfclub Sylt
+	//
 } // Ende switch
 
 /*
