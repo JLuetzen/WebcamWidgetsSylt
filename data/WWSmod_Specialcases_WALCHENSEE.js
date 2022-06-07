@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V7");
+	console.log("im Modul Specialcase: V8");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -52,8 +52,8 @@ switch ( camProvider ) {
 		if (camURL.substr(-3)!= "jpg") {
 
 				webview = new WebView();
-				videoreq = new Request(camURL);
-				res = await videoreq.loadString();
+				req = new Request(camURL);
+				res = await req.loadString();
 				await webview.loadHTML(res,camURL);
 
 				var myJS = `
