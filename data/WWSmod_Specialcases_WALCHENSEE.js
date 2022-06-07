@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V8");
+	console.log("im Modul Specialcase: V9");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -115,7 +115,7 @@ switch ( camProvider ) {
 //
 // Ende Auslesen VideoURL https://www.addicted-sports.com
 //
-/*
+
 //
 // Special Case Prienavera
 // Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
@@ -126,8 +126,8 @@ switch ( camProvider ) {
 				console.log("PRIENAVERA in der IF Funktion 7");
 				console.log("PRIENAVERA: camURL lautet: " + camURL);
 				webview = new WebView();
-				prienreq = new Request(camURL);
-				res = await prienreq.loadString();
+				req = new Request(camURL);
+				res = await req.loadString();
 				await webview.loadHTML(res, camURL);
 				console.log("PRIENAVERA nach loadHTML");
 
@@ -155,7 +155,7 @@ switch ( camProvider ) {
 	//
 	// Ende prienavera
 	//
-*/
+
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
