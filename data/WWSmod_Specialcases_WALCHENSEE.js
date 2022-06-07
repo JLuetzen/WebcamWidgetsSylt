@@ -114,17 +114,14 @@ switch ( camProvider ) {
 //
 	case ( "https://www.prienavera.de" ) :
 //		if ( camProvider == "https://www.prienavera.de" ){
-				console.log("PRIENAVERA in der IF Funktion 4");
-
+				console.log("PRIENAVERA in der IF Funktion 5");
+				console.log("PRIENAVERA: camURL lautet: " + camURL);
 				webview = new WebView();
-				console.log("PRIENAVERA nach WebView");
-
-				//camURL="https://www.terra-hd.de/prienavera/";
 				prienreq = new Request(camURL);
-				console.log("PRIENAVERA nach prienreq");
 				res = await prienreq.loadString();
 				console.log("PRIENAVERA nach res");
 				await webview.loadHTML(res, camURL);
+				console.log("PRIENAVERA nach loadHTML");
 
 				dataGets = `
 				(function() {
@@ -133,6 +130,7 @@ switch ( camProvider ) {
 				return;
 				})();
 				`
+				console.log("PRIENAVERA nach JScript");
 				response = await webview.evaluateJavaScript(dataGets, true);
 				console.log("im Modul: Response Prien: " + response);
 
