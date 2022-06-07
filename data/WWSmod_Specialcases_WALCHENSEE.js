@@ -114,16 +114,15 @@ switch ( camProvider ) {
 //
 	case ( "https://www.prienavera.de" ) :
 //		if ( camProvider == "https://www.prienavera.de" ){
-				console.log("PRIENAVERA in der IF Funktion 6");
+				console.log("PRIENAVERA in der IF Funktion 7");
 				console.log("PRIENAVERA: camURL lautet: " + camURL);
 				webview = new WebView();
 				prienreq = new Request(camURL);
 				res = await prienreq.loadString();
-				console.log("PRIENAVERA nach res");
 				await webview.loadHTML(res, camURL);
 				console.log("PRIENAVERA nach loadHTML");
 
-				dataGets = `
+				let dataGets = `
 				(function() {
 				var x = document.querySelector('.webcamimage').src
 				 completion(x);
