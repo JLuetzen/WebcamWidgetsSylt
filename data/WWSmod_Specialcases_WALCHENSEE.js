@@ -53,8 +53,9 @@ switch ( camProvider ) {
 					var x = document.getElementById('streamvideo').innerHTML;
 				}
 				catch(err) {
-					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN");
-					var x = "Error - no video"
+					console.log("StreamVideo NICHT vorhanden // ABBRUCH EMPFOHLEN -1");
+					var x = "Error - no video";
+					completion(x);
 					return;
 				}
 				console.log("StreamVideo ist vorhanden --> Weitermachen...");
