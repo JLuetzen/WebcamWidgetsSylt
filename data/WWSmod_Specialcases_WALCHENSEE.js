@@ -17,7 +17,7 @@
 	var webview;
 	var res;
 
-	console.log("im Modul Specialcase: V3");
+	console.log("im Modul Specialcase: V4");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -154,7 +154,7 @@ switch ( camProvider ) {
 	//
 	// Ende prienavera
 	//
-
+*/
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
