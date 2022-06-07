@@ -149,7 +149,7 @@ switch ( camProvider ) {
 	//
 	// Ende prienavera
 	//
-
+*/
 
 // Special Case https://www.golfclubsylt.de/
 // Auslesen der Adresse der Webcam, die sich alle 10 s ändert
@@ -183,7 +183,7 @@ switch ( camProvider ) {
 	// Ende Golfclub Sylt
 	//
 
-*/	
+
 } // Ende switch
 
 /*
