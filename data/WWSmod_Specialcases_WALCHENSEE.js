@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V9");
+	console.log("im Modul Specialcase: V10");
 
 	myArray = specialcase.split("*");
 	camProvider = myArray[0];
@@ -140,7 +140,7 @@ switch ( camProvider ) {
 				`
 
 				console.log("PRIENAVERA nach JScript");
-				var response = await webview.evaluateJavaScript(dataGets, true);
+				var response = await webview.evaluateJavaScript(myJS, true);
 				console.log("im Modul: Response Prien: " + response);
 
 				imgURL = response;
