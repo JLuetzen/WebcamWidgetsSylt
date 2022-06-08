@@ -90,7 +90,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "mein Text";
+		hinweistext = "";
 	break;
 
 
