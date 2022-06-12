@@ -149,10 +149,9 @@ Vom Blauen Autozug und Syltshuttle sind diese 6 WebCams wählbar:
 
 ------------------------------------------------
 
-### Surfcams Bayern
+### Surfcams Bayern (Stand 12.06.2022)
 
 Auch an den Bayrischen Seen gibt es Webcams, die von Surfern genutzt werden.
-Das Widget zu diesen Cams findet Ihr [HIER](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f), bitte da den Hinweis beachten.
 
 Diese Seen sind eingebunden:
 * Brombachsee
@@ -168,9 +167,9 @@ Diese Seen sind eingebunden:
 
 ------------------------------------------------
 
-### CSML-Edition
+### CSML-Edition (Stand 12.06.2022)
 
-Webcams im Norden... [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zu finden
+Webcams im Norden...
 
 Diese Webcams sind eingebunden:
 * Sankt Peter-Ording, Badestelle Ording
