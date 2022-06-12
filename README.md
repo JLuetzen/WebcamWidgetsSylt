@@ -26,7 +26,7 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
-Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern-6):
+Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
   <tr>
     <td text align="center"><a href="images/WWSv2-1.jpeg"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></a></td>
