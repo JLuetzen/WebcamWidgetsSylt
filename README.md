@@ -17,8 +17,8 @@
 Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der Seite.
 
 ### 12.06.20222: deutlich verbessertes Script der 2. neue Version ab sofort verfügbar - Eins für Alles - 
-Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
-* Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) erklärt)
+Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
+* Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) erklärt)
 * Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
