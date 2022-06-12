@@ -15,14 +15,13 @@
 # Webcam Widgets Sylt -  live auf dem iPhone
 
 ## 12.06.20222: neue Version WWS_Master.js ab sofort verfügbar - Eine für Alles - 
-Ab sofort steht neben den bewährten Scripts eine neue Version ###WW_Master.js### zur Verfügung, die [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
+Ab sofort steht neben den bewährten Scripts eine neue Version **WW_Master.js** zur Verfügung, die [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
 * Sonnenaufgangs- und Sonnenuntergangszeiten werden dargestellt
 * Nennung der Website der WebCam
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
-* programm-technisch modular aufgebaut, Paramter-Einstellungen können pro Script vorgenommen werden
-* tägliche Aktualisierung aller relevanten Scripten
-* Änderungshinweise in das Widget einspielbar
+* tägliche Aktualisierung der WebCam-Listen
+* News-Zeile vorgesehen 
 
 Das Ergebnis kann sich sehen lassen:
 <table class="center">
