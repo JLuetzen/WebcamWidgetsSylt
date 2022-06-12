@@ -66,7 +66,6 @@ Gleiches gilt natürlich auch für die Abreise mit der Kombination Verladestatio
 Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
 <img src="images/IMG_0447_Ostern.jpg" title="Anreise" height="300" />
-/*![image](images/IMG_0447_Ostern.jpg "Anreise")*/
 
 Hier noch ein paar Impressionen, wie man sich die Widgets einrichten kann:
 
@@ -105,7 +104,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ### Aufkleber....
 
-<img src="[images/IMG_0447_Ostern.jpg](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)" title="Aufkleber" height="400" />
+<img src="https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg" title="Aufkleber" height="400" />
 /*![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)*/
 
 
