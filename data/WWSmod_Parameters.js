@@ -22,7 +22,7 @@
 // GitHubLogoName							--> Im Widget rechts Name des Logo-PNG
 // GitHubErrorPic							--> Name des Fehler-PNG wenn zu große Parameter aufgerufen wurden
 // GitHubSpecialCaseFile			--> Name des nachzuladenen Moduls für das WebScraping
-// hinweistext								--> der Hinweistext erscheint unter dem CamNamen
+// hinweistext								--> der Hinweistext erscheint links unter dem CamNamen
 //
 
 module.exports.assignParameters = async function(myFilename) {
@@ -47,7 +47,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "Heute ist Sonntag";
+		hinweistext = "";
 	break;
 
 
