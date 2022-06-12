@@ -14,7 +14,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-## 12.06.20222: neue Version WWS_Master.js ab sofort verfügbar - Eine für Alles - 
+### 12.06.20222: neue Version WWS_Master.js ab sofort verfügbar - Eine für Alles - 
 Ab sofort steht neben den bewährten Scripts eine neue Version **WW_Master.js** zur Verfügung, die [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
 * Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) erklärt)
 * Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (rechts unten)
@@ -36,7 +36,7 @@ Das Ergebnis kann sich sehen lassen:
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
-# Einleitung
+### Einleitung
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
@@ -55,7 +55,7 @@ Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder im
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
 ------------------------------------------------
-# Neuerungen in WWS_Master.js
+### Neuerungen in WWS_Master.js
 
 Diese Neuerungen sind in dem Script der 2. Generation umgesetzt:
 * die Daten der Cams stehen jetzt nicht mehr im Script, sondern in einer zentralen Datei, die das Script täglich 1x aktualisiert. Dadurch kommt der Benutzer viel schneller in den Genuss neuer verfügbarer Cams. Die Textdateien mit den Daten der Cams liegen hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
