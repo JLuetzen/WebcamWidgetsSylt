@@ -13,6 +13,26 @@
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
 # Webcam Widgets Sylt -  live auf dem iPhone
+
+## neue Version WWS_Master.js ab sofort verfügbar - Eine für Alles
+Ab sofort steht neben den bewährten Scripts eine neue Version ###WW_Master.js### zur Verfügung, die [HIER](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
+* Sonnenaufgangs- und Sonnenuntergangszeiten werden dargestellt
+* Nennung der Website der WebCam
+* erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
+* Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
+* programm-technisch modular aufgebaut, Paramter-Einstellungen können pro Script vorgenommen werden
+* tägliche Aktualisierung aller relevanten Scripten
+
+Das Ergebnis kann sich sehen lassen:
+<table class="center">
+  <tr>
+    <td text align="center"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/WWSv2-2.jpeg" title="FRS-Syltfähre"></td>
+    <td text align="center"><img src="images/WWSv2-3.jpeg" title="Livespotting & andere"></td>
+  </tr>
+</table>
+
+
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
