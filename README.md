@@ -181,12 +181,17 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ------------------------------------------------
 #### News:
 
-##### 2021-08-20
-Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
+##### 2022-06-12
+Die neue Version WWS_Master.js steht ab sofort zur Verfügung, eine für alles. 
+[Hier](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) gehts zum Download
 
 ------------------------------------------------
 ##### 2022-02-06
 Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden, es ist [Hier](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) zu finden.
+
+------------------------------------------------
+##### 2021-08-20
+Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
 
 
 
