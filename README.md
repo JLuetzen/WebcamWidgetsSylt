@@ -105,14 +105,46 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 ### Aufkleber....
 
 <img src="https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg" title="Aufkleber" height="400" />
-/*![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)*/
-
 
 Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
 
 Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie.
 
 Versand erfolgt allerdings nur innerhalb Deutschlands.
+
+
+------------------------------------------------
+
+### Syltcams (Stand 12.06.2022)
+
+Diese Sylter Cams sind eingebunden:
+* Westerland Kurpromendade
+* Surfcam Sylt auf Hotel Miramar
+* Hörnum Webcam im Leuchtturm
+* Kampen Quermarkenfeuer an Kliffende
+* Kampen Hotel Runghold
+* Rantum Beach
+* Sansibar Beach
+* Kampen Golfclub Sylt
+
+
+------------------------------------------------
+
+### FRS-Syltfähre (Stand 12.06.2022)
+
+Diese Cams der FRS Syltfähre sind abrufbar:
+* Anleger Havneby/Rømø
+* Anleger List/Sylt
+* Anleger List/Sylt - Zoom
+
+
+------------------------------------------------
+
+### Autozug Sylt / Syltshuttle (Stand 12.06.2022)
+
+Vom Blauen Autozug und Syltshuttle sind diese 6 WebCams wählbar:
+* 3 x Autoverladung Niebüll
+* 3 x Autoverladung Westerland
 
 
 ------------------------------------------------
