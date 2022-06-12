@@ -65,15 +65,16 @@ Gleiches gilt natürlich auch für die Abreise mit der Kombination Verladestatio
 
 Hier einmal das Beispiel für die Anreise von Ostern 2021:
 
-![image](images/IMG_0447_Ostern.jpg "Anreise")
+<img src="images/IMG_0447_Ostern.jpg" title="Anreise" height="300" />
+/*![image](images/IMG_0447_Ostern.jpg "Anreise")*/
 
 Hier noch ein paar Impressionen, wie man sich die Widgets einrichten kann:
 
 <table class="center">
   <tr>
-    <td text align="center"><img src="images/IMG_1070.jpeg" title="Sylt-Shuttle"></td>
-    <td text align="center"><img src="images/IMG_1075.jpeg" title="FRS-Syltfähre"></td>
-    <td text align="center"><img src="images/IMG_1076.jpeg" title="Livespotting & andere"></td>
+    <td text align="center"><a href="images/IMG_1070.jpeg"><img src="images/IMG_1070.jpeg" title="Sylt-Shuttle"></a></td>
+    <td text align="center"><a href="images/IMG_1075.jpeg"><img src="images/IMG_1075.jpeg" title="FRS-Syltfähre"></a></td>
+    <td text align="center"><a href="images/IMG_1076.jpeg"><img src="images/IMG_1076.jpeg" title="Livespotting & andere"></a></td>
   </tr>
 </table>
 
@@ -104,7 +105,8 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 ### Aufkleber....
 
-![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)
+<img src="[images/IMG_0447_Ostern.jpg](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)" title="Aufkleber" height="400" />
+/*![IMG_1201](https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg)*/
 
 
 Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
@@ -179,16 +181,22 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #### News:
 
 ##### 2022-06-12
-Die neue Version WWS_Master.js steht ab sofort zur Verfügung, eine für alles. 
-[Hier](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) gehts zum Download
+*Script der 2. Generation*
+Die neue Version WWS_Master.js, **das Eine für Alle** steht ab sofort zur Verfügung, eine für alles. 
+[Hier](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) gehts zum Download.
+Unbedingt Aktualisieren, die Scripte der 1. Generation werden nicht mehr weiter gepflegt.
 
 ------------------------------------------------
 ##### 2022-02-06
+*Scripts der 1. Generation*
 Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden, es ist [Hier](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) zu finden.
+---> Das erneute Laden entfällt bei Verwendung des Scripts der 2. Generation --> unbedingt Aktualsieren!
 
 ------------------------------------------------
 ##### 2021-08-20
+*Scripts der 1. Generation*
 Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
+---> Das erneute Laden entfällt bei Verwendung des Scripts der 2. Generation --> unbedingt Aktualsieren!
 
 
 
