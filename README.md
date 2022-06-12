@@ -29,7 +29,7 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 Das Ergebnis kann sich sehen lassen:
 <table class="center">
   <tr>
-    <td text align="center"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle" onclick="images/WWSv2-1.jpeg"></td>
     <td text align="center"><img src="images/WWSv2-2.jpeg" title="FRS-Syltfähre"></td>
     <td text align="center"><img src="images/WWSv2-3.jpeg" title="Livespotting & andere"></td>
   </tr>
