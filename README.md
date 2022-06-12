@@ -30,8 +30,8 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern-6):
 <table class="center">
   <tr>
     <td text align="center"><a href="images/WWSv2-1.jpeg"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></a></td>
-    <td text align="center"><img src="images/WWSv2-2.jpeg" title="FRS-Syltfähre"></td>
-    <td text align="center"><img src="images/WWSv2-3.jpeg" title="Livespotting & andere"></td>
+    <td text align="center"><a href="images/WWSv2-2.jpeg"><img src="images/WWSv2-2.jpeg" title="Sylt-Shuttle"></a></td>
+    <td text align="center"><a href="images/WWSv2-3.jpeg"><img src="images/WWSv2-3.jpeg" title="Sylt-Shuttle"></a></td>
   </tr>
 </table>
 
@@ -55,14 +55,6 @@ Das macht diese Widgets so attraktiv.
 
 Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder immer aktuell.
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
-
-------------------------------------------------
-### Neuerungen im Script der 2. Generation
-
-Diese Neuerungen sind in dem Script der 2. Generation **WWS_Master.js** umgesetzt:
-* die Daten der Cams stehen jetzt nicht mehr im Script, sondern in einer zentralen Datei, die das Script täglich 1x aktualisiert. Dadurch kommt der Benutzer viel schneller in den Genuss neuer verfügbarer Cams. Die Textdateien mit den Daten der Cams liegen hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
-* Die Parameter pro Script werden in einer zentralen Datei geführt, die auch täglch 1x aktualisiert wird. Damit kann zentral und schnell auf Änderungsbedarf reagiert werden, ohne das Script selber ändern zu müssen. Die Parameter-Datei _WWSmod_Paramters.js_ mit den Parametern der einzelnen Scripte liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
-* Auf einigen WebCams sind die Informationen zu den WebCams oder Livestreams mit Zeitstempeln versehen. Damit ändert sich laufend der Verweis auf die WebCam und das kann zu ärgerlichen Widget-Fehlern führen. Mit der neuen Scriptversion werden die gerade gültigen Pfade zu den Medien direkt von der Website des Herstellers ausgelesen, wenn das Widget sich aktualisiert. Auch dieses Verfahren kann sich laufend ändern und deshalb wird die Datei 1x pro Tag aktualisiert. Die Parameter-Datei _WWSmod_Specialcases.js_ mit den Auslese-Routinen von den Websites liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
 
 ------------------------------------------------
 
@@ -202,9 +194,17 @@ Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladu
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
+------------------------------------------------
+## Neuerungen im Script der 2. Generation
+
+Diese Neuerungen sind in dem Script der 2. Generation **WWS_Master.js** umgesetzt:
+* die Daten der Cams stehen jetzt nicht mehr im Script, sondern in einer zentralen Datei, die das Script täglich 1x aktualisiert. Dadurch kommt der Benutzer viel schneller in den Genuss neuer verfügbarer Cams. Die Textdateien mit den Daten der Cams liegen hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
+* Die Parameter pro Script werden in einer zentralen Datei geführt, die auch täglch 1x aktualisiert wird. Damit kann zentral und schnell auf Änderungsbedarf reagiert werden, ohne das Script selber ändern zu müssen. Die Parameter-Datei _WWSmod_Paramters.js_ mit den Parametern der einzelnen Scripte liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
+* Auf einigen WebCams sind die Informationen zu den WebCams oder Livestreams mit Zeitstempeln versehen. Damit ändert sich laufend der Verweis auf die WebCam und das kann zu ärgerlichen Widget-Fehlern führen. Mit der neuen Scriptversion werden die gerade gültigen Pfade zu den Medien direkt von der Website des Herstellers ausgelesen, wenn das Widget sich aktualisiert. Auch dieses Verfahren kann sich laufend ändern und deshalb wird die Datei 1x pro Tag aktualisiert. Die Parameter-Datei _WWSmod_Specialcases.js_ mit den Auslese-Routinen von den Websites liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
+
 
 ------------------------------------------------
-# Scripts der ersten Generation
+## Scripts der ersten Generation
 Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 Ihr findet da alles, den Code und die Installations-Anleitung in Text und als YouTube-Video.
 Das erste Video erklärt, wie das Widget-Script von Github nach Scriptable gebracht wird: [https://youtu.be/tRHFpwIr_l0](https://youtu.be/tRHFpwIr_l0)
