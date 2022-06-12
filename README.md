@@ -13,6 +13,32 @@
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
 # Webcam Widgets Sylt -  live auf dem iPhone
+
+Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der Seite.
+
+### 12.06.20222: deutlich verbessertes Script der 2. neue Version ab sofort verfügbar - Eins für Alles - 
+Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
+* Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) erklärt)
+* Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
+* Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
+* erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
+* Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
+* tägliche Aktualisierung der WebCam-Listen
+* News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
+
+Das Ergebnis kann sich sehen lassen:
+<table class="center">
+  <tr>
+    <td text align="center"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/WWSv2-2.jpeg" title="FRS-Syltfähre"></td>
+    <td text align="center"><img src="images/WWSv2-3.jpeg" title="Livespotting & andere"></td>
+  </tr>
+</table>
+
+Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
+
+------------------------------------------------
+### Einleitung
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
@@ -31,33 +57,12 @@ Das iPhone aktualisiert diese Bilder alle 15-20 min und damit sind die Bilder im
 Der Livestream der WebCam öffnet sich, wenn man das Bild antippt.
 
 ------------------------------------------------
+### Neuerungen im Script der 2. Generation
 
-Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
-Ihr findet da alles, den Code und die Installations-Anleitung in Text und als YouTube-Video.
-Das erste Video erklärt, wie das Widget-Script von Github nach Scriptable gebracht wird: [https://youtu.be/tRHFpwIr_l0](https://youtu.be/tRHFpwIr_l0)
-Das zweite Video stellt dann dar, wie danach das Widget eingerichtet wird [https://youtu.be/LnrikIM3T0U](https://youtu.be/LnrikIM3T0U) .
-
-Ihr werdet sehen, das ist alles sehr einfach.
-
-<table class="center">
-  <tr>
-    <th>7 Webcams Livespotting & andere von Sylt</th>
-    <th>6 Webcams Autozug Sylt-Shuttle</th>
-    <th>3 WebCams Syltfähre</th>
-  </tr>
-  <tr>
-    <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
-    <td text align="center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
-    <td text align="center"><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
-
-  </tr>
-  <tr>
-    <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
-    <td text align="center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
-    <td text align="center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
-  </tr>
-</table>
-
+Diese Neuerungen sind in dem Script der 2. Generation **WWS_Master.js** umgesetzt:
+* die Daten der Cams stehen jetzt nicht mehr im Script, sondern in einer zentralen Datei, die das Script täglich 1x aktualisiert. Dadurch kommt der Benutzer viel schneller in den Genuss neuer verfügbarer Cams. Die Textdateien mit den Daten der Cams liegen hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
+* Die Parameter pro Script werden in einer zentralen Datei geführt, die auch täglch 1x aktualisiert wird. Damit kann zentral und schnell auf Änderungsbedarf reagiert werden, ohne das Script selber ändern zu müssen. Die Parameter-Datei _WWSmod_Paramters.js_ mit den Parametern der einzelnen Scripte liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
+* Auf einigen WebCams sind die Informationen zu den WebCams oder Livestreams mit Zeitstempeln versehen. Damit ändert sich laufend der Verweis auf die WebCam und das kann zu ärgerlichen Widget-Fehlern führen. Mit der neuen Scriptversion werden die gerade gültigen Pfade zu den Medien direkt von der Website des Herstellers ausgelesen, wenn das Widget sich aktualisiert. Auch dieses Verfahren kann sich laufend ändern und deshalb wird die Datei 1x pro Tag aktualisiert. Die Parameter-Datei _WWSmod_Specialcases.js_ mit den Auslese-Routinen von den Websites liegt liegt hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
 
 ------------------------------------------------
 
@@ -149,7 +154,7 @@ Diese Webcams sind eingebunden:
 * Büsum I
 * Büsum II
 * Büsum Deichhausen
-* Greetsiel (derzeit offline)
+* Greetsiel
 
 
 ------------------------------------------------
@@ -181,13 +186,49 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ------------------------------------------------
 #### News:
 
-##### 2021-08-20
-Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
+##### 2022-06-12
+Die neue Version WWS_Master.js steht ab sofort zur Verfügung, eine für alles. 
+[Hier](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) gehts zum Download
 
 ------------------------------------------------
 ##### 2022-02-06
 Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden, es ist [Hier](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) zu finden.
 
+------------------------------------------------
+##### 2021-08-20
+Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+------------------------------------------------
+# Scripts der ersten Generation
+Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
+Ihr findet da alles, den Code und die Installations-Anleitung in Text und als YouTube-Video.
+Das erste Video erklärt, wie das Widget-Script von Github nach Scriptable gebracht wird: [https://youtu.be/tRHFpwIr_l0](https://youtu.be/tRHFpwIr_l0)
+Das zweite Video stellt dann dar, wie danach das Widget eingerichtet wird [https://youtu.be/LnrikIM3T0U](https://youtu.be/LnrikIM3T0U) .
+
+Ihr werdet sehen, das ist alles sehr einfach.
+
+<table class="center">
+  <tr>
+    <th>7 Webcams Livespotting & andere von Sylt</th>
+    <th>6 Webcams Autozug Sylt-Shuttle</th>
+    <th>3 WebCams Syltfähre</th>
+  </tr>
+  <tr>
+    <td text align="center"><img src="images/Preview_Livespotting.jpg" title="Livespotting.com"></td>
+    <td text align="center"><img src="images/Preview_SyltShuttle.jpg" title="Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/Preview_SyltFaehre.jpg" title="FRS-Syltfähre"></td>
+
+  </tr>
+  <tr>
+    <td text align="center"><a href="https://bit.ly/3b2wrsd">[Link zum Einrichten]</a></td>
+    <td text align="center"><a href="https://bit.ly/3dj5YcN">[Link zum Einrichten]</a></td>
+    <td text align="center"><a href="https://bit.ly/3eCBe7d">[Link zum Einrichten]</a></td>
+  </tr>
+</table>
+
+
