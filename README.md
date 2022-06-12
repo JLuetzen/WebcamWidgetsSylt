@@ -180,7 +180,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ##### 2022-06-12
 Die neue Version WWS_Master.js steht ab sofort zur Verfügung, eine für alles. 
-[Hier](https://gist.github.com/JLuetzen/4682350fd2f7cfa3c1f6a1eab448ef61) gehts zum Download
+[Hier](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) gehts zum Download
 
 ------------------------------------------------
 ##### 2022-02-06
