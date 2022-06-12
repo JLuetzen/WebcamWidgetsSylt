@@ -47,7 +47,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
+		hinweistext = "--> Heute ist Sonntag <--";
 	break;
 
 
