@@ -16,7 +16,7 @@
 
 Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der Seite.
 
-### 12.06.20222: deutlich verbessertes Script der 2. neue Version ab sofort verfügbar - Eins für Alles - 
+### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
 Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
 * Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) erklärt)
 * Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
@@ -25,6 +25,11 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
+
+**Einfach diesen Code scannen**, der einen Kurzbefehl installiert (der kopiert das Update-Scrpit auf das iPhone und startet es). 
+Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
+
+<a href="images/QRCodeWWS.png"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren"></a>
 
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
