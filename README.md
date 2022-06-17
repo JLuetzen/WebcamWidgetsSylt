@@ -18,7 +18,7 @@ Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der S
 
 ### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
 Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Download bereitsteht. Die Vorteile dieser neuen Version sind
-* Kinderleichtes Einrichten durch vordefinierte Namen (Auf der [Download-Seite](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) erklärt)
+* Kinderleichtes Einrichten durch Kurzbefehl zum Updaten, dazu den Code unten scannen
 * Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
@@ -30,6 +30,19 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
 
 <a href="images/QRCodeWWS.png"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren" height="200"></a>
+
+Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.be/vTvw9BsSmVY)
+
+  1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
+  2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die mittlere Widget-Größe auswählen und "Add Widget" antippen.
+  3. Die Icons sollten immer noch wackeln. Jetzt das neue Widget antippen, um die Einstellung zu starten
+  4. Falls die Icons nicht wackeln, einfach den Homescreen lang drücken, bis sie es tun
+  5. Unter "Script" das neue Script auswählen, zB "_WWS_Syltcams_"
+  6. Unter "When interacting" auf "_Open URL_" stellen
+  7. Unter Parameter: eine Zahl zwischen 1 und 7
+  8.  Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
+  9.  Schritte 6-12 wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
+  10.  Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
 
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
