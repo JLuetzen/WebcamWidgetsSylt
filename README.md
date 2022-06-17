@@ -29,11 +29,17 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
+**Es ist einfach kinderleicht:**
+**1. Scriptable installieren**
+Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id1405459188) auf dem iPhone installieren
+
+**2. Kurzbefehl ausführen**
 **Einfach diesen Code scannen**, der einen Kurzbefehl installiert (der kopiert das Update-Scrpit auf das iPhone und startet es). 
 Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
 
 <a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren" height="200"></a>
 
+**3. Widgets einrichten**
 Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.be/vTvw9BsSmVY)
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
@@ -46,6 +52,8 @@ Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.b
   8.  Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
   9.  Schritte 6-12 wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
   10.  Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
+
+----------------------------------------------------
 
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
