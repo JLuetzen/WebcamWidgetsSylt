@@ -29,7 +29,11 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
+----------------------------------------------------
+
 **Es ist einfach kinderleicht:**
+
+
 **1. Scriptable installieren**
 
 Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id1405459188) auf dem iPhone installieren
