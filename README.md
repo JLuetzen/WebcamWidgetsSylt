@@ -29,7 +29,7 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 **Einfach diesen Code scannen**, der einen Kurzbefehl installiert (der kopiert das Update-Scrpit auf das iPhone und startet es). 
 Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
 
-<a href="images/QRCodeWWS.png"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren"></a>
+<a href="images/QRCodeWWS.png"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren" height="200"></a>
 
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
