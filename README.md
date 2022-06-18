@@ -65,7 +65,6 @@ Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.b
   10.  Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?
- 
   ***Antwort***: Weil Apple das aus guten Gründen nicht freigegeben hat.
 
 
