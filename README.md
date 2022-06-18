@@ -31,7 +31,7 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 
 ----------------------------------------------------
 
-**Es ist einfach kinderleicht:**
+**Es ist einfach und kinderleicht in 3 Schritten: Scriptable installieren - Update-Kurzbefehl laden und ausführen - Widgets einrichten**
 
 
 **1. Scriptable installieren**
@@ -63,6 +63,9 @@ Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.b
   8.  Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
   9.  Schritte 6-12 wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
   10.  Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
+  ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?
+  ***Antwort***: Weil Apple das aus guten Gründen nicht freigegeben hat.
+
 
 ----------------------------------------------------
 
