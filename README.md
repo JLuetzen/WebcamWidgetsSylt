@@ -17,7 +17,7 @@
 Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der Seite.
 Hier gehts zum neuesten Zeugs...
 
-<a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren" height="200"></a>
+<a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a>
 
 ### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
 Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Anschauen bereitsteht. Die Vorteile dieser neuen Version sind
@@ -43,6 +43,7 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 **Einfach diesen Code tippen oder scannen**, der einen Kurzbefehl installiert (der kopiert das Update-Scrpit auf das iPhone und startet es). 
 Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
 
+<a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a>
 <a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/QRCodeWWS.png" title="QR-Code zum Installieren" height="200"></a>
 
 **3. Widgets einrichten**
