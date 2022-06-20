@@ -59,9 +59,9 @@ Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.b
   4. Falls die Icons nicht wackeln, einfach den Homescreen lang drücken, bis sie es tun
   5. Unter "Script" das neue Script auswählen, zB "_WWS_Syltcams_"
   6. Unter "When interacting" auf "_Open URL_" stellen
-  7. Unter Parameter: eine Zahl zwischen 1 und 7
+  7. Unter Parameter: eine Zahl, beginnend mit 1. Ist sie zu hoch, sagt das Widget es ;-)
   8.  Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
-  9.  Schritte 6-12 wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
+  9.  Diese Schritte wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
   10.  Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
