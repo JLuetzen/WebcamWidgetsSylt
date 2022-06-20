@@ -21,17 +21,19 @@
 	console.log("im Modul Specialcase: V10");
 
 	myArray = specialcase.split("*");
-	camProvider = myArray[0];
-	imgURL = myArray[1];
-	camURL = myArray[2];
-	movietimestamp = myArray[3];
-	customLogo = myArray[4];
+	camFamily = myArray[0];
+	camProvider = myArray[1];
+	imgURL = myArray[2];
+	camURL = myArray[3];
+	movietimestamp = myArray[4];
+	customLogo = myArray[5];
 
-	console.log("im Modul: camProvider: " + camProvider);
-	console.log("im Modul: imgURL: " + imgURL);
-	console.log("im Modul: camURL: " + camURL);
-	console.log("im Modul: movietimestamp: " + movietimestamp);
-	console.log("im Modul: customLogo (sollte leer sein): " + customLogo);
+	console.log("Eingang Specialcases: camFamily: " + camFamily);
+	console.log("Eingang Specialcases: camProvider: " + camProvider);
+	console.log("Eingang Specialcases: imgURL: " + imgURL);
+	console.log("Eingang Specialcases: camURL: " + camURL);
+	console.log("Eingang Specialcasesl: movietimestamp: " + movietimestamp);
+	console.log("Eingang Specialcases: customLogo (sollte leer sein): " + customLogo);
 
 //
 // Zeitstempel...
@@ -197,7 +199,7 @@ switch ( camProvider ) {
 // Ab hier gehts um das Custom logo
 //
 
-switch ( camProvider ) {
+switch ( camFamily ) {
 
 	case ("Kochelsee") :
 		customLogo = "CustomLogos/WWS_Logo_Eastern_2022.png"
