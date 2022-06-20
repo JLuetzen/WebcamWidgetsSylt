@@ -25,11 +25,13 @@
 	imgURL = myArray[1];
 	camURL = myArray[2];
 	movietimestamp = myArray[3];
+	customLogo = myArray[4];
 
 	console.log("im Modul: camProvider: " + camProvider);
 	console.log("im Modul: imgURL: " + imgURL);
 	console.log("im Modul: camURL: " + camURL);
 	console.log("im Modul: movietimestamp: " + movietimestamp);
+	console.log("im Modul: customLogo (sollte leer sein): " + customLogo);
 
 //
 // Zeitstempel...
@@ -188,9 +190,23 @@ switch ( camProvider ) {
 	//
 	// Ende Golfclub Sylt
 	//
-//*/
 
 } // Ende switch
+
+//
+// Ab hier gehts um das Custom logo
+//
+
+switch ( camProvider ) {
+
+	case ("Kochelsee") :
+		customLogo = "CustomLogos/WWS_Logo_Eastern_2022.png"
+	break;
+
+	}
+// Ende Switch camProvider für CustomLogo
+
+specialcase = specialcase  + "*" + customLogo;
 
 /*
 //
