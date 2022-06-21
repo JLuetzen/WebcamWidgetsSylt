@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V11");
+	console.log("im Modul Specialcase: V12");
 
 	myArray = specialcase.split("*");
 	camLocation = myArray[0];
