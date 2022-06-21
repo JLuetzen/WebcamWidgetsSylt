@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V13");
+	console.log("im Modul Specialcase: V14");
 
 	myArray = specialcase.split("*");
 	camLocation = myArray[0];
@@ -198,7 +198,7 @@ switch ( camProvider ) {
 //
 // Ab hier gehts um das Custom logo
 //
-
+	console.log("Vor Switch in Specialcases: " + specialcase);
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
