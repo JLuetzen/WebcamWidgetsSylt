@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V20");
+	console.log("im Modul Specialcase: V18");
 	console.log("Am Beginn von Specialcases: " + specialcase);
 
 	myArray = specialcase.split("*");
@@ -29,12 +29,12 @@
 	movietimestamp = myArray[4];
 	customLogoName = myArray[5];
 
-	console.log("1 Eingang Specialcases: camFamily: " + camLocation);
-	console.log("2 Eingang Specialcases: camProvider: " + camProvider);
-	console.log("3 Eingang Specialcases: imgURL: " + imgURL);
-	console.log("4 Eingang Specialcases: camURL: " + camURL);
-	console.log("5 Eingang Specialcasesl: movietimestamp: " + movietimestamp);
-	console.log("6 Eingang Specialcases: customLogoName (sollte leer sein): " + customLogoName);
+	console.log("Eingang Specialcases: camFamily: " + camLocation);
+	console.log("Eingang Specialcases: camProvider: " + camProvider);
+	console.log("Eingang Specialcases: imgURL: " + imgURL);
+	console.log("Eingang Specialcases: camURL: " + camURL);
+	console.log("Eingang Specialcasesl: movietimestamp: " + movietimestamp);
+	console.log("Eingang Specialcases: customLogoName (sollte leer sein): " + customLogoName);
 
 //
 // Zeitstempel...
@@ -87,7 +87,7 @@ switch ( camProvider ) {
 					console.log("Zeige aktuelles Livebild")
 					camURL = imgURL;
 					movietimestamp = "Kein Video verfügbar -> Livebild"
-					specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+					specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 				}
 				else {
 
@@ -106,7 +106,7 @@ switch ( camProvider ) {
 // extracting Movie timestamp from MovieLink
 				movietimestamp = "Video from: " + movielink.substr(-8,2) + ":" + movielink.substr(-6,2);
 				console.log("Timestamp : " + movietimestamp);
-				specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 				}
 			}
 	//		break;
@@ -153,7 +153,7 @@ switch ( camProvider ) {
 				// extracting Movie timestamp from MovieLink
 				movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
 				console.log("im Modul: Timestamp Prien: " + movietimestamp);
-				specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+				specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //			}
 
 	break;
@@ -186,7 +186,7 @@ switch ( camProvider ) {
 			console.log("Response Golfclub: " + response);
 			imgURL = response;
 // der URL für das Großbild camURL verweist auf die WebSite, da ist immer das max 10s alte Bild zu sehen
-			specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+			specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 //	}
 
 	break;

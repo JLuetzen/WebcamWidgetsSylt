@@ -15,10 +15,10 @@
 {
 let param = args.widgetParameter;
 if ( param == null ){
-//param = 8; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+//param = 11; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 12");
+	console.log("V 9");
 //
 // Initialization der Variablen
 //
@@ -256,7 +256,7 @@ switch (errParam) {
 		console.log("WWS nach specialcases: imgURL: " + imgURL);
 		console.log("WWS nach specialcases: camURL: " + camURL);
 		console.log("WWS nach specialcases: movietimestamp: " + movietimestamp);
-		console.log("WWS nach specialcases: customLogoName: " + customLogoName);
+		console.log("WWS nach specialcases: customLogo: " + customLogoName);
 
 		//
 		// für Hinweise
@@ -265,8 +265,8 @@ switch (errParam) {
 			movietimestamp = hinweistext;
 		}
 
-		console.log("Check: GitHubLogoName: " + GitHubLogoName);
-		console.log("Check: customLogoName: " + customLogoName);
+		console.log("GitHubLogoName: " + GitHubLogoName);
+		console.log("customLogo: " + customLogoName);
 
 		if (customLogoName == "noCustomLogo") {
 			var logoImg = await getImage(GitHubLogoName,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
