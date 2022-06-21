@@ -21,7 +21,7 @@
 	console.log("im Modul Specialcase: V10");
 
 	myArray = specialcase.split("*");
-	camFamily = myArray[0];
+	camLocation = myArray[0];
 	camProvider = myArray[1];
 	imgURL = myArray[2];
 	camURL = myArray[3];
@@ -199,7 +199,7 @@ switch ( camProvider ) {
 // Ab hier gehts um das Custom logo
 //
 
-switch ( camFamily ) {
+switch ( camLocation ) {
 
 	case ("Kochelsee") :
 		customLogo = "CustomLogos/WWS_Logo_Eastern_2022.png"
