@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V15");
+	console.log("im Modul Specialcase: V16");
 	console.log("Am Beginn von Specialcases: " + specialcase);
 
 	myArray = specialcase.split("*");
@@ -203,7 +203,7 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
-		customLogo = "/CustomLogos/WWS_Logo_Eastern2022.png";
+		customLogo = "WWS_Logo_Eastern2022.png";
 		console.log("Kochelsee gefunden, CustomLogo: " + customLogo + " . ");
 	break;
 
