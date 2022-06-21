@@ -18,7 +18,7 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V16");
+	console.log("im Modul Specialcase: V18");
 	console.log("Am Beginn von Specialcases: " + specialcase);
 
 	myArray = specialcase.split("*");
@@ -27,14 +27,14 @@
 	imgURL = myArray[2];
 	camURL = myArray[3];
 	movietimestamp = myArray[4];
-	customLogo = myArray[5];
+	customLogoName = myArray[5];
 
 	console.log("Eingang Specialcases: camFamily: " + camLocation);
 	console.log("Eingang Specialcases: camProvider: " + camProvider);
 	console.log("Eingang Specialcases: imgURL: " + imgURL);
 	console.log("Eingang Specialcases: camURL: " + camURL);
 	console.log("Eingang Specialcasesl: movietimestamp: " + movietimestamp);
-	console.log("Eingang Specialcases: customLogo (sollte leer sein): " + customLogo);
+	console.log("Eingang Specialcases: customLogoName (sollte leer sein): " + customLogoName);
 
 //
 // Zeitstempel...
@@ -203,14 +203,18 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
-		customLogo = "WWS_Logo_Eastern2022.png";
-		console.log("Kochelsee gefunden, CustomLogo: " + customLogo + " . ");
+		customLogoName = "WWS_Logo_Eastern2022.png";
+		console.log("Kochelsee gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
-	}
-// Ende Switch camProvider für CustomLogo
+	default:
+		customLogoName = "noCustomLogo"
+		console.log("kein CustomLogoName");
 
-specialcase = specialcase  + "*" + customLogo;
+	}
+// Ende Switch camProvider für CustomLogoName
+
+specialcase = specialcase  + "*" + customLogoName;
 
 	console.log("Am Ende von Specialcases: " + specialcase);
 /*
