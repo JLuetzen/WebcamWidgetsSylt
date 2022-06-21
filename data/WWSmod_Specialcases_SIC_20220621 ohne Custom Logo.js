@@ -18,23 +18,18 @@
 	var res;
 	var req;
 
-	console.log("im Modul Specialcase: V18");
-	console.log("Am Beginn von Specialcases: " + specialcase);
+	console.log("im Modul Specialcase: V10");
 
 	myArray = specialcase.split("*");
-	camLocation = myArray[0];
-	camProvider = myArray[1];
-	imgURL = myArray[2];
-	camURL = myArray[3];
-	movietimestamp = myArray[4];
-	customLogoName = myArray[5];
+	camProvider = myArray[0];
+	imgURL = myArray[1];
+	camURL = myArray[2];
+	movietimestamp = myArray[3];
 
-	console.log("Eingang Specialcases: camFamily: " + camLocation);
-	console.log("Eingang Specialcases: camProvider: " + camProvider);
-	console.log("Eingang Specialcases: imgURL: " + imgURL);
-	console.log("Eingang Specialcases: camURL: " + camURL);
-	console.log("Eingang Specialcasesl: movietimestamp: " + movietimestamp);
-	console.log("Eingang Specialcases: customLogoName (sollte leer sein): " + customLogoName);
+	console.log("im Modul: camProvider: " + camProvider);
+	console.log("im Modul: imgURL: " + imgURL);
+	console.log("im Modul: camURL: " + camURL);
+	console.log("im Modul: movietimestamp: " + movietimestamp);
 
 //
 // Zeitstempel...
@@ -193,36 +188,16 @@ switch ( camProvider ) {
 	//
 	// Ende Golfclub Sylt
 	//
+//*/
 
 } // Ende switch
 
-//
-// Ab hier gehts um das Custom logo
-//
-	console.log("Vor Switch in Specialcases: " + specialcase);
-switch ( camLocation ) {
-
-	case ("Kochelsee") :
-		customLogoName = "WWS_Logo_Eastern2022.png";
-		console.log("Kochelsee gefunden, CustomLogoName: " + customLogoName + " . ");
-	break;
-
-	default:
-		customLogoName = "noCustomLogo"
-		console.log("kein CustomLogoName");
-
-	}
-// Ende Switch camProvider für CustomLogoName
-
-specialcase = specialcase  + "*" + customLogoName;
-
-	console.log("Am Ende von Specialcases: " + specialcase);
 /*
 //
 // Und hier noch einmal das Ergebnis:
 // (Kommentar kann entfernt werden bei Interesse
 //
-myArray = specialcase.split("*");
+ = specialcase.split("*");
 	camProvider = myArray[0];
 	imgURL = myArray[1];
 	camURL = myArray[2];

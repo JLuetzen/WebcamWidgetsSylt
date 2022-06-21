@@ -1,6 +1,6 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
-// icon-color: blue; icon-glyph: camera-retro;
+// icon-color: orange; icon-glyph: camera-retro;
 // Script by Jens Luetzen: <kliffkieker67@gmail.com>
 //
 // Sichern dieses Scriptes unter einem der folgenden Namen, damit die Parameter ausgelesen werden:
@@ -15,13 +15,14 @@
 {
 let param = args.widgetParameter;
 if ( param == null ){
-// param = 2; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+//param = 11; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
+	console.log("V 9");
 //
 // Initialization der Variablen
 //
-var dataload_mode = "Standard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
+var dataload_mode = "nonStandard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
 
 var campic; //number of cam being handed over to Widget
 var errParam;
@@ -39,6 +40,8 @@ var camURL; // LiveStreamURL
 var sunrise; // Zeit Sonnenaufgang
 var sunset; // Zeit Sonnenuntergang
 var hinweistext = "";  // der Hinweistext ersetzt den movietimestamp
+var customLogoName = ""; // Cam-abhängiges Logo möglich --> wird in Specialcases mitgegeben
+var logo
 //
 // Ende Initialisierung der Variablen
 //
@@ -82,7 +85,7 @@ const GitHubParameterFile = "WWSmod_Parameters"
 	const loadparameterfile = importModule(GitHubParameterFile + todaydatestring + ".js");
 	let parameterdata = await loadparameterfile.assignParameters(myName);
 
-	console.log("Ausgang: specialcase: " + parameterdata);
+	console.log("Ausgang: LoadParameterFile: " + parameterdata);
 
 	myparameterArray = parameterdata.split("*");
 	CamFamily = myparameterArray[0];
@@ -93,7 +96,7 @@ const GitHubParameterFile = "WWSmod_Parameters"
 	GitHubSpecialCaseFile = myparameterArray[5];
 	hinweistext = myparameterArray[6];
 
-	console.log("Ausgang Parameter: camFalmily: " + CamFamily);
+	console.log("Ausgang Parameter: camFamily: " + CamFamily);
 	console.log("Ausgang Parameter: GitHubCamFile: " + GitHubCamFile);
 	console.log("Ausgang Parameter: sourceURL: " + sourceURL);
 	console.log("Ausgang Parameter: GitHubLogoName: " + GitHubLogoName);
@@ -103,11 +106,11 @@ const GitHubParameterFile = "WWSmod_Parameters"
 
 //
 // jetzt können die restlichen Dateien geladen werden...
-// logoIMG enthält das Logo,
+// logoImg enthält das Logo,
 // dataFl enthält die Datei mit den Daten der Cams,
 // specialCaseFl enthält die Sonderfälle für das Webscraping.
 //
-	const logoImg = await getImage(GitHubLogoName,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
+//	const logoImg = await getImage(GitHubLogoName,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 	const dataFl = await getData(GitHubCamFile,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 	const specialCaseFl = await getData(GitHubSpecialCaseFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 
@@ -230,7 +233,9 @@ switch (errParam) {
 // Auslesen des aktuellen Video - URLs mit richtigem Zeitstempel --> neue camUrl
 //
 
-		specialcase = camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+
+//		specialcase = camLocation  + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp + "*" + customLogo;
+		specialcase = camLocation  + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 		console.log("Eingang: specialcase: " + specialcase);
 
 		const loadcamparameter = importModule(GitHubSpecialCaseFile + todaydatestring + ".js");
@@ -239,15 +244,19 @@ switch (errParam) {
 		console.log("Ausgang: specialcase: " + camparameterstring);
 
 		mynewcamparameterArray = camparameterstring.split("*");
-		camProvider = mynewcamparameterArray[0];
-		imgURL = mynewcamparameterArray[1];
-		camURL = mynewcamparameterArray[2];
-		movietimestamp = mynewcamparameterArray[3];
+		camLocation = mynewcamparameterArray[0];
+		camProvider = mynewcamparameterArray[1];
+		imgURL = mynewcamparameterArray[2];
+		camURL = mynewcamparameterArray[3];
+		movietimestamp = mynewcamparameterArray[4];
+		customLogoName = mynewcamparameterArray[5];
 
-		console.log("Ausgang: camProvider: " + camProvider);
-		console.log("Ausgang: imgURL: " + imgURL);
-		console.log("Ausgang: camURL: " + camURL);
-		console.log("Ausgang: movietimestamp: " + movietimestamp);
+		console.log("WWS nach specialcases: camLocation: " + camLocation);
+		console.log("WWS nach specialcases: camProvider: " + camProvider);
+		console.log("WWS nach specialcases: imgURL: " + imgURL);
+		console.log("WWS nach specialcases: camURL: " + camURL);
+		console.log("WWS nach specialcases: movietimestamp: " + movietimestamp);
+		console.log("WWS nach specialcases: customLogo: " + customLogoName);
 
 		//
 		// für Hinweise
@@ -256,6 +265,17 @@ switch (errParam) {
 			movietimestamp = hinweistext;
 		}
 
+		console.log("GitHubLogoName: " + GitHubLogoName);
+		console.log("customLogo: " + customLogoName);
+
+		if (customLogoName == "noCustomLogo") {
+			var logoImg = await getImage(GitHubLogoName,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
+		} else {
+			var customLogoPath = GitHubDataPath + "/CustomLogos";
+			console.log("CustomLogoPath = " + customLogoPath);
+			console.log("CustomLogoName = " + customLogoName);
+			var logoImg = await getImage(customLogoName,customLogoPath,todaydatestring,yesterdaydatestring,dataload_mode);
+		}
 //
 // Laden des des Preview Pictures = Hintergrundbild des Widgets
 //
@@ -480,6 +500,7 @@ async function getImage(image,prvlogofileURL,prv_todaydatestring,prv_yesterdayda
     let fm = FileManager.local();
     let dir = fm.documentsDirectory();
     let path = fm.joinPath(dir, image); // das war bisher...
+		console.log("Image = " + image);
 		// jetzt kommt das neue Zeugs...
 		// Today - Datei mit heutigem Datum "WWS_Logo_HEUTEDATUM.png"
 		const myArray = image.split(".");
