@@ -202,7 +202,8 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
-		customLogo = "/CustomLogos/WWS_Logo_Eastern_2022.png"
+		customLogo = "/CustomLogos/WWS_Logo_Eastern_2022.png";
+		console.log("Kochelsee gefunden, CustomLogo: " + customLogo + " . ");
 	break;
 
 	}
