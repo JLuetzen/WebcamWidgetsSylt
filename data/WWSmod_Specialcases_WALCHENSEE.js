@@ -202,7 +202,7 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
-		customLogo = "CustomLogos/WWS_Logo_Eastern_2022.png"
+		customLogo = "/CustomLogos/WWS_Logo_Eastern_2022.png"
 	break;
 
 	}
