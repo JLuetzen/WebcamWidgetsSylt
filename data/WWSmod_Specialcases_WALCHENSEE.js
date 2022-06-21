@@ -28,7 +28,7 @@
 	movietimestamp = myArray[4];
 	customLogo = myArray[5];
 
-	console.log("Eingang Specialcases: camFamily: " + camFamily);
+	console.log("Eingang Specialcases: camFamily: " + camLocation);
 	console.log("Eingang Specialcases: camProvider: " + camProvider);
 	console.log("Eingang Specialcases: imgURL: " + imgURL);
 	console.log("Eingang Specialcases: camURL: " + camURL);
@@ -215,7 +215,7 @@ specialcase = specialcase  + "*" + customLogo;
 // Und hier noch einmal das Ergebnis:
 // (Kommentar kann entfernt werden bei Interesse
 //
- = specialcase.split("*");
+myArray = specialcase.split("*");
 	camProvider = myArray[0];
 	imgURL = myArray[1];
 	camURL = myArray[2];
