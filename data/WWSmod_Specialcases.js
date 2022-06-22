@@ -203,8 +203,9 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kochelsee") :
+	case ("Surfcam Sylt")
 		customLogoName = "WWS_Logo_Eastern2022.png";
-		console.log("Kochelsee gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Kochelsee oder Surfcam gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	default:
