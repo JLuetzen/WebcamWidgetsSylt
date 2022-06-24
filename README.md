@@ -42,8 +42,9 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 
 **2. Kurzbefehl ausführen**
 
-**Einfach diesen Code tippen oder scannen**, der einen Kurzbefehl installiert (der kopiert das Update-Scrpit auf das iPhone und startet es). 
-Am Ende sind alle WebcamWidgetsSylt Scripte auf dem iPhone und das viel einfacher und schneller als je zuvor.
+**Einfach das Bild antippen** und den Kurzbefehl installieren. Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone und startet es.
+Der Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. 
+Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
 
 <a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a>
 
