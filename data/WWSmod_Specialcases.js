@@ -203,7 +203,7 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Westerland Promenade"):
-		customLogoName = "WWS_Logo_Westerland.jpeg";
+		customLogoName = "WWS_Logo_Westerland.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
