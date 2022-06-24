@@ -19,6 +19,8 @@ var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltshuttle.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_CSML-Edition.js");//
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Surfcams_Bayern.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltcams_TST.js");//
+
 
 Script.complete();
 

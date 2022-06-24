@@ -40,6 +40,17 @@ switch (myFilename) {
 	break;
 
 
+	case ("WWS_Syltcams_TST"):
+		CamFamily = "Sylt Cams_TST";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "";
+	break;
+
+
 	case ("WWS_Syltfaehre"):
 		CamFamily = "FRS Syltfähre";
 		GitHubCamFile = "Cams_Syltfaehre.txt";
