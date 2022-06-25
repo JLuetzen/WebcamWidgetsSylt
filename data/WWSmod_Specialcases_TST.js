@@ -207,6 +207,11 @@ switch ( camLocation ) {
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case ("Kampen Quermarkenfeuer"):
+		customLogoName = "WWS_Logo_Kampen.png";
+		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kampen Hotel Rungholt"):
 		customLogoName = "WWS_Logo_Rungholt.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
