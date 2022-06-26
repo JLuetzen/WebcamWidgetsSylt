@@ -43,8 +43,8 @@ switch (myFilename) {
 
 
 	default:
-		CamFamily = "Test Script";
-		GitHubCamFile = "Cam_BBS.txt";
+		CamFamily = "Sylt Cams Singles";
+		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
