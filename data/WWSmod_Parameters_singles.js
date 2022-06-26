@@ -31,7 +31,7 @@ module.exports.assignParameters = async function(myFilename) {
 switch (myFilename) {
 
 	case ("WWS_Sylt_Westerland_Promenade"):
-		CamFamily = "Sylt Cams";
+		CamFamily = "Sylt Cams Singles";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
