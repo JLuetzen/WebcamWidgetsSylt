@@ -15,7 +15,7 @@
 {
 let param = args.widgetParameter;
 if ( param == null ){//
-param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+//param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
 	console.log("V 17");
