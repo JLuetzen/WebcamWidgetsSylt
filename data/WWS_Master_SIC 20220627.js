@@ -14,11 +14,11 @@
 //
 {
 let param = args.widgetParameter;
-if ( param == null ){//
-param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+if ( param == null ){
+//param = 8; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 16");
+	console.log("V 13");
 //
 // Initialization der Variablen
 //
@@ -41,15 +41,14 @@ var sunrise; // Zeit Sonnenaufgang
 var sunset; // Zeit Sonnenuntergang
 var hinweistext = "";  // der Hinweistext ersetzt den movietimestamp
 var customLogoName = ""; // Cam-abhängiges Logo möglich --> wird in Specialcases mitgegeben
-var logo;
-var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters gezogen wird.
+var logo
 //
 // Ende Initialisierung der Variablen
 //
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters_singles"
+const GitHubParameterFile = "WWSmod_Parameters"
 
 //
 // Creating value for date and time
@@ -96,7 +95,6 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 	GitHubErrorPic = myparameterArray[4];
 	GitHubSpecialCaseFile = myparameterArray[5];
 	hinweistext = myparameterArray[6];
-	singleparam = myparameterArray[7];
 
 	console.log("Ausgang Parameter: camFamily: " + CamFamily);
 	console.log("Ausgang Parameter: GitHubCamFile: " + GitHubCamFile);
@@ -105,7 +103,6 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 	console.log("Ausgang Parameter: GitHubErrorPic: " + GitHubErrorPic);
 	console.log("Ausgang Parameter: GitHubSpecialCaseFile: " + GitHubSpecialCaseFile);
 	console.log("Ausgang Parameter: Hinweistext: " + hinweistext);
-	console.log("Ausgang Parameter: Single-Parameter: " + singleparam);
 
 //
 // jetzt können die restlichen Dateien geladen werden...
@@ -117,10 +114,7 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 	const dataFl = await getData(GitHubCamFile,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 	const specialCaseFl = await getData(GitHubSpecialCaseFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 
-// falls das Einzelwidget gewählt wurde und nicht per Widget der Parameter eingegeben wird:
-if (singleparam = null) {
-	param = singleparam;
-	}
+	// console.log(`wieder Main: dataFl: ${dataFl}.`);
 
 //if (param != null && param.length > 0)
 if (param != null) {
