@@ -118,7 +118,7 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 	const specialCaseFl = await getData(GitHubSpecialCaseFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 
 // falls das Einzelwidget gewählt wurde und nicht per Widget der Parameter eingegeben wird:
-if (singleparam = null) {
+if (singleparam != null) {
 	param = singleparam;
 	}
 
