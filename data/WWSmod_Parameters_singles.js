@@ -75,8 +75,6 @@ switch (myFilename) {
 		param = "4"
 	break;
 
-
-
 	case ("WWS_Sylt_Kampen Hotel Rungholt"):
 		CamFamily = "Sylt Cams S";
 		GitHubCamFile = "Cams_Sylt.txt";
