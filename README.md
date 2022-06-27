@@ -60,7 +60,16 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 Der Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. 
 Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
 
-<a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a>
+<table class="center">
+  <tr>
+    <th text align="center">Update alle Widgets mit Parameter</th>
+    <th text align="center">Update Sylt Widgets ohne Parameter</th>
+  </tr>
+  <tr>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+  </tr>
+</table>
 
 
 
