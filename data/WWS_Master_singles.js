@@ -14,15 +14,15 @@
 //
 {
 let param = args.widgetParameter;
-if ( param == null ){
-//param = 8; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+if ( param == null ){//
+param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 15");
+	console.log("V 16");
 //
 // Initialization der Variablen
 //
-var dataload_mode = "Standard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
+var dataload_mode = "nonStandard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
 
 var campic; //number of cam being handed over to Widget
 var errParam;
@@ -49,7 +49,7 @@ var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters g
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters_singles"
+const GitHubParameterFile = "WWSmod_Parameters"
 
 //
 // Creating value for date and time
@@ -118,7 +118,7 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 	const specialCaseFl = await getData(GitHubSpecialCaseFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 
 // falls das Einzelwidget gewählt wurde und nicht per Widget der Parameter eingegeben wird:
-if (singleparam != "") {
+if (singleparam = null) {
 	param = singleparam;
 	}
 
