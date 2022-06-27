@@ -21,14 +21,17 @@ Hier gehts zum neuesten Zeugs...
   <tr>
     <th text align="center">Update alle Widgets mit Parameter</th>
     <th text align="center">Update Sylt Widgets ohne Parameter</th>
+    <th text align="center">Update alle anderen Widgets ohne Parameter</th>
   </tr>
   <tr>
     <td text align="center">Mit diesem Kurzbefehl werden alle Widgets aktualisiert nach dem Grundsatz: viele Cams erreichbar über 1 Widget</td>
     <td text align="center">Mit diesem Kurzbefehl wird nur das Sylt Widgets aktualisiert nach dem Grundsatz: genau 1 Cam erreichbar über 1 Widget</td>
+    <td text align="center">Ist in Arbeit</td>
   </tr>
   <tr>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/459ce5e6d7aa4430afd7ad19b637864f"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+    <td text align="center">Kommt bald</td>
   </tr>
 </table>
 
