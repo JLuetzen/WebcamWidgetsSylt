@@ -90,7 +90,8 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
   
  Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen (das funktioniert NICHT bei der schnellen Variante)
   
-  Stapeln der Bilder:
+  <ins>Stapeln der Bilder:</ins>
+  
   Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
