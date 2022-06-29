@@ -22,20 +22,9 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 {% include youtubePlayer.html id="xDe2LnULC7Y" %}
 
-Hier kommt das neuesten Zeugs... (die alten Scripte stehen unten)
 
-<table class="center">
-  <tr>
-    <th text align="center">Update Sylt Widgets (ohne Parameter !)</th>
-  </tr>
-  <tr>
-    <td text align="center">Mit diesem Kurzbefehl wird nur das Sylt Widgets aktualisiert nach dem Grundsatz: genau 1 Cam erreichbar über 1 Widget</td>
-  </tr>
-  <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
-  </tr>
-</table>
 
+Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 ### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
 Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts zum Anschauen bereitsteht. Die Vorteile dieser neuen Version sind
@@ -47,6 +36,12 @@ Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Sc
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
+* 
+<table class="center">
+  <tr>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+  </tr>
+</table>
 
 ----------------------------------------------------
 
@@ -80,11 +75,11 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-<u>schnelle Variante>/u>
+<u>schnelle Variante</u>
   1. Scriptable öffnen
   2. Script antippen
 
-<u>Homescreen Variante mit Livestream>/u>
+<u>Homescreen Variante mit Livestream</u>
 Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
@@ -131,12 +126,6 @@ Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive m
 Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
 
 <table class="center">
-  <tr>
-    <th text align="center">Update Sylt Widgets (mit Parameter !)</th>
-  </tr>
-  <tr>
-    <td text align="center">Mit diesem Kurzbefehl werden alle Widgets aktualisiert nach dem Grundsatz: viele Cams erreichbar über 1 Widget</td>
-  </tr>
   <tr>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
   </tr>
