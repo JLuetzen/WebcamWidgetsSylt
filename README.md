@@ -119,10 +119,10 @@ Warum eine Nerd-Version?
 Weils so ursprünglich programmiert war:     
 Ein Widget-Script bekommt einen Übergabe-Parameter, welche Zeilennummer aus der CamListe genommen werden soll.    
 
-<ins>Vorteil:     
+<ins>Vorteil:</ins>     
 Man hat nur wenige Scripte auf dem iPhone.  
   
-<ins>Nachteil:     
+<ins>Nachteil:</ins>     
 Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).    
    
 Daher die "Singles"-Version oben, für jede Cam 1 ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
