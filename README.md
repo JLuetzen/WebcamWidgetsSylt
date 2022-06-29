@@ -14,38 +14,43 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-Der Weg zu den bisherigen Scripts der ersten Generation ist ganz unten auf der Seite.
-Hier gehts zum neuesten Zeugs...
+### Einleitung
+Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
+Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
+
+Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be/xDe2LnULC7Y](https://youtu.be/xDe2LnULC7Y)
+
+{% include youtubePlayer.html id="xDe2LnULC7Y" %}
+
+Hier kommt das neuesten Zeugs... (die alten Scripte stehen unten)
 
 <table class="center">
   <tr>
-    <th text align="center">Update alle Widgets mit Parameter</th>
-    <th text align="center">Update Sylt Widgets ohne Parameter</th>
+    <th text align="center">Update Sylt Widgets (ohne Parameter !)</th>
   </tr>
   <tr>
-    <td text align="center">Mit diesem Kurzbefehl werden alle Widgets aktualisiert nach dem Grundsatz: viele Cams erreichbar über 1 Widget</td>
     <td text align="center">Mit diesem Kurzbefehl wird nur das Sylt Widgets aktualisiert nach dem Grundsatz: genau 1 Cam erreichbar über 1 Widget</td>
   </tr>
   <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
   </tr>
 </table>
 
 
 ### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
-Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WW_Master.js** zur Verfügung, das [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) zum Anschauen bereitsteht. Die Vorteile dieser neuen Version sind
-* Kinderleichtes Einrichten durch **Kurzbefehl zum Updaten**, dazu den Kurzbefehl unten ausführen
-* Darstellung Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
+Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts zum Anschauen bereitsteht. Die Vorteile dieser neuen Version sind
+* Kinderleichtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
+* Automatische Updates
+* Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
 * tägliche Aktualisierung der WebCam-Listen
-* News-Zeile vorgesehen (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
+* News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
 ----------------------------------------------------
 
-**Es ist einfach und kinderleicht in 3 Schritten: Scriptable installieren - Update-Kurzbefehl laden und ausführen - Widgets einrichten**
+**Es ist einfach und kinderleicht in 3 Schritten: (1) Scriptable installieren - (2) Update-Kurzbefehl laden und ausführen - (3) Widgets einrichten**
 
 
 **1. Scriptable installieren**
@@ -56,7 +61,7 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 
 **2. Kurzbefehl ausführen**
 
-**Einfach das Bild antippen** und den Kurzbefehl installieren. Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone und startet es.
+**Einfach das Bild antippen** und den Kurzbefehl installieren. Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es.
 Der Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. 
 Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
 
@@ -75,20 +80,27 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-Dann nur noch die Widgets auf den Homescreen bringen: [Beispiel](https://youtu.be/vTvw9BsSmVY)
+<u>schnelle Variante>/u>
+  1. Scriptable öffnen
+  2. Script antippen
+
+<u>Homescreen Variante mit Livestream>/u>
+Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
-  2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die mittlere Widget-Größe auswählen und "Add Widget" antippen.
+  2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
   3. Die Icons sollten immer noch wackeln. Jetzt das neue Widget antippen, um die Einstellung zu starten
   4. Falls die Icons nicht wackeln, einfach den Homescreen lang drücken, bis sie es tun
-  5. Unter "Script" das neue Script auswählen, zB "_WWS_Syltcams_"
-  6. nicht bei "Singles": Unter Parameter: eine Zahl, beginnend mit 1. Ist sie zu hoch, sagt das Widget es ;-)
-  7. Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
-  8. nicht bei "Singles": Diese Schritte wiederholen, um das nächste Widget zu erstellen. Bei "Parameter" die 2 eingeben für die 2. WebCam.
-  9. Wenn die Icons wackeln, das neue Widget auf das vorherige ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack
+  5. Unter "Script" das neue Script auswählen, zB "_WWS_Sylt_SurfcamSylt_"
+  6. Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
+  
+ Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen (das funktioniert NICHT bei der schnellen Variante)
+  
+  Stapeln der Bilder:
+  Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
-  ***Antwort***: Weil Apple das aus guten Gründen nicht freigegeben hat.
+  ***Antwort***: Weil Apple das nicht freigegeben hat.
 
 
 ----------------------------------------------------
@@ -104,15 +116,35 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
+----------------------------------------------------
+### iPhone Nerd Version
+
+Warum eine Nerd-Version?
+Weils so ursprünglich programmiert war:
+Ein Widget-Script bekommt einen Übergabe-Parameter, welche Zeilennummer aus der CamListe genommen werden soll. 
+<u>Vorteil:</u> 
+Man hat nur wenige Scripte auf dem iPhone
+<u>Nachteil:</u>
+Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-)
+Daher die "Singles"-Version oben, für jede Cam 1 ein Script mit einem sprechenden Namen. Das macht es kinderleicht
+Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden
+Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
+
+<table class="center">
+  <tr>
+    <th text align="center">Update Sylt Widgets (mit Parameter !)</th>
+  </tr>
+  <tr>
+    <td text align="center">Mit diesem Kurzbefehl werden alle Widgets aktualisiert nach dem Grundsatz: viele Cams erreichbar über 1 Widget</td>
+  </tr>
+  <tr>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+  </tr>
+</table>
+
 ------------------------------------------------
-### Einleitung
-Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
-Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
-
-Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be/xDe2LnULC7Y](https://youtu.be/xDe2LnULC7Y)
-
-{% include youtubePlayer.html id="xDe2LnULC7Y" %}
-
+### weitere Hinweise
+  
 <br>
 Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und vom Sylt-Shuttle [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
 
