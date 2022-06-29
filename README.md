@@ -27,7 +27,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 ### - Eins für Alles - das Script der 2. Generation
-Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. 
+Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
 
 Die Vorteile dieser neuen Version sind
 * Kinderleichtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
