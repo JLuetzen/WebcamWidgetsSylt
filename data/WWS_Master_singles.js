@@ -22,7 +22,7 @@ if ( param == null ){//
 //
 // Initialization der Variablen
 //
-var dataload_mode = "nonStandard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
+var dataload_mode = "Standard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
 
 var campic; //number of cam being handed over to Widget
 var errParam;
