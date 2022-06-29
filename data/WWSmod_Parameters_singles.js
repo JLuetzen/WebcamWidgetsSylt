@@ -128,7 +128,7 @@ switch (myFilename) {
 // WWS_Syltfaehre
 // *****************************
 
-	case ("WWS_Syltfaehre_Haveneby"):
+	case ("WWS_Syltfaehre_Havneby"):
 		CamFamily = "FRS Syltfähre";
 		GitHubCamFile = "Cams_Syltfaehre.txt";
 		sourceURL = "https://wwsylt.live";
