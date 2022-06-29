@@ -161,8 +161,68 @@ switch (myFilename) {
 		param = "3"
 	break;
 
+	// *****************************
+	// WWS_Syltshuttle
+	// *****************************
 
+	case ("WWS_Niebuell_1"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshutttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "1"
+	break;
 
+	case ("WWS_Niebuell_3"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshutttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "3"
+	break;
+
+	case ("WWS_Westerland_1"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshutttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "4"
+	break;
+
+	case ("WWS_Westerland_2"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshutttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "5"
+	break;
+
+	case ("WWS_Westerland_3"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshutttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "6"
+	break;
+
+	// *****************************
+	// Default
+	// *****************************
 
 
 	default:
