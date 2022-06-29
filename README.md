@@ -27,7 +27,9 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 ### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
-Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts zum Anschauen bereitsteht. Die Vorteile dieser neuen Version sind
+Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. 
+
+Die Vorteile dieser neuen Version sind
 * Kinderleichtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
 * Automatische Updates
 * Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
@@ -117,10 +119,13 @@ Ein Widget-Script bekommt einen Übergabe-Parameter, welche Zeilennummer aus der
 <u>Vorteil:</u> 
 Man hat nur wenige Scripte auf dem iPhone
 <u>Nachteil:</u>
-Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-)
+Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).  
 Daher die "Singles"-Version oben, für jede Cam 1 ein Script mit einem sprechenden Namen. Das macht es kinderleicht
-Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden
+Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.  
+  
 Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
+
+Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit.
 
 <table class="center">
   <tr>
