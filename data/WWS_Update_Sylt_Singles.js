@@ -14,14 +14,21 @@ const GitHubMasterScriptFile = "WWS_Master_singles"
 //const localWidgetfile = "WWS_CSML-Edition"
 // var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,localWidgetfile+".js");
 //
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Westerland_Promenade.js");//
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_SurfcamSylt.js");//
+// WWS_SyltcamsSyltCams
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Westerland_Promenade.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_SurfcamSylt.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Hoernum.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Quermarkenfeuer.js");//
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Quermarkenfeuer.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen Hotel Rungholt.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Rantum.js");//
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Sansibar.js");//
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Golfclub_Sylt.js");//
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Rantum.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Sansibar.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Golfclub_Sylt.js");
+
+// WWS_Syltfaehre
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltfaehre_Haveneby.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltfaehre_List.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltfaehre_List-Zoom.js");
+
 
 Script.complete();
 

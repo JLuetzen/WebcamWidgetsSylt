@@ -30,6 +30,11 @@ module.exports.assignParameters = async function(myFilename) {
 
 switch (myFilename) {
 
+	// *****************************
+	// WWS_Syltcams
+	// *****************************
+
+
 	case ("WWS_Sylt_Westerland_Promenade"):
 		CamFamily = "Sylt Cams S";
 		GitHubCamFile = "Cams_Sylt.txt";
@@ -118,6 +123,46 @@ switch (myFilename) {
 		hinweistext = "";
 		param = "8"
 	break;
+
+// *****************************
+// WWS_Syltfaehre
+// *****************************
+
+	case ("WWS_Syltfaehre_Haveneby"):
+		CamFamily = "FRS Syltfähre";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "1"
+	break;
+
+	case ("WWS_Syltfaehre_List"):
+		CamFamily = "FRS Syltfähre";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "2"
+	break;
+
+	case ("WWS_Syltfaehre_List-Zoom"):
+		CamFamily = "FRS Syltfähre";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "3"
+	break;
+
+
+
 
 
 	default:
