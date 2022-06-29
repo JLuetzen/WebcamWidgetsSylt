@@ -26,7 +26,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
-### 12.06.20222: deutlich verbessertes Script der 2. Generation ab sofort verfügbar - Eins für Alles - 
+### - Eins für Alles - das Script der 2. Generation
 Ab sofort steht neben den bereits bewährten Scripts das deutlich verbesserte Script der 2. Generation unter dem Namen **WWS_Master_singles.js** bzw **WWS_Master.js** zur Verfügung. 
 
 Die Vorteile dieser neuen Version sind
@@ -39,11 +39,6 @@ Die Vorteile dieser neuen Version sind
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
-<table class="center">
-  <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
-  </tr>
-</table>
 
 ----------------------------------------------------
 
