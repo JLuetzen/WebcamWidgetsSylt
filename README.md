@@ -305,7 +305,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #### News:
 
 ##### 2022-06-17
-Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Script und das wiederum speichert die Scripts für die Widgets wie benötigt. Das machts extrem leicht, die Widgets zu nutzen. Das Einrichten der Widgets (Homescreen drücken, bis die Symbole wackeln,...) muss erst einmal weiter von Hand gemacht werden. Aber wer weiß schon was iOS 16 kann oder ob ich nicht doch einmal eine App ind den Store bringe.. ;-)
+Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Script und das wiederum speichert die Scripts für die Widgets wie benötigt. Das machts extrem leicht, die Widgets zu nutzen. Das Einrichten der Widgets (Homescreen drücken, bis die Symbole wackeln,...) muss erst einmal weiter von Hand gemacht werden. Aber wer weiß schon was iOS 16 kann oder ob ich nicht doch einmal eine App in den Store bringe.. ;-)
 
 ------------------------------------------------
 ##### 2022-06-12
