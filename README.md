@@ -116,16 +116,15 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 Warum eine Nerd-Version?
   
-Weils so ursprünglich programmiert war:
+Weils so ursprünglich programmiert war:     
+Ein Widget-Script bekommt einen Übergabe-Parameter, welche Zeilennummer aus der CamListe genommen werden soll.    
+
+<ins>Vorteil:     
+Man hat nur wenige Scripte auf dem iPhone.  
   
-Ein Widget-Script bekommt einen Übergabe-Parameter, welche Zeilennummer aus der CamListe genommen werden soll. 
-<ins>Vorteil:
-  
-Man hat nur wenige Scripte auf dem iPhone
-<ins>Nachteil:
-  
-Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).  
-  
+<ins>Nachteil:     
+Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).    
+   
 Daher die "Singles"-Version oben, für jede Cam 1 ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
 Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
 Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
