@@ -62,11 +62,6 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 <table class="center">
   <tr>
-    <th text align="center">Update alle Widgets mit Parameter</th>
-    <th text align="center">Update Sylt Widgets ohne Parameter</th>
-  </tr>
-  <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpeg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
   </tr>
 </table>
@@ -75,11 +70,11 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-<u>schnelle Variante</u>
+*schnelle Variante 
   1. Scriptable öffnen
   2. Script antippen
 
-<u>Homescreen Variante mit Livestream</u>
+*Homescreen Variante mit Livestream 
 Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
