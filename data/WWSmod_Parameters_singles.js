@@ -167,7 +167,7 @@ switch (myFilename) {
 
 	case ("WWS_Niebuell_1"):
 		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshutttle.txt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -176,9 +176,20 @@ switch (myFilename) {
 		param = "1"
 	break;
 
+	case ("WWS_Niebuell_2"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "2"
+	break;
+
 	case ("WWS_Niebuell_3"):
 		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshutttle.txt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -189,7 +200,7 @@ switch (myFilename) {
 
 	case ("WWS_Westerland_1"):
 		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshutttle.txt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -200,7 +211,7 @@ switch (myFilename) {
 
 	case ("WWS_Westerland_2"):
 		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshutttle.txt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -211,7 +222,7 @@ switch (myFilename) {
 
 	case ("WWS_Westerland_3"):
 		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshutttle.txt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
