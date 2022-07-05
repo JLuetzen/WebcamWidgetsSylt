@@ -67,7 +67,7 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-### Widgets einrichten auf dem Homescreen
+#### Widgets einrichten auf dem Homescreen
 
 <ins>schnelle Variante:
   1. Scriptable öffnen
@@ -93,9 +93,8 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
   ***Antwort***: Weil Apple das nicht freigegeben hat.
-
-----------------------------------------------------
-
+  
+  
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
   <tr>
@@ -109,7 +108,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 
   
-### Widgets einfach starten per Kurzbefehl
+#### Widgets einfach starten per Kurzbefehl
   
 Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
   
@@ -125,8 +124,6 @@ und so sieht der Aufruf dann aus:
     <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis" width="300"></a></td>
   </tr>
 </table>  
-
-
 
   
 ----------------------------------------------------
