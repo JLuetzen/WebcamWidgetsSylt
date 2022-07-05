@@ -112,8 +112,8 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   
 Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
   
-  1. SyltCams [HIER](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
-  2. Autozug und Syltfähre: [HIER](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
+  1. SyltCams [HIER den Kurzbefehl downloaden](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
+  2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
      
 und so sieht der Aufruf dann aus:
 
