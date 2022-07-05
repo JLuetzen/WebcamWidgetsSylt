@@ -65,9 +65,9 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 
 
-**3. Widgets einrichten**
+**3. Widgets auf dem Homescreen oder per Kurzbefehl einrichten**
 
-#### Widgets einrichten auf dem Homescreen
+#### 3.1 Widgets einrichten auf dem Homescreen
 
 <ins>schnelle Variante:
   1. Scriptable öffnen
@@ -108,7 +108,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 
   
-#### Widgets einfach starten per Kurzbefehl
+#### 3.2 Widgets einfach starten per Kurzbefehl
   
 Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
   
