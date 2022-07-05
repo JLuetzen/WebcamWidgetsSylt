@@ -106,7 +106,7 @@ und so sieht der Aufruf dann aus:
   <table class="center">
   <tr>
     <td text align="center"><a href="images/Kurzbefehl1.jpeg"><img src="images/Kurzbefehl1.jpeg" title="Kurzbefehl Menue" height="200"></a></td>
-    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf" height="50"></a></td>
     <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis" height="200"></a></td>
   </tr>
 </table>  
