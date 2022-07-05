@@ -42,7 +42,7 @@ Die Vorteile dieser neuen Version sind
 
 ----------------------------------------------------
 
-**Es ist einfach und kinderleicht in 3 Schritten: (1) Scriptable installieren - (2) Update-Kurzbefehl laden und ausführen - (3) Widgets einrichten**
+**Es ist einfach und kinderleicht in 3 Schritten: (1) Scriptable installieren - (2) Update-Kurzbefehl laden und ausführen - (3) Widgets auf dem Homescreen oder per Kurzbefehl einrichten**
 
 
 **1. Scriptable installieren**
@@ -66,6 +66,8 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 
 **3. Widgets einrichten**
+
+*** Homescreen
 
 <ins>schnelle Variante:
   1. Scriptable öffnen
@@ -91,6 +93,17 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
   ***Antwort***: Weil Apple das nicht freigegeben hat.
+
+*** per Kurzbefehl
+  
+Bei dieser Variante kann man auswöhlen, welche WebCam aufgerufen werden soll
+  
+  1. SyltCams [HIER](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
+  2. Autozug und Syltfähre: [HIER](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
+     
+und so sieht der Aufruf dann aus:
+  
+
 
 
 ----------------------------------------------------
