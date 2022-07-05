@@ -103,9 +103,7 @@ Bei dieser Variante kann man auswöhlen, welche WebCam aufgerufen werden soll
      
 und so sieht der Aufruf dann aus:
   
-  ![C765F37F-44C0-42A5-B92F-CB1C57308E9E_1_105_c](https://user-images.githubusercontent.com/76537507/177403373-fc211d9b-ad11-4511-9d76-10ae1362316c.jpeg)
-![96648A20-F2CC-4772-AB1E-2A87FC27004D_1_201_a](https://user-images.githubusercontent.com/76537507/177403391-63ee1048-ee4b-444f-b309-b2ef7c4fd159.jpeg)
-![3EB5646E-BE3A-4FAA-870F-C15951584E5F_1_105_c](https://user-images.githubusercontent.com/76537507/177403420-372d70d4-ad1b-4ec7-8d28-b7a24aee316e.jpeg)
+
 
 
 ----------------------------------------------------
