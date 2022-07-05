@@ -102,7 +102,14 @@ Bei dieser Variante kann man auswöhlen, welche WebCam aufgerufen werden soll
   2. Autozug und Syltfähre: [HIER](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
      
 und so sieht der Aufruf dann aus:
-  
+
+  <table class="center">
+  <tr>
+    <td text align="center"><a href="images/Kurzbefehl1.jpeg"><img src="images/Kurzbefehl1.jpeg" title="Kurzbefehl Menue"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis"></a></td>
+  </tr>
+</table>  
 
 
 
