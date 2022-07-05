@@ -69,7 +69,7 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 #### 3.1 Widgets einrichten auf dem Homescreen
 
-<ins>schnelle Variante:
+<ins>schnelle Variante (nur Bild anzeigen):
   1. Scriptable öffnen
   2. Script antippen
 
@@ -110,12 +110,12 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   
 #### 3.2 Widgets einfach starten per Kurzbefehl
   
-Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
+Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll. Es wird das aktuelle Bild der Webcam aufgerufen, allerdings geht kein Livestream. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtetn werden, wie oben beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
   
   1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
      
-und so sieht der Aufruf dann aus:
+und so sieht der Aufruf des Kurzbefehls dann aus:
 
   <table class="center">
   <tr>
@@ -125,6 +125,9 @@ und so sieht der Aufruf dann aus:
   </tr>
 </table>  
 
+kleiner Tip:
+Man kann Kurzbefehle auf den Homescreen legen.
+  
   
 ----------------------------------------------------
 ### iPhone Nerd Version
