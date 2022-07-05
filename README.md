@@ -67,7 +67,7 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-#### Homescreen
+### Widgets einrichten auf dem Homescreen
 
 <ins>schnelle Variante:
   1. Scriptable öffnen
@@ -94,7 +94,22 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
   ***Antwort***: Weil Apple das nicht freigegeben hat.
 
-#### per Kurzbefehl
+----------------------------------------------------
+
+Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
+<table class="center">
+  <tr>
+    <td text align="center"><a href="images/WWSv2-1.jpeg"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></a></td>
+    <td text align="center"><a href="images/WWSv2-2.jpeg"><img src="images/WWSv2-2.jpeg" title="Sylt-Shuttle"></a></td>
+    <td text align="center"><a href="images/WWSv2-3.jpeg"><img src="images/WWSv2-3.jpeg" title="Sylt-Shuttle"></a></td>
+  </tr>
+</table>
+
+Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
+
+
+  
+### Widgets einfach starten per Kurzbefehl
   
 Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
   
@@ -113,19 +128,7 @@ und so sieht der Aufruf dann aus:
 
 
 
-----------------------------------------------------
-
-Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
-<table class="center">
-  <tr>
-    <td text align="center"><a href="images/WWSv2-1.jpeg"><img src="images/WWSv2-1.jpeg" title="Sylt-Shuttle"></a></td>
-    <td text align="center"><a href="images/WWSv2-2.jpeg"><img src="images/WWSv2-2.jpeg" title="Sylt-Shuttle"></a></td>
-    <td text align="center"><a href="images/WWSv2-3.jpeg"><img src="images/WWSv2-3.jpeg" title="Sylt-Shuttle"></a></td>
-  </tr>
-</table>
-
-Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
-
+  
 ----------------------------------------------------
 ### iPhone Nerd Version
 
