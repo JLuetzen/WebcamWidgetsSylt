@@ -67,7 +67,7 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 **3. Widgets einrichten**
 
-*** Homescreen
+#### Homescreen
 
 <ins>schnelle Variante:
   1. Scriptable öffnen
@@ -94,9 +94,9 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
   ***Antwort***: Weil Apple das nicht freigegeben hat.
 
-*** per Kurzbefehl
+#### per Kurzbefehl
   
-Bei dieser Variante kann man auswöhlen, welche WebCam aufgerufen werden soll
+Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll
   
   1. SyltCams [HIER](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
@@ -106,7 +106,7 @@ und so sieht der Aufruf dann aus:
   <table class="center">
   <tr>
     <td text align="center"><a href="images/Kurzbefehl1.jpeg"><img src="images/Kurzbefehl1.jpeg" title="Kurzbefehl Menue" height="300"></a></td>
-    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf" height="100"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf" height="300"></a></td>
     <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis" height="300"></a></td>
   </tr>
 </table>  
