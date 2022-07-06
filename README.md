@@ -49,12 +49,13 @@ Die Vorteile dieser neuen Version sind
       3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)     
       3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)    
 
+-----
 
 **1. Scriptable installieren**
 
 Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id1405459188) auf dem iPhone installieren
 
-
+-----
 
 **2. Update Kurzbefehl laden und ausführen**
 
@@ -67,7 +68,7 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
   </tr>
 </table>
 
-
+-----
 
 **3. Widgets einrichten**
 
@@ -92,7 +93,6 @@ und so sieht der Aufruf des Kurzbefehls dann aus:
 Man kann Kurzbefehle auf den Homescreen legen.
 
 -----
-
 
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
   
