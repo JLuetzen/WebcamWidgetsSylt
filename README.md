@@ -91,7 +91,7 @@ und so sieht der Aufruf des Kurzbefehls dann aus:
 <ins>kleiner Tip:</ins>
 Man kann Kurzbefehle auf den Homescreen legen.
 
-
+-----
 
 
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
