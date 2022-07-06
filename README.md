@@ -44,7 +44,7 @@ Die Vorteile dieser neuen Version sind
 
 **Es ist einfach und kinderleicht in 3 Schritten:**
   1. Scriptable installieren 
-  2. Update-Kurzbefehl laden und ausführen - 
+  2. Update-Kurzbefehl laden und ausführen
   3. Widgets einrichten    
       3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)     
       3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)    
@@ -73,8 +73,8 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
 **3. Widgets einrichten**
 
 #### 3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)
-  
-Diese Kurzbefehle starten ein Auswahlmenue und man sucht aus, das Bild welcher WebCam aufgerufen und gezeigt werden soll. Dann wird das aktuelle Bild der Webcam aufgerufen, allerdings geht kein Livestream. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtetn werden, wie unter 3.2  beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
+    
+Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht sich die Webcam aus, deren aktuelles Bild gezeigt werden soll. Bei dieser Variante funktioniert der Livestream leider nicht. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtet werden, wie unter 3.2  beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
   
   1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
