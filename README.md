@@ -42,7 +42,12 @@ Die Vorteile dieser neuen Version sind
 
 ----------------------------------------------------
 
-**Es ist einfach und kinderleicht in 3 Schritten: (1) Scriptable installieren - (2) Update-Kurzbefehl laden und ausführen - (3) Widgets auf dem Homescreen oder per Kurzbefehl einrichten**
+**Es ist einfach und kinderleicht in 3 Schritten:**
+  1. Scriptable installieren 
+  2. Update-Kurzbefehl laden und ausführen - 
+  3. Widgets einrichten
+      3.1 per Kurzbefehl (Webcam-Bild ansehen)  
+      3.2 auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)
 
 
 **1. Scriptable installieren**
@@ -51,11 +56,10 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 
 
 
-**2. Kurzbefehl ausführen**
+**2. Update Kurzbefehl laden und ausführen**
 
-**Einfach das Bild antippen** und den Kurzbefehl installieren. Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es.
-Der Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. 
-Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
+**Einfach das Bild unten antippen** und den Kurzbefehl installieren. 
+Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dieser Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. Und das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
 
 <table class="center">
   <tr>
@@ -65,18 +69,34 @@ Das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams
 
 
 
-**3. Widgets auf dem Homescreen oder per Kurzbefehl einrichten**
+**3. Widgets einrichten**
 
-#### 3.1 Widgets einrichten auf dem Homescreen
-
-<ins>schnelle Variante (nur Bild anzeigen):
-  1. Scriptable öffnen
-  2. Script antippen
-
-<ins>Homescreen Variante mit Livestream:
+#### 3.1 per Kurzbefehl (Webcam-Bild ansehen)
   
+Diese Kurzbefehle starten ein Auswahlmenue und man sucht aus, das Bild welcher WebCam aufgerufen und gezeigt werden soll. Dann wird das aktuelle Bild der Webcam aufgerufen, allerdings geht kein Livestream. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtetn werden, wie unter 3.2  beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
   
-Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
+  1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
+  2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
+     
+und so sieht der Aufruf des Kurzbefehls dann aus:
+
+  <table class="center">
+  <tr>
+    <td text align="center"><a href="images/Kurzbefehl1.jpeg"><img src="images/Kurzbefehl1.jpeg" title="Kurzbefehl Menue" width="300"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf" width="300"></a></td>
+    <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis" width="300"></a></td>
+  </tr>
+</table>  
+
+<ins>kleiner Tip:</ins>
+Man kann Kurzbefehle auf den Homescreen legen.
+
+
+
+#### 3.2 auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
+  
+Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
+Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
   2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
@@ -87,9 +107,9 @@ Dieser Weg ist von Apple vorgegeben, es geht nicht einfacher... [Beispiel](https
   
  Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen (das funktioniert NICHT bei der schnellen Variante)
   
-  <ins>Stapeln der Bilder:</ins>
+ <ins>Stapeln der Bilder:</ins>
   
-  Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
+Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
 
   ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
   ***Antwort***: Weil Apple das nicht freigegeben hat.
@@ -106,28 +126,6 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
-
-  
-#### 3.2 Widgets einfach starten per Kurzbefehl
-  
-Bei dieser Variante kann man auswählen, welche WebCam aufgerufen werden soll. Es wird das aktuelle Bild der Webcam aufgerufen, allerdings geht kein Livestream. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtetn werden, wie oben beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
-  
-  1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
-  2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
-     
-und so sieht der Aufruf des Kurzbefehls dann aus:
-
-  <table class="center">
-  <tr>
-    <td text align="center"><a href="images/Kurzbefehl1.jpeg"><img src="images/Kurzbefehl1.jpeg" title="Kurzbefehl Menue" width="300"></a></td>
-    <td text align="center"><a href="images/Kurzbefehl2.jpeg"><img src="images/Kurzbefehl2.jpeg" title="Kurzbefehl Aufruf" width="300"></a></td>
-    <td text align="center"><a href="images/Kurzbefehl3.jpeg"><img src="images/Kurzbefehl3.jpeg" title="Kurzbefehl Ergebnis" width="300"></a></td>
-  </tr>
-</table>  
-
-kleiner Tip:
-Man kann Kurzbefehle auf den Homescreen legen.
-  
   
 ----------------------------------------------------
 ### iPhone Nerd Version
