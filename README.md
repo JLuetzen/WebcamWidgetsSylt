@@ -45,9 +45,9 @@ Die Vorteile dieser neuen Version sind
 **Es ist einfach und kinderleicht in 3 Schritten:**
   1. Scriptable installieren 
   2. Update-Kurzbefehl laden und ausführen - 
-  3. Widgets einrichten
-      3.1 per Kurzbefehl (Webcam-Bild ansehen)  
-      3.2 auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)
+  3. Widgets einrichten    
+      3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)     
+      3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)    
 
 
 **1. Scriptable installieren**
@@ -71,7 +71,7 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
 
 **3. Widgets einrichten**
 
-#### 3.1 per Kurzbefehl (Webcam-Bild ansehen)
+#### 3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)
   
 Diese Kurzbefehle starten ein Auswahlmenue und man sucht aus, das Bild welcher WebCam aufgerufen und gezeigt werden soll. Dann wird das aktuelle Bild der Webcam aufgerufen, allerdings geht kein Livestream. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtetn werden, wie unter 3.2  beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
   
@@ -93,7 +93,7 @@ Man kann Kurzbefehle auf den Homescreen legen.
 
 
 
-#### 3.2 auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
+#### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
   
 Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
 Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
