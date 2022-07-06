@@ -93,6 +93,7 @@ Man kann Kurzbefehle auf den Homescreen legen.
 
 
 
+
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
   
 Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
@@ -105,7 +106,7 @@ Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von 
   5. Unter "Script" das neue Script auswählen, zB "_WWS_Sylt_SurfcamSylt_"
   6. Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
   
- Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen (das funktioniert NICHT bei der schnellen Variante)
+ Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen.
   
  <ins>Stapeln der Bilder:</ins>
   
