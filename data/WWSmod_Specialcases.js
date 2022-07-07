@@ -202,6 +202,11 @@ switch ( camProvider ) {
 	console.log("Vor Switch in Specialcases: " + specialcase);
 switch ( camLocation ) {
 
+	case ("Kampen Hotel Rungholt"):
+		customLogoName = "WWS_Logo_Rungholt.png";
+		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kochelsee") :
 //	case ("Surfcam Sylt"):
 		customLogoName = "WWS_Logo_Eastern2022.png";
