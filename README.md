@@ -97,9 +97,13 @@ Man kann Kurzbefehle auf den Homescreen legen.
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
   
 Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
-Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher. So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.
-Es wird aber im Herbst spannend, wenn iOS 16 kommt. Die Vorberichte deuten an, dass man Widgets dann auch auf den Sperrbildschirm legen kann. Das macht die Sicht auf die Cams noch angenehmer. 
-Diese wenigen Schritte sind heute auszuführen:
+Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher.    
+So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.   
+
+Es wird aber im Herbst spannend, wenn iOS 16 kommt. Die Vorberichte deuten an, dass man Widgets dann auch auf den Sperrbildschirm legen kann. Das macht die Sicht auf die Cams noch angenehmer.    
+
+Diese wenigen Schritte sind heute auszuführen:   
+
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
   2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
