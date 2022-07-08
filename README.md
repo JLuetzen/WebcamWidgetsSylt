@@ -30,7 +30,7 @@ Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
 
 Die Vorteile dieser neuen Version sind
-* Kinderleichtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
+* Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
 * Automatische Updates
 * Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
@@ -42,7 +42,7 @@ Die Vorteile dieser neuen Version sind
 
 ----------------------------------------------------
 
-**Es ist einfach und kinderleicht in 3 Schritten:**
+**Der Ablauf in in 3 Schritten:**
   1. Scriptable installieren 
   2. Update-Kurzbefehl laden und ausführen
   3. Widgets einrichten    
@@ -74,7 +74,7 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
 
 #### 3.1 Einrichten per Kurzbefehl (Webcam-Bild ansehen)
     
-Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht sich die Webcam aus, deren aktuelles Bild gezeigt werden soll. Bei dieser Variante funktioniert der Livestream leider nicht. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtet werden, wie unter 3.2  beschrieben. Um aber eben mal auf die Cam zu sehen, dafür reicht es allemal. Und ist kinderleicht!
+Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht sich die Webcam aus, deren aktuelles Bild gezeigt werden soll. Bei dieser Variante funktioniert der Livestream leider nicht. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtet werden, wie unter 3.2  beschrieben. Man kann auf diese Weise aber sehr schnell eben mal auf der WebCam vorbei schauen.
   
   1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
@@ -97,7 +97,9 @@ Man kann Kurzbefehle auf den Homescreen legen.
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
   
 Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
-Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher... [Beispiel](https://youtu.be/vTvw9BsSmVY)
+Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher. So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.
+Es wird aber im Herbst spannend, wenn iOS 16 kommt. Die Vorberichte deuten an, dass man Widgets dann auch auf den Sperrbildschirm legen kann. Das macht die Sicht auf die Cams noch angenehmer. 
+Diese wenigen Schritte sind heute auszuführen:
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
   2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
@@ -112,8 +114,6 @@ Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von 
   
 Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
 
-  ***Frage:*** Warum kann man die Widgets nicht automatisch auf den Homescreen bringen?  
-  ***Antwort***: Weil Apple das nicht freigegeben hat.
   
   
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
