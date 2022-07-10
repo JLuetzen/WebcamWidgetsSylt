@@ -389,6 +389,8 @@ Ihr werdet sehen, das ist alles sehr einfach.
   </tr>
 </table>
 
-Lizenz
 
-Dieses Projet ist lizensiert nach der (BSD 3-Clause "New" or "Revised" License)[https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE]
+
+### Lizenz:
+
+Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License](https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE)
