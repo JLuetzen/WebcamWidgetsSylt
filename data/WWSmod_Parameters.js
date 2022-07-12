@@ -47,7 +47,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
-		hinweistext = "";
+		hinweistext = "Testcase for Logo Proposal";
 	break;
 
 
@@ -61,6 +61,16 @@ switch (myFilename) {
 		hinweistext = "";
 	break;
 
+	case ("WWS_Syltfaehre_TST"):
+		CamFamily = "FRS Syltfähre_TST";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "Testcase for Logo Proposal";
+	break;
+
 
 	case ("WWS_Syltshuttle"):
 		CamFamily = "Autozug Sylt";
@@ -72,6 +82,15 @@ switch (myFilename) {
 		hinweistext = "";
 	break;
 
+	case ("WWS_Syltshuttle_TST"):
+		CamFamily = "Autozug Sylt_TST";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "Testcase for Logo Proposal";
+	break;
 
 	case ("WWS_Surfcams_Bayern"):
 		CamFamily = "Surfcams Bayern";
