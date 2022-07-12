@@ -210,28 +210,39 @@ switch ( camLocation ) {
 
 	case ("Hörnum"):
 		customLogoName = "WWS_Logo_Hoernum.png";
-		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Hörnum gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kampen Quermarkenfeuer"):
 		customLogoName = "WWS_Logo_Kampen.png";
-		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Kampen Quermarkenfeuer gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kampen Hotel Rungholt"):
 		customLogoName = "WWS_Logo_Rungholt.png";
-		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Kampen Hotel Rungholt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kampen Golfclub Sylt"):
 		customLogoName = "WWS_Logo_GolfclubSylt.png";
-		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Kampen Golfclub Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Sansibar"):
 		customLogoName = "WWS_Logo_Sansibar1.png";
-		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
+
+	case ("Anleger List/Sylt"):
+		customLogoName = "WWS_Logo_FRSSyltfaehre.png";
+		console.log("Anleger List/Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
+	case ("WESTERLAND 1"):
+		customLogoName = "WWS_Logo_Autozug.png";
+		console.log("WESTERLAND 1 gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 
 	case ("Kochelsee") :
 	case ("Surfcam Sylt"):
