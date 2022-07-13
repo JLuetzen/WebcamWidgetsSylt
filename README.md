@@ -76,7 +76,19 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
     
 Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht sich die Webcam aus, deren aktuelles Bild gezeigt werden soll. Bei dieser Variante funktioniert der Livestream leider nicht. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtet werden, wie unter 3.2  beschrieben. Man kann auf diese Weise aber sehr schnell eben mal auf der WebCam vorbei schauen.
   
-  1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
+
+  <table class="center">
+  <tr>
+    <th>Kurzbefehl Syltcams<th>
+    <th>Kurzbefehl Syltshuttle & Fähre<th>
+  </td>
+ <tr>
+    <td text align="center"><a href="images/SC_SyltCams.jpeg"><img src="images/SC_SyltCams.jpeg" title="Kurzbefehl SyltCams" width="300"></a></td>
+    <td text align="center"><a href="images/SC_Syltshuttle.jpeg"><img src="images/SC_Syltshuttle.jpeg" title="Kurzbefehl Syltshuttle" width="300"></a></td>
+  </tr>
+</table>  
+
+1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
      
 und so sieht der Aufruf des Kurzbefehls dann aus:
