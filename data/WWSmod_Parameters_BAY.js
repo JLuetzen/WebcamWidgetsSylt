@@ -31,7 +31,7 @@ module.exports.assignParameters = async function(myFilename) {
 switch (myFilename) {
 
 	// *****************************
-	// WWS_Syltcams
+	// Surfcams Bayern
 	// *****************************
 
 
