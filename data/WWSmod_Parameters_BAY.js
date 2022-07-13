@@ -57,7 +57,7 @@ switch (myFilename) {
 		param = "2";
 	break;
 
-	case ("WWS_BAY_Altmühlsee"):
+	case ("WWS_BAY_Altmuehlsee"):
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
@@ -68,7 +68,7 @@ switch (myFilename) {
 		param = "3";
 	break;
 
-	case ("WWS_BAY_Chiemsee Übersee"):
+	case ("WWS_BAY_Chiemsee Uebersee"):
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
@@ -79,7 +79,7 @@ switch (myFilename) {
 		param = "4";
 	break;
 
-	case ("WWS_BAY_Chiemsee Übersee Video"):
+	case ("WWS_BAY_Chiemsee Uebersee Video"):
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
