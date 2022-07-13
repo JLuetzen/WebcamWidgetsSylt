@@ -57,7 +57,7 @@ Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id14
 
 -----
 
-**2. Update Kurzbefehl laden und ausführen**
+**2. Update-Kurzbefehl laden und ausführen**
 
 **Einfach das Bild unten antippen** und den Kurzbefehl installieren. 
 Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dieser Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. Und das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
@@ -88,9 +88,10 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
   </tr>
 </table>  
 
-1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
+<!---1. SyltCams [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39)
   2. Autozug und Syltfähre: [HIER den Kurzbefehl downloaden und speichern](https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8)
-     
+--->
+
 und so sieht der Aufruf des Kurzbefehls dann aus:
 
   <table class="center">
