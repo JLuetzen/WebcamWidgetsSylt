@@ -1,6 +1,6 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
-// icon-color: orange; icon-glyph: camera-retro;
+// icon-color: green; icon-glyph: camera-retro;
 // Script by Jens Luetzen: <kliffkieker67@gmail.com>
 //
 // Sichern dieses Scriptes unter einem der folgenden Namen, damit die Parameter ausgelesen werden:
