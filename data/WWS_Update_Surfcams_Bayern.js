@@ -11,8 +11,6 @@
 const GitHubDataPath = 'https://wwsylt.live/data';
 const GitHubMasterScriptFile = "WWS_Master_singles"
 
-//const localWidgetfile = "WWS_CSML-Edition"
-// var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,localWidgetfile+".js");
 //
 // WWS_SyltcamsSyltCams
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Brombachsee.js");
