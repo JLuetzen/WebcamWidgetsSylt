@@ -15,12 +15,12 @@ const GitHubMasterScriptFile = "WWS_Master_singles_BAY"
 // WWS_SyltcamsSyltCams
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Brombachsee.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Brombachsee_Video.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Altmühlsee.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Chiemsee Übersee.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Chiemsee Übersee Video.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Altmuehlsee.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Chiemsee Uebersee.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Chiemsee Uebersee Video.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Chiemsee Prienavera.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Tegernsee Wallberg.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Tergernsee Sonnenbichl.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Tegernsee Sonnenbichl.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Ammersee.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Walchensee.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Kochelsee.js");

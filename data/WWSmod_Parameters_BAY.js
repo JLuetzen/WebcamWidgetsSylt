@@ -43,7 +43,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "1"
+		param = "1";
 	break;
 
 	case ("WWS_BAY_Brombachsee_Video"):
@@ -54,7 +54,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "2"
+		param = "2";
 	break;
 
 	case ("WWS_BAY_Altmühlsee"):
@@ -65,7 +65,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "3"
+		param = "3";
 	break;
 
 	case ("WWS_BAY_Chiemsee Übersee"):
@@ -76,7 +76,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "4"
+		param = "4";
 	break;
 
 	case ("WWS_BAY_Chiemsee Übersee Video"):
@@ -87,7 +87,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "5"
+		param = "5";
 	break;
 
 	case ("WWS_BAY_Chiemsee Prienavera"):
@@ -98,7 +98,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "6"
+		param = "6";
 	break;
 
 	case ("WWS_BAY_Tegernsee Wallberg"):
@@ -109,7 +109,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "7"
+		param = "7";
 	break;
 
 	case ("WWS_BAY_Tegernsee Sonnenbichl"):
@@ -120,7 +120,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "8"
+		param = "8";
 	break;
 
 	case ("WWS_BAY_Ammersee"):
@@ -131,7 +131,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "9"
+		param = "9";
 	break;
 
 	case ("WWS_BAY_Walchensee"):
@@ -142,7 +142,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "10"
+		param = "10";
 	break;
 
 	case ("WWS_BAY_Kochelsee"):
@@ -153,7 +153,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "11"
+		param = "11";
 	break;
 
 	case ("WWS_BAY_Starnbergersee Ammerland"):
@@ -164,7 +164,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "12"
+		param = "12";
 	break;
 
 	case ("WWS_BAY_Gardasee Malcesine"):
@@ -175,7 +175,7 @@ switch (myFilename) {
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "13"
+		param = "13";
 	break;
 
 
@@ -185,7 +185,7 @@ switch (myFilename) {
 
 
 	default:
-		CamFamily = "Sylt Cams S";
+		CamFamily = "ERROR";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
