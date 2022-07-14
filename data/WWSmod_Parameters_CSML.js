@@ -90,7 +90,7 @@ switch (myFilename) {
 		param = "5";
 	break;
 
-	case ("WWS_CSML_SPO_Buesumer_Deichhausen"):
+	case ("WWS_CSML_Buesumer_Deichhausen"):
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
@@ -101,7 +101,7 @@ switch (myFilename) {
 		param = "6";
 	break;
 
-	case ("WWS_CSML_SPO_Greetsiel_Hafen"):
+	case ("WWS_CSML_Greetsiel_Hafen"):
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
