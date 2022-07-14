@@ -9,7 +9,7 @@
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubMasterScriptFile = "WWS_Master_singles_BAY"
+const GitHubMasterScriptFile = "WWS_Master_singles_CSML"
 
 //
 // WWS_SyltcamsSyltCams
