@@ -76,7 +76,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "White Dinner am 19.7. ausverkauft";
+		hinweistext = "White Dinner am \n19.7. ausverkauft";
 		param = "4"
 	break;
 
