@@ -202,6 +202,11 @@ switch ( camProvider ) {
 	console.log("Vor Switch in Specialcases: " + specialcase);
 switch ( camLocation ) {
 
+	case ("Kampen Quermarkenfeuer"):
+		customLogoName = "WWS_Logo_Kampen.png";
+		console.log("Kampen Quermarkenfeuer gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kampen Hotel Rungholt"):
 		customLogoName = "WWS_Logo_Rungholt.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
