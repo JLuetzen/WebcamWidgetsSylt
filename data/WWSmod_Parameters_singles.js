@@ -36,7 +36,7 @@ switch (myFilename) {
 
 
 	case ("WWS_Sylt_Westerland_Promenade"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -48,7 +48,7 @@ switch (myFilename) {
 
 
 	case ("WWS_Sylt_SurfcamSylt"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -59,7 +59,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Hoernum"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -70,7 +70,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Kampen_Quermarkenfeuer"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -81,7 +81,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Kampen Hotel Rungholt"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -92,7 +92,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Rantum"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -103,7 +103,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Sansibar"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -114,7 +114,7 @@ switch (myFilename) {
 	break;
 
 	case ("WWS_Sylt_Kampen_Golfclub_Sylt"):
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -237,7 +237,7 @@ switch (myFilename) {
 
 
 	default:
-		CamFamily = "Sylt Cams S";
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
