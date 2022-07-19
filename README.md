@@ -160,7 +160,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
     <td text align="center">Kurzbefehle zum Update der Scripte</td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Cams" width="100"></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Shuttle" width="100"></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML" width="100"></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" title="Update Surfcams Bayern" width="100"></a></td>
   </tr>
   <tr>
