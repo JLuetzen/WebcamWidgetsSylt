@@ -145,6 +145,33 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
   
+------------------------------------------------
+### Zusammenfassung Kurzbefehle
+
+<table class="center">
+  <tr>
+    <th></th>
+    <th>Sylt-Cams</th>
+    <th>Sylt-Shuttle & Ferry</th>
+    <th>Urlaubsziele CSML</th>
+    <th>Surfcams Bayern</th>
+  </tr>
+  <tr>
+    <td text align="center">Kurzbefehle zum Update der Scripte</td>
+    <td text align="center"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Cams"></td>
+    <td text align="center"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></td>
+    <td text align="center"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" title="Update Surfcams Bayern"></td>
+  </tr>
+  <tr>
+    <td text align="center">Kurzbefehl Menue</td>
+    <td text align="center"><img src="images/SC_SyltCams.jpg" title="Update Sylt-Cams"></td>
+    <td text align="center"><img src="images/SC_Syltshuttle.jpg" title="Update Sylt-Shuttle"></td>
+    <td text align="center"><img src="images/SC_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></td>
+    <td text align="center"><img src="images/SC_SurfcamsBayern.jpg" title="Update Surfcams Bayern"></td>
+  </tr>
+</table>
+
 
 
 ------------------------------------------------
