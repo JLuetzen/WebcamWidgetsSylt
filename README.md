@@ -83,8 +83,8 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
     <th>Kurzbefehl Syltshuttle & Fähre</th>
  </tr>
  <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpeg" title="Kurzbefehl SyltCams" width="200"></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpeg" title="Kurzbefehl Syltshuttle" width="200"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl SyltCams" width="200"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Kurzbefehl Syltshuttle" width="200"></a></td>
   </tr>
 </table>  
 
@@ -145,31 +145,7 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
   
-----------------------------------------------------
-### iPhone Nerd Version
 
-Warum eine Nerd-Version?
-  
-Weils so ursprünglich programmiert war:     
-Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.    
-
-<ins>Vorteil:</ins>     
-Man hat nur wenige Scripte auf dem iPhone.  
-  
-<ins>Nachteil:</ins>     
-Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).    
-   
-Daher die "Singles"-Version oben, für jede Cam gibt es genau ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
-Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
-Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
-
-Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit.
-
-<table class="center">
-  <tr>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
-  </tr>
-</table>
 
 ------------------------------------------------
 ### Weitere Hinweise
@@ -338,6 +314,33 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ------------------------------------------------
 #### News:
 
+----------------------------------------------------
+### 2022-06-18 iPhone Nerd Version
+
+Warum eine Nerd-Version?
+  
+Weils so ursprünglich programmiert war:     
+Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.    
+
+<ins>Vorteil:</ins>     
+Man hat nur wenige Scripte auf dem iPhone.  
+  
+<ins>Nachteil:</ins>     
+Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).    
+   
+Daher die "Singles"-Version oben, für jede Cam gibt es genau ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
+Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
+Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
+
+Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit.
+
+<table class="center">
+  <tr>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
+  </tr>
+</table>
+
+------------------------------------------------
 ##### 2022-06-17
 Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Script und das wiederum speichert die Scripts für die Widgets wie benötigt. Das machts extrem leicht, die Widgets zu nutzen. Das Einrichten der Widgets (Homescreen drücken, bis die Symbole wackeln,...) muss erst einmal weiter von Hand gemacht werden. Aber wer weiß schon was iOS 16 kann oder ob ich nicht doch einmal eine App in den Store bringe.. ;-)
 
