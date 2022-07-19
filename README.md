@@ -158,17 +158,17 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center">Kurzbefehle zum Update der Scripte</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Cams"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Shuttle"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" title="Update Surfcams Bayern"></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Cams" width="100"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" title="Update Sylt-Shuttle" width="100"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" title="Update Surfcams Bayern" width="100"></a></td>
   </tr>
   <tr>
     <td text align="center">Kurzbefehl Menue</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Update Sylt-Cams"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Update Sylt-Shuttle"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML"></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern.jpg" title="Update Surfcams Bayern"></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Update Sylt-Cams" width="100"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Update Sylt-Shuttle" width="100"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML.jpg" title="Update Urlaubsziele CSML" width="100"></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern.jpg" title="Update Surfcams Bayern" width="100"></a></td>
   </tr>
 </table>
 
