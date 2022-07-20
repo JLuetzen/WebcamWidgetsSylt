@@ -183,10 +183,10 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 #### Andere Cams
       
-<table style="margin-left: auto; margin-right: auto;" width="900">
+<table style="display: block; margin-left: auto; margin-right: auto" width="900">
   <tr>
     <th></th>
-    <th>Urlaubsziele CSML-+</th>
+    <th>Urlaubsziele CSML-</th>
     <th>Surfcams Bayern</th>
   </tr>
   <tr>
