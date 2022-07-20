@@ -49,6 +49,8 @@ Die Vorteile dieser neuen Version sind
       3.1 Einrichten als Kurzbefehl-Menue (Webcam-Bild ansehen)     
       3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)    
 
+Hier folgt die Schritt-für-Schritt Anleitung am Beispiel der Sylt-Cams. Weiter unten ist dann eine Zusammenfassung für <i>alle</i> Scripte, Kurzbefehle und Anleitung
+
 -----
 
 **1. Scriptable installieren**
@@ -83,7 +85,7 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
     <th>Kurzbefehl-Menue<BR>Sylt-Shuttle & Fähre</th>
  </tr>
  <tr>
-    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl SyltCams" width="150"></a></td>
+    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl Sylt-Cams" width="150"></a></td>
     <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Kurzbefehl Syltshuttle" width="150"></a></td>
   </tr>
 </table>  
@@ -145,7 +147,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
   
 ------------------------------------------------
-### Zusammenfassung Kurzbefehle      
+### Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
 
 
 #### Sylt-Cams
