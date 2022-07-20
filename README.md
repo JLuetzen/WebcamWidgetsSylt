@@ -149,16 +149,16 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 ### Zusammenfassung Kurzbefehle
 
 
-<table class="center">
+<table class="center" width="900">
   <tr>
     <th></th>
     <th>Sylt-Cams</th>
     <th>Sylt-Shuttle & Ferry</th>
   </tr> 
   <tr>
-    <td text align="center">Kurzbefehle zum <BR>Update der Scripte</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
+    <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
+    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
+    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
