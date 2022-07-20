@@ -119,7 +119,7 @@ Diese wenigen Schritte sind heute auszuführen:
 
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
-  2. Nach unten scrollen und "_Scriptable_" auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
+  2. Nach unten scrollen und <b>Scriptable</b> auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
   3. Die Icons sollten immer noch wackeln. Jetzt das neue Widget antippen, um die Einstellung zu starten
   4. Falls die Icons nicht wackeln, einfach den Homescreen lang drücken, bis sie es tun
   5. Unter "Script" das neue Script auswählen, zB "_WWS_Sylt_SurfcamSylt_"
@@ -172,8 +172,8 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
     <td text colspan="2" align="left" width="80%">
       1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
-      2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und "Add Widget" antippen.<BR>
-      3. Neues Widget antippen führt zu den Einstellungen    
+      2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.<BR>
+      3. Neues Widget antippen führt zu den Einstellungen<BR>
       4. Unter "Script" das neue Script auswählen, zB <i>WWS_Sylt_SurfcamSylt</i>, fertig<BR>
     </td>  
   </tr>  
@@ -197,12 +197,16 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
     <td text align="center"><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML.jpg" width="200" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern.jpg" width="200" /></a></td>
   </tr>
+  <tr>
+    <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
+    <td text colspan="2" align="left" width="80%">
+      1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
+      2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.<BR>
+      3. Neues Widget antippen führt zu den Einstellungen<BR>
+      4. Unter "Script" das neue Script auswählen, zB <i>WWS_Sylt_SurfcamSylt</i>, fertig<BR>
+    </td>  
+  </tr>    
 </table>
-
-
-
-
-
 
 
 ------------------------------------------------
