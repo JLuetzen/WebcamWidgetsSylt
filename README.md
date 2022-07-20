@@ -180,6 +180,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 
 #### Andere Cams
+      
 <table class="center">
   <tr>
     <th></th>
@@ -202,7 +203,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
       1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
       2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.<BR>
       3. Neues Widget antippen führt zu den Einstellungen<BR>
-      4. Unter "Script" das neue Script auswählen, zB <i>WWS_Sylt_SurfcamSylt</i>, fertig<BR>
+      4. Unter "Script" das neue Script auswählen, zB <i>WWS_CSML_Buesum_Hauptstrand</i>, fertig<BR>
     </td>  
   </tr>    
 </table>
