@@ -119,11 +119,10 @@ Diese wenigen Schritte sind heute auszuführen:
 
 
   1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.
-  2. Nach unten scrollen und <b>Scriptable</b> auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.
-  3. Die Icons sollten immer noch wackeln. Jetzt das neue Widget antippen, um die Einstellung zu starten
-  4. Falls die Icons nicht wackeln, einfach den Homescreen lang drücken, bis sie es tun
-  5. Unter "Script" das neue Script auswählen, zB "_WWS_Sylt_SurfcamSylt_"
-  6. Das war's. Jetzt auf den HomeScreen tippen, um die Einstellung abzuschliessen.
+  2. Nach unten scrollen und <b>Scriptable</b> auswählen (Schneller gehts, wenn man in das Suchfenster SC eingibt...), die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.
+  3. Neues Widget antippen führt zu den Einstellungen
+  5. Unter <b>Script</b> das neue Script auswählen, zB <i>WWS_Sylt_SurfcamSylt</i>
+  6. Das war's. Jetzt oben rechts auf <b>Fertig</b> oder den HomeScreen tippen, um die Einstellung abzuschliessen.
   
  Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen.
   
