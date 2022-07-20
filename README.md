@@ -183,10 +183,10 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 #### Andere Cams
       
-<table style="display: block; margin-left: auto; margin-right: auto" width="900">
+<table width="900">
   <tr>
     <th></th>
-    <th>Urlaubsziele CSML-</th>
+    <th>Urlaubsziele CSML-+</th>
     <th>Surfcams Bayern</th>
   </tr>
   <tr>
@@ -196,8 +196,8 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td>Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
-    <td><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
+    <td><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
+    <td><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
   </tr>
   <tr>
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
