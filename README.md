@@ -191,13 +191,13 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
-    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" width="200" /></a></td>
-    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" width="200" /></a></td>
+    <td width="40%"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" width="200" /></a></td>
+    <td width="40%"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Surfcams_Bayern.jpg" width="200" /></a></td>
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML_klein.jpg" align="center"/></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern_klein.jpg" align="center" align="center"  /></a></td>
+    <td><a href="https://www.icloud.com/shortcuts/b35671d25d3943a899ff26948ba358d3" target="_blank" rel="noopener"><img src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
+    <td><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
   </tr>
   <tr>
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
