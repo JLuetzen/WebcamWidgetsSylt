@@ -79,7 +79,7 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
 
   <table class="center" width="600">
   <tr>
-    <th>Kurzbefehl-Menue<BR> Syltcams</th>
+    <th>Kurzbefehl-Menue<BR> Sylt-Cams</th>
     <th>Kurzbefehl-Menue<BR>Sylt-Shuttle & Fähre</th>
  </tr>
  <tr>
