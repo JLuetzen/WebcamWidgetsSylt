@@ -367,6 +367,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
 - S. Erbeck, [Livespotting.com](https://livespotting.com)
 - H.-J. Rotter, [feratel media Technologies GmbH](https://www.feratel.com/)
+- D. Boysen, [Tourismus-Service Kampen](https://www.kampen.de/service/tourismus-service-kampen)      
 - M. Franzen, P. Villwock, Insel Sylt Tourismus-Service, [www.insel-sylt.de](https://www.insel-sylt.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
 
