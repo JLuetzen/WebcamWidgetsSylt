@@ -158,7 +158,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   
   <tr>
-    <td text align="center">Kurzbefehle zum Update der Scripte</td>
+    <td text align="center">Kurzbefehle zum <BR>Update der Scripte</td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="50" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" width="50" /></a></td>
