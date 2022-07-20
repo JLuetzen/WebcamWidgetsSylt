@@ -166,8 +166,8 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" width="120" class="center" /></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" width="120" class="center" /></a></td>
+    <td class="centered"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" width="120" /></a></td>
+    <td class="centered"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" width="120" /></a></td>
   </tr>
   <tr>
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
