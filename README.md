@@ -155,18 +155,28 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   <tr>
     <th></th>
     <th>Sylt-Cams</th>
-    <th>Sylt-Shuttle & Ferry</th>
+    <th>Sylt-Shuttle & Ferry</th>    
   </tr> 
   <tr>
     <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
     <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
     <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
+    
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" width="200" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" width="200" /></a></td>
   </tr>
+  <tr>
+    <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
+    <td text align="left" width="80%">
+      1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
+      2. _Scriptable_" auswählen, die "_mittlere_" Widget-Größe auswählen und "Add Widget" antippen.<BR>
+      3. Neues Widget antippen führt zu den Einstellungen    
+      4. Unter "Script" das neue Script auswählen, zB "_WWS_Sylt_SurfcamSylt_", fertig<BR>
+    </td>  
+  </tr>  
 </table>
 
 
