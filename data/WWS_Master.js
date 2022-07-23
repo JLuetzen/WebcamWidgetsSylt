@@ -212,7 +212,7 @@ switch (errParam) {
 		console.log("Stream CamURL : " + camURL);
 
 // Sonnenauf- und -Untergang, falls übergeben
-	 	if (LAT != "N") {
+/*	 	if (LAT != "N") {
 			let sunData = await new Request("https://api.sunrise-sunset.org/json?lat=" + LAT + "&lng=" + LON + "&formatted=0&date=" + actualdate.getFullYear() + "-" + (actualdate.getMonth()+1) + "-" + actualdate.getDate()).loadJSON();
 			let now = actualdate.getTime();
 			let sunrise_hr = ('0' + new Date(sunData.results.sunrise).getHours()).substr(-2); // macht die Zahl zweistellig
@@ -226,6 +226,10 @@ switch (errParam) {
 			sunrise = "N";
 			sunset = "N";
 		}
+*/
+
+sunrise = "N";
+sunset = "N";
 
 		console.log("Sonnenaufgang: " + sunrise);
 		console.log("Sonnenuntergang: " + sunset);
