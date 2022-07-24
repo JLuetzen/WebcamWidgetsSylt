@@ -385,6 +385,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ----------------------------------------------------
 ### 23.07.2022 Fehler beim api für Sonneauf- und Untergangszeiten
 Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.
+<img src="images/Sunset_api_error.jpeg" title="Sunset_api_error" width="300">
 Bitte Update-Kurzbefehle ausführen <br>
 24.07.2022<br>
 Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten.    
