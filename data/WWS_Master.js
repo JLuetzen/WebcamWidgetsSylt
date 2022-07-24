@@ -18,7 +18,7 @@ if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 18");
+	console.log("V 19");
 //
 // Initialization der Variablen
 //
@@ -40,6 +40,7 @@ var camURL; // LiveStreamURL
 var sunrise; // Zeit Sonnenaufgang
 var sunset; // Zeit Sonnenuntergang
 var hinweistext = "";  // der Hinweistext ersetzt den movietimestamp
+var sunhint = ""; // falls die Sonnenauf- und Untergangsberechnung in California wieder wegen Zertifikatsfehler nicht geht
 var customLogoName = ""; // Cam-abhängiges Logo möglich --> wird in Specialcases mitgegeben
 var logo;
 var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters gezogen wird.
@@ -212,7 +213,15 @@ switch (errParam) {
 		console.log("Stream CamURL : " + camURL);
 
 // Sonnenauf- und -Untergang, falls übergeben
-/*	 	if (LAT != "N") {
+		try {
+			let sunData = await new Request("https://api.sunrise-sunset.org/json?lat=" + LAT + "&lng=" + LON + "&formatted=0&date=" + actualdate.getFullYear() + "-" + (actualdate.getMonth()+1) + "-" + actualdate.getDate()).loadJSON();
+		}
+		catch(err) {
+			LAT = "N"
+			sunhint = "Heute ohne Sonnenzeiten :("
+		}
+
+	 	if (LAT != "N") {
 			let sunData = await new Request("https://api.sunrise-sunset.org/json?lat=" + LAT + "&lng=" + LON + "&formatted=0&date=" + actualdate.getFullYear() + "-" + (actualdate.getMonth()+1) + "-" + actualdate.getDate()).loadJSON();
 			let now = actualdate.getTime();
 			let sunrise_hr = ('0' + new Date(sunData.results.sunrise).getHours()).substr(-2); // macht die Zahl zweistellig
@@ -226,11 +235,10 @@ switch (errParam) {
 			sunrise = "N";
 			sunset = "N";
 		}
-*/
-
+/*
 sunrise = "N";
 sunset = "N";
-
+*/
 		console.log("Sonnenaufgang: " + sunrise);
 		console.log("Sonnenuntergang: " + sunset);
 
@@ -269,10 +277,17 @@ sunset = "N";
 		console.log("WWS nach specialcases: customLogoName: " + customLogoName);
 
 		//
-		// für Hinweise
+		// für Hinweise Standard
 		//
 		if (hinweistext != "") {
 			movietimestamp = hinweistext;
+		}
+
+		//
+		// für Hinweise bei api error Sonnenauf- und Untergangsberechnung
+		//
+		if (sunhint != "") {
+			movietimestamp = sunhint;
 		}
 
 		console.log("Check: GitHubLogoName: " + GitHubLogoName);
