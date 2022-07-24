@@ -14,9 +14,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-## 23.07.2022
-Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.
-Bitte Update-Kurzbefehle ausführen
+
 
 
 ### Einleitung
@@ -384,6 +382,13 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ------------------------------------------------
 #### News:
 
+----------------------------------------------------
+### 23.07.2022
+Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.
+Bitte Update-Kurzbefehle ausführen
+24.07.2022
+Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten
+      
 ----------------------------------------------------
 ### 2022-06-18 iPhone Nerd Version
 
