@@ -389,7 +389,8 @@ Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.<br>
 Bitte Update-Kurzbefehle ausführen <br>
 24.07.2022<br>
 Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten. 
-Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeiten verfügbar sind. 
+Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeiten verfügbar sind. <br>
+<img src="images/Sunset_api_displayedtext.jpeg" title="Sunset_api_didplayedtext" width="300"><br>    
       
 ----------------------------------------------------
 ### 2022-06-18 iPhone Nerd Version
