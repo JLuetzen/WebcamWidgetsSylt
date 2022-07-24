@@ -383,11 +383,11 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #### News:
 
 ----------------------------------------------------
-### 23.07.2022
+### 23.07.2022 Fehler beim api für Sonneauf- und Untergangszeiten
 Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.
-Bitte Update-Kurzbefehle ausführen
-24.07.2022
-Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten
+Bitte Update-Kurzbefehle ausführen <br>
+24.07.2022<br>
+Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten.    
       
 ----------------------------------------------------
 ### 2022-06-18 iPhone Nerd Version
