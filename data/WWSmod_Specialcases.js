@@ -212,6 +212,11 @@ switch ( camLocation ) {
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case ("Sansibar"):
+		customLogoName = "WWS_Logo_Sansibar1.png";
+		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kochelsee") :
 //	case ("Surfcam Sylt"):
 		customLogoName = "WWS_Logo_Eastern2022.png";
