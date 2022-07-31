@@ -373,6 +373,8 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - D. Boysen, [Tourismus-Service Kampen](https://www.kampen.de/service/tourismus-service-kampen)      
 - M. Franzen, P. Villwock, Insel Sylt Tourismus-Service, [www.insel-sylt.de](https://www.insel-sylt.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
+- [sunrise-sunset.org](https://www.sunrise-sunset.org)
+
 
 ------------------------------------------------
 #### Hashtags:
