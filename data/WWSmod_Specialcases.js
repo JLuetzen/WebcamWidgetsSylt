@@ -215,6 +215,13 @@ switch ( camLocation ) {
 	case ("Sansibar"):
 		customLogoName = "WWS_Logo_Sansibar1.png";
 		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
+	break
+
+	case ("Anleger Havneby/Rømø"):
+	case ("Anleger List/Sylt"):
+	case ("Anleger List/Sylt -  Zoom"):
+		customLogoName = "WWS_Logo_FRSSyltfaehre_11.png";
+		console.log("Anleger List/Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kochelsee") :
