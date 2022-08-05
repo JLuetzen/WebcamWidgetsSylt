@@ -12,10 +12,9 @@
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
+<div id="Top"></div>
 
 # Webcam Widgets Sylt -  live auf dem iPhone
-
-
 
 
 ### Einleitung
@@ -28,6 +27,8 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 <BR>
 
+<div id="Inhalt"></div>
+  
 ## Inhalt:
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
@@ -37,9 +38,6 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [Danke an meine Unterstützer](#Danksagung)  
 * [News and Updates](#NewsUpdates)
 * [Lizenz](#Lizenz)
-  
-
-
 
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
@@ -165,7 +163,7 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
-  
+[Zurück zum Seitenang](#Top) 
 ------------------------------------------------
 <div id="ZusammenfassungKurzbefehle"></div>
   
@@ -232,7 +230,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>    
 </table>
 
-
+[Zurück zum Seitenang](#Top)
 ------------------------------------------------
 <div id="WeitereHinweise"></div>
       
@@ -304,7 +302,7 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 Versand erfolgt allerdings nur innerhalb Deutschlands.
 
-
+[Zurück zum Seitenang](#Top)
 ------------------------------------------------
 <div id="ListederCams"></div>
       
@@ -375,7 +373,8 @@ Diese Webcams sind eingebunden:
 * Büsum Deichhausen
 * Greetsiel
 
-
+      
+[Zurück zum Seitenang](#Top)
 ------------------------------------------------
 <div id="Daswillichauch"></div>
 
@@ -388,6 +387,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
+[Zurück zum Seitenang](#Top)
 ------------------------------------------------
 <div id=Danksagung></div>
       
@@ -411,6 +411,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
+[Zurück zum Seitenang](#Top)
 ------------------------------------------------
 <div id=NewsUpdates></div>
       
@@ -518,9 +519,12 @@ Ihr werdet sehen, das ist alles sehr einfach.
 </table>
 
  
-      
+[Zurück zum Seitenang](#Top)
+------------------------------------------------
+
 <div id=Lizenz></div>
      
 ## Lizenz:
 
 Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License](https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE)
+
