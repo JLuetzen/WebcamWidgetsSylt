@@ -26,9 +26,9 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 {% include youtubePlayer.html id="xDe2LnULC7Y" %}
 
-### Inhalt:
-[Eins für Alles - das Script der 2. Generation](README.md#Eins-für-Alles---das-Script-der-2.-Generation).  
-[Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](README.md#Zusammenfassung-Kurzbefehle-und-Anleitung-Einrichtung-auf-Homescreen).  
+## Inhalt:
+* [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
+* [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
 
 
 ## Content
@@ -36,7 +36,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [Chapter 1](#Chapter1)
 * [Chapter 2](#Chapter2)
 
-<div id="Chapter1"></div>
+<div id="EinsfuerAlles"></div>
 
 ## Chapter 1
 
@@ -53,7 +53,9 @@ Some text here.
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
-### Eins für Alles - das Script der 2. Generation
+<div id="EinsfuerAlles"></div>
+  
+## Eins für Alles - das Script der 2. Generation
 Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
 
 Die Vorteile dieser neuen Version sind
@@ -174,7 +176,9 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
   
 ------------------------------------------------
-### Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
+<div id="ZusammenfassungKurzbefehle"></div>
+  
+## Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
 
 
 #### Sylt-Cams
