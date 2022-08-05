@@ -163,7 +163,8 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
-[Zurück zum Seitenang](#Top)<BR>    
+[Zurück zum Seitenanfang](#Top)
+  
 ------------------------------------------------
 <div id="ZusammenfassungKurzbefehle"></div>
   
@@ -230,7 +231,8 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>    
 </table>
 
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 <div id="WeitereHinweise"></div>
       
@@ -302,7 +304,8 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 Versand erfolgt allerdings nur innerhalb Deutschlands.
 
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 <div id="ListederCams"></div>
       
@@ -374,7 +377,8 @@ Diese Webcams sind eingebunden:
 * Greetsiel
 
       
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 <div id="Daswillichauch"></div>
 
@@ -387,7 +391,8 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 <div id=Danksagung></div>
       
@@ -411,7 +416,8 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
 
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 <div id=NewsUpdates></div>
       
@@ -519,7 +525,8 @@ Ihr werdet sehen, das ist alles sehr einfach.
 </table>
 
  
-[Zurück zum Seitenang](#Top)
+[Zurück zum Seitenanfang](#Top)
+      
 ------------------------------------------------
 
 <div id=Lizenz></div>
