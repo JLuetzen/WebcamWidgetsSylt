@@ -27,9 +27,10 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 <BR>
 
+-----
 <div id="Inhalt"></div>
   
-## Inhalt:
+## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
 * [Weitere Hinweise](#WeitereHinweise)   
@@ -42,6 +43,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
+-----
 <div id="EinsfuerAlles"></div>
   
 ## Eins für Alles - das Script der 2. Generation
@@ -166,6 +168,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 [Zurück zum Seitenanfang](#Top)
   
 ------------------------------------------------
+-----
 <div id="ZusammenfassungKurzbefehle"></div>
   
 ## Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
@@ -234,6 +237,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
+-----
 <div id="WeitereHinweise"></div>
       
 ## Weitere Hinweise
@@ -307,6 +311,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
+-----
 <div id="ListederCams"></div>
       
 ## Liste der Cams
@@ -380,6 +385,7 @@ Diese Webcams sind eingebunden:
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
+-----
 <div id="Daswillichauch"></div>
 
 ## "Das will ich auch haben..."
@@ -394,6 +400,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
+-----
 <div id=Danksagung></div>
       
 ## Danke an meine Unterstützer:
@@ -419,6 +426,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
+-----
 <div id=NewsUpdates></div>
       
 ## News and Updates:
@@ -528,7 +536,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
 [Zurück zum Seitenanfang](#Top)
       
 ------------------------------------------------
-
+-----
 <div id=Lizenz></div>
      
 ## Lizenz:
