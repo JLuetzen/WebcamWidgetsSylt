@@ -12,37 +12,6 @@
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
----
-
-title: Help Center
-
-navigation:
-
-  - section: Help Center
-
-  - document: overview_doc
-
-    label: Overview
-
-  - document: data_sources_doc
-
-    label: Data Sources
-
-  - document: data_definitions_doc
-
-    label: Data Definitions
-
-  - document: faq_doc
-
-    label: FAQ
-
-  - document: release_notes_doc
-
-    label: Release Notes
-
----
-
-
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
