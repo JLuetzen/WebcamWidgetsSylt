@@ -372,6 +372,8 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - H.-J. Rotter, [feratel media Technologies GmbH](https://www.feratel.com/)
 - D. Boysen, [Tourismus-Service Kampen](https://www.kampen.de/service/tourismus-service-kampen)      
 - M. Franzen, P. Villwock, Insel Sylt Tourismus-Service, [www.insel-sylt.de](https://www.insel-sylt.de)
+- A. Wagner, [SANSIBAR Sylt](https://www.sansibar.de)
+- S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
 
