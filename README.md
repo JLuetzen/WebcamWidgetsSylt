@@ -163,7 +163,7 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
-[Zurück zum Seitenang](#Top) 
+[Zurück zum Seitenang](#Top)<BR>    
 ------------------------------------------------
 <div id="ZusammenfassungKurzbefehle"></div>
   
