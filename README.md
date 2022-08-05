@@ -31,11 +31,11 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt:
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
-* [Weitere Hinweise](#WeitereHiweise)   
+* [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
 * [Danke an meine Unterstützer](#Danksagung)  
-* [News and Updates](#News-Updates)
+* [News and Updates](#NewsUpdates)
 * [Lizenz](#Lizenz)
   
 
@@ -412,7 +412,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #webcamwidgets #webcamwidgetssylt
 
 ------------------------------------------------
-<div id=News-Updates></div>
+<div id=NewsUpdates></div>
       
 ## News and Updates:
 
