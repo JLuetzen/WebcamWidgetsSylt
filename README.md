@@ -26,9 +26,10 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 {% include youtubePlayer.html id="xDe2LnULC7Y" %}
 
-## Inhalt:
-[Eins für Alles - das Script der 2. Generation](#Eins für Alles - das Script der 2. Generation).  
-[Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#Zusammenfassung-Kurzbefehle-und-Anleitung-Einrichtung-auf-Homescreen).  
+### Inhalt:
+[Eins für Alles - das Script der 2. Generation](README.md#Eins-für-Alles---das-Script-der-2.-Generation).  
+[Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](README.md#Zusammenfassung-Kurzbefehle-und-Anleitung-Einrichtung-auf-Homescreen).  
+
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
