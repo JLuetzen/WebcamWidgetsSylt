@@ -26,29 +26,20 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 {% include youtubePlayer.html id="xDe2LnULC7Y" %}
 
+<BR>
+
 ## Inhalt:
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
+* [Weitere Hinweise](#WeitereHiweise)   
+* [Liste der Cams](#ListederCams)   
+* ["Das will ich auch haben"](#Daswillichauch)
+* [Danke an meine Unterstützer](#Danksagung)  
+* [News and Updates](#News-Updates)
+* [Lizenz](#Lizenz)
+  
 
 
-## Content
-
-* [Chapter 1](#Chapter1)
-* [Chapter 2](#Chapter2)
-
-<div id="EinsfuerAlles"></div>
-
-## Chapter 1
-
-Some text here.  
-Some text here.
-Some text here.
-
-## Chapter 2 <span id="Chapter2"><span>
-
-Some text here.  
-Some text here.
-Some text here.
 
 
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
@@ -243,7 +234,9 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 
 ------------------------------------------------
-### Weitere Hinweise
+<div id="WeitereHinweise"></div>
+      
+## Weitere Hinweise
   
 <br>
 Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und vom Sylt-Shuttle [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
@@ -313,7 +306,10 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 
 ------------------------------------------------
-
+<div id="ListederCams"></div>
+      
+## Liste der Cams
+      
 ### Syltcams (Stand 12.06.2022)
 
 Diese Sylter Cams sind eingebunden:
@@ -381,8 +377,9 @@ Diese Webcams sind eingebunden:
 
 
 ------------------------------------------------
+<div id="Daswillichauch"></div>
 
-### "Das will ich auch..."
+## "Das will ich auch haben..."
 
 Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich Euch Widgets schreiben soll, dann meldet Euch gerne per Mail bei mir.
 
@@ -392,7 +389,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
 ------------------------------------------------
-### Danke an
+<div id=Danksagung></div>
+      
+## Danke an meine Unterstützer:
+      
 - Sabine
 - D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
@@ -412,7 +412,9 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #webcamwidgets #webcamwidgetssylt
 
 ------------------------------------------------
-#### News:
+<div id=News-Updates></div>
+      
+## News and Updates:
 
 ----------------------------------------------------
 ### 23.07.2022 Fehler beim api für Sonnenauf- und Untergangszeiten
@@ -515,8 +517,10 @@ Ihr werdet sehen, das ist alles sehr einfach.
   </tr>
 </table>
 
-
-
-### Lizenz:
+ 
+      
+<div id=Lizenz></div>
+     
+## Lizenz:
 
 Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License](https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE)
