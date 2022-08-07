@@ -29,7 +29,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 <BR>
 
 -----
-<div id="Inhalt"></div>
+<div id="Inhalt"></div><BR>
   
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
@@ -45,7 +45,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 -----
-<div id="EinsfuerAlles"></div>
+<div id="EinsfuerAlles"></div><BR>
   
 ## Eins für Alles - das Script der 2. Generation
 Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
@@ -170,7 +170,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   
 ------------------------------------------------
 -----
-<div id="ZusammenfassungKurzbefehle"></div>
+<div id="ZusammenfassungKurzbefehle"></div><BR>
   
 ## Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
 
@@ -239,7 +239,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
       
 ------------------------------------------------
 -----
-<div id="WeitereHinweise"></div>
+<div id="WeitereHinweise"></div><BR>
       
 ## Weitere Hinweise
   
@@ -313,7 +313,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
       
 ------------------------------------------------
 -----
-<div id="ListederCams"></div>
+<div id="ListederCams"></div><BR>
       
 ## Liste der Cams
       
@@ -388,7 +388,7 @@ Diese Webcams sind eingebunden:
       
 ------------------------------------------------
 -----
-<div id="Daswillichauch"></div>
+<div id="Daswillichauch"></div><BR>
 
 ## "Das will ich auch haben..."
 
@@ -403,7 +403,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ------------------------------------------------
 -----
-<div id=Danksagung></div>
+<div id=Danksagung></div><BR>
       
 ## Danke an meine Unterstützer:
       
@@ -429,7 +429,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ------------------------------------------------
 -----
-<div id=NewsUpdates></div>
+<div id=NewsUpdates></div><BR>
       
 ## News and Updates:
 
@@ -545,7 +545,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
       
 ------------------------------------------------
 -----
-<div id=Lizenz></div>
+<div id=Lizenz></div><BR>
      
 ## Lizenz:
 
