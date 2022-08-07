@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("6. im Module Sunrise / Sunset")
+console.log("7. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -38,7 +38,7 @@ console.log("Longitude: " + lon)
 //  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), webCam[0].lon, webCam[0].lat, startCivilTwilight, endCivilTwilight)
   civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, startCivilTwilight, endCivilTwilight)
   rise = rechne_zeit_um(startCivilTwilight.val - differenz_zur_UTC(today));
-  console.log("WFG Rise: " + rise);
+  console.log("WFG Rise: " + startCivilTwilight.val);
 
 	let riseDate = new Date(today.getFullYear(), today.getMonth(), today.getDate(), rise.h, rise.m, rise.s)
 
