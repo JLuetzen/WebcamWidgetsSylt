@@ -26,7 +26,7 @@ var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Kochelsee.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Starnbergersee Ammerland.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Gardasee Malcesine.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_BAY_Gardasee Color Hotel.js");
+
 
 Script.complete();
 
