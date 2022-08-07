@@ -112,6 +112,17 @@ switch (myFilename) {
 		param = "7";
 	break;
 
+	case ("WWS_CSML_Gardasee Color Hotel"):
+		CamFamily = "Urlaubsziele CSML";
+		GitHubCamFile = "Cams_CSML-Edition.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "8";
+	break;
+
 
 	// *****************************
 	// Default
