@@ -201,7 +201,7 @@ switch ( camProvider ) {
 	//
 		case ("https://www.colorhotel.it") :
 	//		if ( camProvider == "https://www.prienavera.de" ){
-					console.log("Color Hotel in der IF Funktion 1");
+					console.log("Color Hotel in der IF Funktion 2");
 					console.log("Color Hotel: camURL lautet: " + camURL);
 					webview = new WebView();
 					req = new Request(camURL);
