@@ -211,7 +211,7 @@ switch ( camProvider ) {
 
 					var myJS = `
 					(function() {
-					var x = document.querySelector('wclayer0').src
+					var x = document.getElementById('wclayer0').src
 					 completion(x);
 					return;
 					})();
