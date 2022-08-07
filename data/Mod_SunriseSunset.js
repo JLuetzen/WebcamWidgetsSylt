@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("4. im Module Sunrise / Sunset")
+console.log("5. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -210,6 +210,7 @@ function sun_rise_set(year, month, day, lon, lat, rise, set) {
 /* Civil twilight starts/ends when the Sun's center is 6 degrees below  */
 /* the horizon.                                                         */
 function civil_twilight(year, month, day, lon, lat, start, end) {
+  console.log("In Civil Twilight");
 	return __sunriset__(year, month, day, lon, lat, -6.0, 0, start, end);
 };
 
