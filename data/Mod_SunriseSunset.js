@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("im 3 Module Sunrise / Sunset")
+console.log("4. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -55,7 +55,7 @@ return(Sunrise_Sunset);
 
 //Script.complete();
 
-}
+
 
 // creates and inits a DateFormatter
 function dfCreateAndInit (format) {
@@ -957,6 +957,6 @@ function zweistellig(wert) {
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
+}
 
 // EOF
