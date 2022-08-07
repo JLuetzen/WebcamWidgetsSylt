@@ -197,7 +197,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   <tr>
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
     <td text colspan="2" align="left" width="80%">
-      <b>ACHTUNG</b>: Es ist dasselbe Script, nur die Kurzbefehle sind aufgeteilt.
+      <b>ACHTUNG</b>: Es ist dasselbe Script, nur die Kurzbefehle sind aufgeteilt.<BR>
       1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
       2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.<BR>
       3. Neues Widget antippen führt zu den Einstellungen<BR>
