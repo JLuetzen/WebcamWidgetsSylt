@@ -194,6 +194,48 @@ switch ( camProvider ) {
 	// Ende Golfclub Sylt
 	//
 
+
+	// Special Case Bardolono Color Hotel
+	// Der URL zum Bild trägt einen Zeitstempel, der ausgelesen wird
+	// dieses Bild ist Vorschaubild und Bild in der Großansicht
+	//
+		case ("https://www.colorhotel.it") :
+	//		if ( camProvider == "https://www.prienavera.de" ){
+					console.log("Color Hotel in der IF Funktion 7");
+					console.log("Color Hotel: camURL lautet: " + camURL);
+					webview = new WebView();
+					req = new Request(camURL);
+					res = await req.loadString();
+					await webview.loadHTML(res, camURL);
+					console.log("Color Hotel nach loadHTML");
+
+					var myJS = `
+					(function() {
+					var x = document.querySelector('wclayer0.src')
+					 completion(x);
+					return;
+					})();
+					`
+
+					console.log("Color Hotel nach JScript");
+					var response = await webview.evaluateJavaScript(myJS, true);
+					console.log("im Modul: Response Color Hotel: " + response);
+
+					imgURL = response;
+					camURL = response
+					// extracting Movie timestamp from MovieLink
+					movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
+					console.log("im Modul: Timestamp Color Hotel: " + movietimestamp);
+					specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
+	//			}
+
+		break;
+		//
+		// Ende Bardolinio Color Hotel
+		//
+
+
+
 } // Ende switch
 
 //
