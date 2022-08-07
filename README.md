@@ -211,7 +211,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 <table width="900">
   <tr>
     <th></th>
-    <th>Urlaubsziele CSML</th>
+    <th>Urlaubsziele</th>
     <th>Surfcams Bayern</th>
   </tr>
   <tr>
@@ -364,14 +364,14 @@ Diese Seen sind eingebunden:
 * Kochelsee
 * Starnbergersee
 * Tegernsee
-* Gardasee
+* Gardasee Malcesine
 
 
 ------------------------------------------------
 
-### CSML-Edition (Stand 12.06.2022)
+### Urlaubsziele (Stand 07.08.2022)
 
-Webcams im Norden...
+Webcams im Norden und Süden...
 
 Diese Webcams sind eingebunden:
 * Sankt Peter-Ording, Badestelle Ording
@@ -381,6 +381,7 @@ Diese Webcams sind eingebunden:
 * Büsum II
 * Büsum Deichhausen
 * Greetsiel
+* Hotel Color Bardolino
 
       
 [Zurück zum Seitenanfang](#Top)
@@ -432,6 +433,12 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ## News and Updates:
 
+----------------------------------------------------
+### 07.08.2022 Umbau Sonnenauf- und Untergangszeiten begonnen
+- Der Zertifikats-Fehler auf dem api unter https://sunrise-sunset.org besteht immer noch.Deshalb fange ich jetzt an, diesen Teil umzubauen.<BR>
+- Neu aufgenommen ist die Cam im Hotel Color, Bardolino, unter den Urlaubszielen
+ 
+     
 ----------------------------------------------------
 ### 23.07.2022 Fehler beim api für Sonnenauf- und Untergangszeiten
 Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.<br>
