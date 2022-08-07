@@ -2,9 +2,13 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: purple; icon-glyph: magic;
 
-module.exports.calculateSunriseSunset = async function(lat,lon) {
+module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("im Module Sunrise / Sunset")
+let mylatlonArray = latlon.split("*");
+  lat = mylatlonArray[0];
+  lon = mylatlonArray[1];
+
+console.log("im 2 Module Sunrise / Sunset")
 console.log("Lattitude: " + lat)
 console.log("Longitude: " + lon)
 
