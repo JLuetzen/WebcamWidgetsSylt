@@ -4,15 +4,17 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("14. im Module Sunrise / Sunset")
+console.log("16. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
-  lat = mylatlonArray[0];
-  lon = mylatlonArray[1];
+  lat = 1 * mylatlonArray[0];
+  lon = 1 * mylatlonArray[1];
 
+/*
   lat = 48.219;
   lon = 12.134;
+*/
 
 console.log("Lattitude: " + lat)
 console.log("Longitude: " + lon)
@@ -51,7 +53,7 @@ console.log("WFG Sunrise: " + riseDate);
 
   sunset = rechne_zeit_um(endCivilTwilight.val - differenz_zur_UTC(today));
 //  let sunsetDate = new Date(new Date(today.getFullYear(), today.getMonth(), today.getDate(), sunset.h, sunset.m, sunset.s))
-  let sunsetDate = sunset.h + ":" + sunset.m;
+  let sunsetDate = ("0" + sunset.h).substr(-2) + ":" + ("0" + sunset.m).substr(-2);
 
 console.log("WFG Sunset: " + sunsetDate);
 
