@@ -4,12 +4,15 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("8. im Module Sunrise / Sunset")
+console.log("9. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
   lat = mylatlonArray[0];
   lon = mylatlonArray[1];
+
+  lat = 48.219;
+  lon = 12.134;
 
 console.log("Lattitude: " + lat)
 console.log("Longitude: " + lon)
