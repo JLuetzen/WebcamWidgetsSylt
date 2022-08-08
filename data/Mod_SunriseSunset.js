@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("10. im Module Sunrise / Sunset")
+console.log("11. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -56,6 +56,7 @@ console.log("WFG Sunrise: " + riseDate);
 console.log("WFG Sunset: " + sunsetDate);
 
 Sunrise_Sunset = riseDate + "*" + sunsetDate;
+console.log("Sunrise_Sunset : " + Sunrise_Sunset);
 
 return(Sunrise_Sunset);
 
