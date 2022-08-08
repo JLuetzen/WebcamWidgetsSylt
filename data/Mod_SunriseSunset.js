@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("7. im Module Sunrise / Sunset")
+console.log("8. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -323,6 +323,9 @@ function __sunriset__(year, month, day, lon, lat, altit, upper_limb, trise, tset
 	/* Store rise and set times - in hours UT */
 	trise.val = tsouth - t;
 	tset.val = tsouth + t;
+
+  console.log("TRise: " + trise.val);
+  console.log("TSet: " + tsel.val);
 
 	return rc;
 }/* __sunriset__ */
