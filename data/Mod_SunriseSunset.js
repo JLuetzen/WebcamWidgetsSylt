@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("13. im Module Sunrise / Sunset")
+console.log("14. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -45,7 +45,7 @@ console.log("Longitude: " + lon)
   console.log("WFG Rise: " + startCivilTwilight.val);
 
 //	let riseDate = new Date(today.getFullYear(), today.getMonth(), today.getDate(), rise.h, rise.m, rise.s)
-  let riseDate = ('0' + (rise.h + ":" + rise.m)).substr(-2);
+  let riseDate = ("0" + rise.h).substr(-2) + ":" + ("0" + rise.m).substr(-2);
 
 console.log("WFG Sunrise: " + riseDate);
 
