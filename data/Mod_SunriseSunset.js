@@ -328,7 +328,7 @@ function __sunriset__(year, month, day, lon, lat, altit, upper_limb, trise, tset
 	tset.val = tsouth + t;
 
   console.log("TRise: " + trise.val);
-  console.log("TSet: " + tsel.val);
+  console.log("TSet: " + tset.val);
 
 	return rc;
 }/* __sunriset__ */
