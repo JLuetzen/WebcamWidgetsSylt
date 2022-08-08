@@ -4,7 +4,7 @@
 
 module.exports.calculateSunriseSunset = async function(latlon) {
 
-console.log("9. im Module Sunrise / Sunset")
+console.log("10. im Module Sunrise / Sunset")
 console.log("angekommen latlon: " +latlon);
 
 let mylatlonArray = latlon.split("*");
@@ -27,6 +27,7 @@ console.log("Longitude: " + lon)
     var riseYesterday = new Object();
 	  var sunset = new Object();
 	  var sunsetYesterday = new Object();
+    var Surise_Sunset;
     let dfTime = dfCreateAndInit("HH:mm")
     let timeStr = ""
     let img
