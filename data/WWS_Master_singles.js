@@ -15,10 +15,10 @@
 {
 let param = args.widgetParameter;
 if ( param == null ){//
-//param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
+param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 21");
+	console.log("V 21.5");
 //
 // Initialization der Variablen
 //
@@ -245,11 +245,14 @@ sunrise = "N";
 sunset = "N";
 */
 /*HIER GEHTS WEITER*/
+	let latlon = LAT + "*" + LON;
+	console.log("latlon: " + latlon);
 
-	const calc_sunrisesunset = importModule(GitHubSpecialCaseFile + todaydatestring + ".js");
-	let sunrise_sunset = await calc_sunrisesunset.calculateSunriseSunset(LAT,LON);
+	const calcsunrisesunset = importModule(GitHubSunriseSunsetFile + todaydatestring + ".js");
+	let sunrise_sunset = await calcsunrisesunset.calculateSunriseSunset(latlon);
+	console.log("Zurück im Hauptprogramm sunrise_sunset: " + sunrise_sunset);
 
-	mySunriseSunsetArray = sunrise_Sunset.split("*");
+	mySunriseSunsetArray = sunrise_sunset.split("*");
 	sunrise = mySunriseSunsetArray[0];
 	sunset = mySunriseSunsetArray[1];
 
