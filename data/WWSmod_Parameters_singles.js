@@ -39,7 +39,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Westerland_1_farbig.png';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -95,7 +95,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Westerland_1_weiss';
+		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
