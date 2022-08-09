@@ -17,7 +17,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>Update Kurzbefehl aufrufen (den blauen) füe neue Version mit eigeneer Berechnung Bürgerliche Dämmerung</marquee>
+<marquee>09. August 2022: Auf dem iPhone den Update-Kurzbefehl aufrufen (den blauen) füe neue Version mit eigener Berechnung Bürgerliche Dämmerung</marquee>
   
   
 ## Einleitung
