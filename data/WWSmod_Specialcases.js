@@ -254,6 +254,17 @@ switch ( camLocation ) {
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+
+	case ("Westerland Promenade ISTS"):
+		customLogoName = "WWS_Logo_Westerland_1_farbig.png";
+		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
+	break
+
+	case ("Rantum ISTS"):
+		customLogoName = "WWS_Logo_Westerland_1_weiss.png";
+		console.log("Rantum gefunden, CustomLogoName: " + customLogoName + " . ");
+	break
+
 	case ("Sansibar"):
 		customLogoName = "WWS_Logo_Sansibar1.png";
 		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
