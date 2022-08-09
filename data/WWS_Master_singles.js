@@ -18,7 +18,7 @@ if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 19");
+	console.log("V 21");
 //
 // Initialization der Variablen
 //
@@ -50,7 +50,8 @@ var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters g
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters_singles"
+const GitHubParameterFile = "WWSmod_Parameters_singles";
+const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 
 //
 // Creating value for date and time
@@ -117,6 +118,8 @@ const GitHubParameterFile = "WWSmod_Parameters_singles"
 //	const logoImg = await getImage(GitHubLogoName,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 	const dataFl = await getData(GitHubCamFile,GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
 	const specialCaseFl = await getData(GitHubSpecialCaseFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
+	const sunrisesunsetFl = await getData(GitHubSunriseSunsetFile+".js",GitHubDataPath,todaydatestring,yesterdaydatestring,dataload_mode);
+
 
 // falls das Einzelwidget gewählt wurde und nicht per Widget der Parameter eingegeben wird:
 if (singleparam != null) {
@@ -213,6 +216,8 @@ switch (errParam) {
 		console.log("Stream CamURL : " + camURL);
 
 // Sonnenauf- und -Untergang, falls übergeben
+
+/*
 		try {
 			let sunData = await new Request("https://api.sunrise-sunset.org/json?lat=" + LAT + "&lng=" + LON + "&formatted=0&date=" + actualdate.getFullYear() + "-" + (actualdate.getMonth()+1) + "-" + actualdate.getDate()).loadJSON();
 		}
@@ -239,6 +244,15 @@ switch (errParam) {
 sunrise = "N";
 sunset = "N";
 */
+/*HIER GEHTS WEITER*/
+
+	const calc_sunrisesunset = importModule(GitHubSpecialCaseFile + todaydatestring + ".js");
+	let sunrise_sunset = await calc_sunrisesunset.calculateSunriseSunset(LAT,LON);
+
+	mySunriseSunsetArray = sunrise_Sunset.split("*");
+	sunrise = mySunriseSunsetArray[0];
+	sunset = mySunriseSunsetArray[1];
+
 		console.log("Sonnenaufgang: " + sunrise);
 		console.log("Sonnenuntergang: " + sunset);
 

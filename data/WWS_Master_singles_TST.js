@@ -50,8 +50,8 @@ var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters g
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters_singles"
-const GitHubSunriseSunsetFile = "Mod_SunriseSunset"
+const GitHubParameterFile = "WWSmod_Parameters_singles";
+const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 
 //
 // Creating value for date and time
