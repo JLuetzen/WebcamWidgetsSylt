@@ -53,7 +53,7 @@ Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung
 Die Vorteile dieser neuen Version sind
 * Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
 * Automatische Updates
-* Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
+* Sonnenaufgangs- und Sonnenuntergangszeiten (Bürgerliche Dämmerung) (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
