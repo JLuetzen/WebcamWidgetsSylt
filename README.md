@@ -419,6 +419,8 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
+- Scriptabke Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
+- [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
 
 
 ------------------------------------------------
@@ -433,6 +435,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR>
       
 ## News and Updates:
+----------------------------------------------------
+### 09.08.2022 Umbau Sonnenauf- und Untergangszeiten fertig
+Die Scripte sind jetzt so erweitert, dass die Berechnung der Sonnenauf- und Untergangszeiten nicht mehr über einen Fremd-WebService erfolgt, sondern direkt im Script berechnet wird. Dazu habe ich den Kollegen von der Hessenschau und Andreas Konarski zu danken, die die Berechnung ins Netz gestellt haben. Errechnet wird der Zetipunkt der sog. Zivilen oder Bürgerlichen Dämmerung. Das ist der Zeitpunkt, zu dem die Mitte der Sonne 6° unterhalb des Horizonts steht (s.a. https://www.timeanddate.de/astronomie/buergerliche-daemmerung).
+
 
 ----------------------------------------------------
 ### 07.08.2022 Umbau Sonnenauf- und Untergangszeiten begonnen
