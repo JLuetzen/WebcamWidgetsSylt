@@ -437,25 +437,25 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ## News and Updates:
 ----------------------------------------------------
-### 10.08.2022 Neue Script-Version: Widget zeigt Update Hinweis
+### 10.08.2022: Neue Script-Version: Widget zeigt Update Hinweis
 Die Widgets sind so erweitert, dass bei Verfügbarkeit einer neuen Version im Widget ein Hinweis zum Updaten dargestellt wird.
 Dann müssen auf dem iPhone unter den Kurzbefehlen alle blauen Update-Kurzbefehle ausgeführt werden.
 Mit der nächsten Aktualisierung der Widgets auf dem Homescreen verschwindet der Update Hinweis wieder.<BR>
 <img src="images/Update_hint.jpeg" title="Update Hinweis" width="300"><br>  
       
 ----------------------------------------------------
-### 09.08.2022 Umbau Sonnenauf- und Untergangszeiten fertig
+### 09.08.2022: Umbau Sonnenauf- und Untergangszeiten fertig
 Die Scripte sind jetzt so erweitert, dass die Berechnung der Sonnenauf- und Untergangszeiten nicht mehr über einen Fremd-WebService erfolgt, sondern direkt im Script berechnet wird. Dazu habe ich den Kollegen von der Hessenschau und Andreas Konarski zu danken, die die Berechnung ins Netz gestellt haben. Errechnet wird der Zetipunkt der sog. Zivilen oder Bürgerlichen Dämmerung. Das ist der Zeitpunkt, zu dem die Mitte der Sonne 6° unterhalb des Horizonts steht (s.a. https://www.timeanddate.de/astronomie/buergerliche-daemmerung).
 
 
 ----------------------------------------------------
-### 07.08.2022 Umbau Sonnenauf- und Untergangszeiten begonnen
+### 07.08.2022: Umbau Sonnenauf- und Untergangszeiten begonnen
 - Der Zertifikats-Fehler auf dem api unter https://sunrise-sunset.org besteht immer noch.Deshalb fange ich jetzt an, diesen Teil umzubauen.<BR>
 - Neu aufgenommen ist die Cam im Hotel Color, Bardolino, unter den Urlaubszielen
  
      
 ----------------------------------------------------
-### 23.07.2022 Fehler beim api für Sonnenauf- und Untergangszeiten
+### 23.07.2022: Fehler beim api für Sonnenauf- und Untergangszeiten
 Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.<br>
 <img src="images/Sunset_api_error.jpeg" title="Sunset_api_error" width="300"><br> 
 Bitte Update-Kurzbefehle ausführen <br>
@@ -465,7 +465,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 <img src="images/Sunset_api_displayedtext.jpeg" title="Sunset_api_didplayedtext" width="300"><br>    
       
 ----------------------------------------------------
-### 2022-06-18 iPhone Nerd Version
+### 18.06.2022: iPhone Nerd Version
 
 Warum eine Nerd-Version?
   
@@ -491,26 +491,23 @@ Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetz
 </table>
 
 ------------------------------------------------
-##### 2022-06-17
+### 17.06.2022: Einführung von Kurzbefehlen für erleichtertes Einrichten und Updaten
 Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Script und das wiederum speichert die Scripts für die Widgets wie benötigt. Das machts extrem leicht, die Widgets zu nutzen. Das Einrichten der Widgets (Homescreen drücken, bis die Symbole wackeln,...) muss erst einmal weiter von Hand gemacht werden. Aber wer weiß schon was iOS 16 kann oder ob ich nicht doch einmal eine App in den Store bringe.. ;-)
 
 ------------------------------------------------
-##### 2022-06-12
-*Script der 2. Generation*
+### 12.06.2022: Script der 2. Generation
 Die neue Version WWS_Master.js, **das Eine für Alle** steht ab sofort zur Verfügung, eine für alles. 
 Die Installation erfolgt über einen Kurzbefehl, die List der verfügbaren Cams wird dann täglich heruntergeladen. 
 [Hier](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) gehts zum Anschauen.
 Unbedingt Aktualisieren, die Scripte der 1. Generation werden nicht mehr weiter gepflegt.
 
 ------------------------------------------------
-##### 2022-02-06
-*Scripts der 1. Generation*
+### 06.02.2022: Scripts der 1. Generation
 Die geänderte Adresse der Webcam am Altmühlsee ist eingearbeitet und neu ist die WebCam an der Prienavera mit schönem Blick auf die Halbinsel, den See und das Alpenpanorama dahinter. Damit die Änderungen sichtbar werden, muss das Script "WebCams_Surfcams_Bayern" neu geladen werden, es ist [Hier](https://gist.github.com/JLuetzen/32108386834dce1f2c2de70ca597626f) zu finden.
 ---> Das erneute Laden entfällt bei Verwendung des Scripts der 2. Generation --> unbedingt Aktualsieren!
 
 ------------------------------------------------
-##### 2021-08-20
-*Scripts der 1. Generation*
+### 20.08.2021 Scripts der 1. Generation
 Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladung in Westerland ist korrigiert. [Hier](https://bit.ly/3dj5YcN) geht's zum Widget zum Aktualisieren.
 ---> Das erneute Laden entfällt bei Verwendung des Scripts der 2. Generation --> unbedingt Aktualsieren!
 
@@ -519,7 +516,7 @@ Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladu
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ------------------------------------------------
-## Neuerungen im Script der 2. Generation
+### Neuerungen im Script der 2. Generation
 
 Diese Neuerungen sind in dem Script der 2. Generation **WWS_Master.js** umgesetzt:
 * die Daten der Cams stehen jetzt nicht mehr im Script, sondern in einer zentralen Datei, die das Script täglich 1x aktualisiert. Dadurch kommt der Benutzer viel schneller in den Genuss neuer verfügbarer Cams. Die Textdateien mit den Daten der Cams liegen hier im [Data-Verzeichnis des GitHub Projects](https://github.com/JLuetzen/WebcamWidgetsSylt/tree/main/data)
@@ -528,7 +525,7 @@ Diese Neuerungen sind in dem Script der 2. Generation **WWS_Master.js** umgesetz
 
 
 ------------------------------------------------
-## Scripts der ersten Generation
+### Scripts der ersten Generation
 Zu allen Widgets geht es [hier entlang:](https://gist.github.com/JLuetzen)
 Ihr findet da alles, den Code und die Installations-Anleitung in Text und als YouTube-Video.
 Das erste Video erklärt, wie das Widget-Script von Github nach Scriptable gebracht wird: [https://youtu.be/tRHFpwIr_l0](https://youtu.be/tRHFpwIr_l0)
