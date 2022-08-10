@@ -224,7 +224,7 @@ switch ( camProvider ) {
 					imgURL = response;
 					camURL = response
 					// extracting Movie timestamp from MovieLink
-					movietimestamp = "Picture from: " + camURL.substr(-9,2) + ":" + camURL.substr(-7,2);
+					movietimestamp = "Picture from: " + camURL.substr(-11,2) + ":" + camURL.substr(-9,2);
 					console.log("im Modul: Timestamp Color Hotel: " + movietimestamp);
 					specialcase = camLocation + "*" + camProvider + "*" + imgURL + "*" + camURL + "*" + movietimestamp;
 	//			}
