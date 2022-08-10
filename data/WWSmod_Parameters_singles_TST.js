@@ -26,7 +26,7 @@
 // param 											--> Nummer des Eintrags in der CamListe
 //
 
-module.exports.assignParameters = async function(myFilename, is_version) {
+module.exports.assignParameters = async function(myFilename,is_version) {
 
 console.log("My Filename: " + myFilename);
 console.log("is_version: " + is_version);
