@@ -32,10 +32,10 @@ myFilename_Ver_Array = myFilename_is_version.split("*");
 myFilename = myFilename_Ver_Array[0];
 is_version = myFilename_Ver_Array[1];
 
-console.log("2 My Filename: " + myFilename);
+console.log("3 My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
-let to_be_version=21.7;
+let to_be_version=21.8;
 
 switch (myFilename) {
 
