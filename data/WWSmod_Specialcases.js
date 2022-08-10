@@ -256,7 +256,7 @@ switch ( camLocation ) {
 
 
 	case ("Westerland Promenade ISTS"):
-		customLogoName = "WWS_Logo_Westerland_1_farbig.png";
+		customLogoName = "WWS_Logo_Westerland_1_weiss.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
