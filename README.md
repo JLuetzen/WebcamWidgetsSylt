@@ -44,7 +44,6 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [Lizenz](#Lizenz)
 
 
-Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 -----
 <div id="EinsfuerAlles"></div><BR>
@@ -421,7 +420,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
-- Scriptabke Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
+- Scriptable Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
 - [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
 
 
