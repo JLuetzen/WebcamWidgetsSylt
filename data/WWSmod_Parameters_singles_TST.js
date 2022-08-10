@@ -28,7 +28,7 @@
 
 module.exports.assignParameters = async function(myFilename,is_version) {
 
-console.log("My Filename: " + myFilename);
+console.log("1 My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
 let to_be_version=21.7;
