@@ -261,7 +261,7 @@ switch (myFilename) {
 // check version and create Hinweistext, if needed
 
 	if (1*is_version != 1*to_be_version) {
-		hinweistext = "4 neue Version \n Update Kurzbefehl ausführen"
+		hinweistext = "* Update Kurzbefehl starten *"
 	}
 
 
