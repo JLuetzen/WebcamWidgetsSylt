@@ -19,6 +19,7 @@ if ( param == null ){//
 	}
 	console.log("Parameter : " + param);
 	console.log("V 21.5");
+	var ver = 21.5;
 //
 // Initialization der Variablen
 //
@@ -50,7 +51,7 @@ var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters g
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters_singles";
+const GitHubParameterFile = "WWSmod_Parameters_singles_TST";
 const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 
 //
@@ -86,7 +87,7 @@ const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 	console.log("My Name is: " + myName);
 
 	const loadparameterfile = importModule(GitHubParameterFile + todaydatestring + ".js");
-	let parameterdata = await loadparameterfile.assignParameters(myName);
+	let parameterdata = await loadparameterfile.assignParameters(myName,ver);
 
 	console.log("Ausgang: LoadParameterFile: " + parameterdata);
 

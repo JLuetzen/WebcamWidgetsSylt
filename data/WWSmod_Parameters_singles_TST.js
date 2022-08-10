@@ -28,12 +28,6 @@
 
 module.exports.assignParameters = async function(myFilename,is_version) {
 
-to_be_version="19";
-
-if (is_version != to_be_version) {
-	
-}
-
 switch (myFilename) {
 
 	// *****************************
@@ -252,6 +246,16 @@ switch (myFilename) {
 		hinweistext = "Du hast da was vergessen";
 		param = "1"
 	}
+
+
+//
+// check version and create Hinweistext, if needed
+	to_be_version=21.6;
+
+	if (1*is_version != 1*to_be_version) {
+		hinweistext = "neu Version verfügbar, Update Kurzbefehl ausführen"
+	}
+
 
 	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext + "*" + param;
 	console.log("Im Modul..");
