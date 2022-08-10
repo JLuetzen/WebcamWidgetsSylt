@@ -250,7 +250,7 @@ switch (myFilename) {
 
 //
 // check version and create Hinweistext, if needed
-	to_be_version=21.6;
+	to_be_version=21.7Ich ;
 
 	if (1*is_version != 1*to_be_version) {
 		hinweistext = "neu Version verfügbar, Update Kurzbefehl ausführen"

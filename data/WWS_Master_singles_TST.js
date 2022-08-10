@@ -18,8 +18,8 @@ if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
 	console.log("Parameter : " + param);
-	console.log("V 21.5");
-	var ver = 21.5;
+	console.log("V 21.7");
+	var ver = 21.7;
 //
 // Initialization der Variablen
 //
