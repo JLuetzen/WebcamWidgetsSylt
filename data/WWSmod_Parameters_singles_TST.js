@@ -26,7 +26,12 @@
 // param 											--> Nummer des Eintrags in der CamListe
 //
 
-module.exports.assignParameters = async function(myFilename,is_version) {
+module.exports.assignParameters = async function(myFilename, is_version) {
+
+console.log("My Filename: " + myFilename);
+console.log("is_version: " + is_version);
+
+let to_be_version=21.7;
 
 switch (myFilename) {
 
@@ -250,7 +255,6 @@ switch (myFilename) {
 
 //
 // check version and create Hinweistext, if needed
-	to_be_version=21.7Ich ;
 
 	if (1*is_version != 1*to_be_version) {
 		hinweistext = "neu Version verfügbar, Update Kurzbefehl ausführen"
