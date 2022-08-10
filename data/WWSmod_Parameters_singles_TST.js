@@ -32,7 +32,7 @@ myFilename_Ver_Array = myFilename_is_version.split("*");
 myFilename = myFilename_Ver_Array[0];
 is_version = myFilename_Ver_Array[1];
 
-console.log("3 My Filename: " + myFilename);
+console.log("4 My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
 let to_be_version=21.8;
@@ -261,7 +261,7 @@ switch (myFilename) {
 // check version and create Hinweistext, if needed
 
 	if (1*is_version != 1*to_be_version) {
-		hinweistext = "neu Version verfügbar, Update Kurzbefehl ausführen"
+		hinweistext = "4 neue Version \n Update Kurzbefehl ausführen"
 	}
 
 
