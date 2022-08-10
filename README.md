@@ -437,6 +437,13 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ## News and Updates:
 ----------------------------------------------------
+### 10.08.2022 Neue Script-Version: Widget zeigt Update Hinweis
+Die Widgets sind so erweitert, dass bei Verfügbarkeit einer neuen Version im Widget ein Hinweis zum Updaten dargestellt wird.
+Dann müssen auf dem iPhone unter den Kurzbefehlen alle blauen Update-Kurzbefehle ausgeführt werden.
+Mit der nächsten Aktualisierung der Widgets auf dem Homescreen verschwindet der Update Hinweis wieder.<BR>
+<img src="images/Update_hint.jpeg" title="Update Hinweis" width="300"><br>  
+      
+----------------------------------------------------
 ### 09.08.2022 Umbau Sonnenauf- und Untergangszeiten fertig
 Die Scripte sind jetzt so erweitert, dass die Berechnung der Sonnenauf- und Untergangszeiten nicht mehr über einen Fremd-WebService erfolgt, sondern direkt im Script berechnet wird. Dazu habe ich den Kollegen von der Hessenschau und Andreas Konarski zu danken, die die Berechnung ins Netz gestellt haben. Errechnet wird der Zetipunkt der sog. Zivilen oder Bürgerlichen Dämmerung. Das ist der Zeitpunkt, zu dem die Mitte der Sonne 6° unterhalb des Horizonts steht (s.a. https://www.timeanddate.de/astronomie/buergerliche-daemmerung).
 
