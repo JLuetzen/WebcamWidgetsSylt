@@ -23,141 +23,119 @@
 // GitHubErrorPic							--> Name des Fehler-PNG wenn zu große Parameter aufgerufen wurden
 // GitHubSpecialCaseFile			--> Name des nachzuladenen Moduls für das WebScraping
 // hinweistext								--> der Hinweistext erscheint links unter dem CamNamen
-// param 											--> Nummer des Eintrags in der CamListe
 //
 
-module.exports.assignParameters = async function(myFilename_is_version) {
-
-myFilename_Ver_Array = myFilename_is_version.split("*");
-myFilename = myFilename_Ver_Array[0];
-is_version = myFilename_Ver_Array[1];
-
-console.log("My Filename: " + myFilename);
-console.log("is_version: " + is_version);
-
-let to_be_version=21.7;
+module.exports.assignParameters = async function(myFilename) {
 
 switch (myFilename) {
 
-	// *****************************
-	// CSML Edition
-	// *****************************
-
-
-	case ("WWS_CSML_SPO_Badestelle_Ording"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "1";
-	break;
-
-	case ("WWS_CSML_SPO_Erlebnispromenade"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "2";
-	break;
-
-	case ("WWS_CSML_SPO_Kuestenpanorama"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "3";
-	break;
-
-	case ("WWS_CSML_Buesum_Perlebucht"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "4";
-	break;
-
-	case ("WWS_CSML_Buesum_Hauptstrand"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "5";
-	break;
-
-	case ("WWS_CSML_Buesumer_Deichhausen"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "6";
-	break;
-
-	case ("WWS_CSML_Greetsiel_Hafen"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "7";
-	break;
-
-	case ("WWS_CSML_Gardasee Color Hotel"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "8";
-	break;
-
-
-	// *****************************
-	// Default
-	// *****************************
-
-
-	default:
-		CamFamily = "ERROR";
+	case ("WWS_Syltcams"):
+		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "Du hast da was vergessen";
-		param = "1"
+		hinweistext = "";
+	break;
+
+
+	case ("WWS_Syltcams_TST"):
+		CamFamily = "Sylt Cams_TST";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "Testcase for Logo Proposal";
+	break;
+
+
+	case ("WWS_Syltfaehre"):
+		CamFamily = "FRS Syltfähre";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+	break;
+
+	case ("WWS_Syltfaehre_TST"):
+		CamFamily = "FRS Syltfähre_TST";
+		GitHubCamFile = "Cams_Syltfaehre.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "Testcase for Logo Proposal";
+	break;
+
+
+	case ("WWS_Syltshuttle"):
+		CamFamily = "Autozug Sylt";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+	break;
+
+	case ("WWS_Syltshuttle_TST"):
+		CamFamily = "Autozug Sylt_TST";
+		GitHubCamFile = "Cams_Syltshuttle.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_TST';
+		hinweistext = "Testcase for Logo Proposal";
+	break;
+
+	case ("WWS_Surfcams_Bayern"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+	break;
+
+
+	case ("WWS_Surfcams_Bayern_WS"):
+		CamFamily = "Testcase Walchensee";
+		GitHubCamFile = "Surfcams_Bayern.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases_WALCHENSEE';
+		hinweistext = "";
+	break;
+
+
+	case ("WWS_CSML-Edition"):
+		CamFamily = "CSML Edition";
+		GitHubCamFile = "Cams_CSML-Edition.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+	break;
+
+
+	default:
+		CamFamily = "Test Script";
+		GitHubCamFile = "Cam_BBS.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
 	}
 
-	//
-	// check version and create Hinweistext, if needed
-
-		if (1*is_version != 1*to_be_version) {
-			hinweistext = "Update verfügbar!"
-		}
-
-
-	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext + "*" + param;
+	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext;
 	console.log("Im Modul..");
 	console.log("myFileParameters : " + myFileParameters);
 

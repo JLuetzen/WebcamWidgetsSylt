@@ -26,219 +26,158 @@
 // param 											--> Nummer des Eintrags in der CamListe
 //
 
-module.exports.assignParameters = async function(myFilename_is_version) {
-
-myFilename_Ver_Array = myFilename_is_version.split("*");
-myFilename = myFilename_Ver_Array[0];
-is_version = myFilename_Ver_Array[1];
-
-console.log("My Filename: " + myFilename);
-console.log("is_version: " + is_version);
-
-let to_be_version=21.7;
+module.exports.assignParameters = async function(myFilename) {
 
 switch (myFilename) {
 
 	// *****************************
-	// WWS_Syltcams
+	// Surfcams Bayern
 	// *****************************
 
 
-	case ("WWS_Sylt_Westerland_Promenade"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Brombachsee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "1"
+		param = "1";
 	break;
 
-
-	case ("WWS_Sylt_SurfcamSylt"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Brombachsee_Video"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "2"
+		param = "2";
 	break;
 
-	case ("WWS_Sylt_Hoernum"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Altmuehlsee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "3"
+		param = "3";
 	break;
 
-	case ("WWS_Sylt_Kampen_Quermarkenfeuer"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Chiemsee Uebersee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "4"
+		param = "4";
 	break;
 
-	case ("WWS_Sylt_Kampen Hotel Rungholt"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Chiemsee Uebersee Video"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "5"
+		param = "5";
 	break;
 
-	case ("WWS_Sylt_Rantum"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Chiemsee Prienavera"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "6"
+		param = "6";
 	break;
 
-	case ("WWS_Sylt_Sansibar"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Tegernsee Wallberg"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "7"
+		param = "7";
 	break;
 
-	case ("WWS_Sylt_Kampen_Golfclub_Sylt"):
-		CamFamily = "Sylt Cams";
-		GitHubCamFile = "Cams_Sylt.txt";
+	case ("WWS_BAY_Tegernsee Sonnenbichl"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "8"
+		param = "8";
 	break;
 
-// *****************************
-// WWS_Syltfaehre
-// *****************************
-
-	case ("WWS_Syltfaehre_Havneby"):
-		CamFamily = "FRS Syltfähre";
-		GitHubCamFile = "Cams_Syltfaehre.txt";
+	case ("WWS_BAY_Ammersee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "1"
+		param = "9";
 	break;
 
-	case ("WWS_Syltfaehre_List"):
-		CamFamily = "FRS Syltfähre";
-		GitHubCamFile = "Cams_Syltfaehre.txt";
+	case ("WWS_BAY_Walchensee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "2"
+		param = "10";
 	break;
 
-	case ("WWS_Syltfaehre_List-Zoom"):
-		CamFamily = "FRS Syltfähre";
-		GitHubCamFile = "Cams_Syltfaehre.txt";
+	case ("WWS_BAY_Kochelsee"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "3"
+		param = "11";
 	break;
 
-	// *****************************
-	// WWS_Syltshuttle
-	// *****************************
-
-	case ("WWS_Niebuell_1"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
+	case ("WWS_BAY_Starnbergersee Ammerland"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "1"
+		param = "12";
 	break;
 
-	case ("WWS_Niebuell_2"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
+	case ("WWS_BAY_Gardasee Malcesine"):
+		CamFamily = "Surfcams Bayern";
+		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
-		param = "2"
+		param = "13";
 	break;
 
-	case ("WWS_Niebuell_3"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "3"
-	break;
-
-	case ("WWS_Westerland_1"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "4"
-	break;
-
-	case ("WWS_Westerland_2"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "5"
-	break;
-
-	case ("WWS_Westerland_3"):
-		CamFamily = "Autozug Sylt";
-		GitHubCamFile = "Cams_Syltshuttle.txt";
-		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
-		GitHubErrorPic = 'Error_Parameter.png';
-		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "";
-		param = "6"
-	break;
 
 	// *****************************
 	// Default
@@ -246,7 +185,7 @@ switch (myFilename) {
 
 
 	default:
-		CamFamily = "Sylt Cams";
+		CamFamily = "ERROR";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
@@ -255,14 +194,6 @@ switch (myFilename) {
 		hinweistext = "Du hast da was vergessen";
 		param = "1"
 	}
-
-	//
-	// check version and create Hinweistext, if needed
-
-		if (1*is_version != 1*to_be_version) {
-			hinweistext = "Update verfügbar!"
-		}
-
 
 	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext + "*" + param;
 	console.log("Im Modul..");

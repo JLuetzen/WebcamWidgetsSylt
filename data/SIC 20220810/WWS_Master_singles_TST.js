@@ -17,10 +17,9 @@ let param = args.widgetParameter;
 if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
-	var ver = 21.7;
-
 	console.log("Parameter : " + param);
-	console.log("V " + ver);
+	console.log("V 21.7");
+	var ver = 21.7;
 //
 // Initialization der Variablen
 //
@@ -52,7 +51,7 @@ var singleparam = ""; // ist der Wert, der bei Einzelwidget aus der Parameters g
 // Diese beiden Konstanten sind die Minimalwerte zum Laden des Parameterfiles
 ///
 const GitHubDataPath = 'https://wwsylt.live/data';
-const GitHubParameterFile = "WWSmod_Parameters";
+const GitHubParameterFile = "WWSmod_Parameters_singles_TST";
 const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 
 //
@@ -88,8 +87,7 @@ const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 	console.log("My Name is: " + myName);
 
 	const loadparameterfile = importModule(GitHubParameterFile + todaydatestring + ".js");
-	var myName_ver = myName + "*" + ver;
-	let parameterdata = await loadparameterfile.assignParameters(myName_ver);
+	let parameterdata = await loadparameterfile.assignParameters(myName,ver);
 
 	console.log("Ausgang: LoadParameterFile: " + parameterdata);
 

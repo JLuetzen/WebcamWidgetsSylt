@@ -26,7 +26,16 @@
 // param 											--> Nummer des Eintrags in der CamListe
 //
 
-module.exports.assignParameters = async function(myFilename) {
+module.exports.assignParameters = async function(myFilename_is_version) {
+
+myFilename_Ver_Array = myFilename_is_version.split("*");
+myFilename = myFilename_Ver_Array[0];
+is_version = myFilename_Ver_Array[1];
+
+console.log("My Filename: " + myFilename);
+console.log("is_version: " + is_version);
+
+let to_be_version=21.7;
 
 switch (myFilename) {
 
@@ -194,6 +203,14 @@ switch (myFilename) {
 		hinweistext = "Du hast da was vergessen";
 		param = "1"
 	}
+
+	//
+	// check version and create Hinweistext, if needed
+
+		if (1*is_version != 1*to_be_version) {
+			hinweistext = "Update verfügbar!"
+		}
+
 
 	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext + "*" + param;
 	console.log("Im Modul..");

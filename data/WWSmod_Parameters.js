@@ -25,7 +25,16 @@
 // hinweistext								--> der Hinweistext erscheint links unter dem CamNamen
 //
 
-module.exports.assignParameters = async function(myFilename) {
+module.exports.assignParameters = async function(myFilename_is_version) {
+
+myFilename_Ver_Array = myFilename_is_version.split("*");
+myFilename = myFilename_Ver_Array[0];
+is_version = myFilename_Ver_Array[1];
+
+console.log("My Filename: " + myFilename);
+console.log("is_version: " + is_version);
+
+let to_be_version=21.7;
 
 switch (myFilename) {
 
@@ -134,6 +143,14 @@ switch (myFilename) {
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
 	}
+
+	//
+	// check version and create Hinweistext, if needed
+
+		if (1*is_version != 1*to_be_version) {
+			hinweistext = "Update verfügbar!"
+		}
+
 
 	myFileParameters = CamFamily + "*" + GitHubCamFile + "*" + sourceURL + "*" + GitHubLogoName + "*" + GitHubErrorPic + "*" + GitHubSpecialCaseFile + "*" + hinweistext;
 	console.log("Im Modul..");

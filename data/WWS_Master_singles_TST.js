@@ -17,13 +17,14 @@ let param = args.widgetParameter;
 if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
-	console.log("Parameter : " + param);
-	console.log("V 21.7");
 	var ver = 21.7;
+
+	console.log("Parameter : " + param);
+	console.log("V " + ver);
 //
 // Initialization der Variablen
 //
-var dataload_mode = "Standard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
+var dataload_mode = "nonStandard"; // d.h. 1x pro Tag. Jeder andere Wert als "Standard" führt zum Laden der Daten bei jeder Widget-Aktualisierung
 
 var campic; //number of cam being handed over to Widget
 var errParam;
@@ -87,7 +88,8 @@ const GitHubSunriseSunsetFile = "Mod_SunriseSunset";
 	console.log("My Name is: " + myName);
 
 	const loadparameterfile = importModule(GitHubParameterFile + todaydatestring + ".js");
-	let parameterdata = await loadparameterfile.assignParameters(myName,ver);
+	var myName_ver = myName + "*" + ver;
+	let parameterdata = await loadparameterfile.assignParameters(myName_ver);
 
 	console.log("Ausgang: LoadParameterFile: " + parameterdata);
 
