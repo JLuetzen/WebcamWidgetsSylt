@@ -44,7 +44,6 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [Lizenz](#Lizenz)
 
 
-Hier kommt das neueste Zeugs... (die alten Scripte stehen unten)
 
 -----
 <div id="EinsfuerAlles"></div><BR>
