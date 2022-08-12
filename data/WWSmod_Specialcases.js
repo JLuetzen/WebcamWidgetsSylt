@@ -265,6 +265,11 @@ switch ( camLocation ) {
 		console.log("Rantum gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
+	case ("Hörnum"):
+		customLogoName = "WWS_Logo_Hoernum.png";
+		console.log("Hörnum gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Sansibar"):
 		customLogoName = "WWS_Logo_Sansibar1.png";
 		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
