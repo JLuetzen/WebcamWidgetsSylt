@@ -437,6 +437,11 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ## News and Updates:
 ----------------------------------------------------
+### 14.08.2022: Livespotting Coast Version verfügbar
+Seit heute gibt es die aktuell 58 Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. <BR> 
+Die Cams stecken im Script "WWS_Livespotting_Coast".<BR>
+      
+----------------------------------------------------
 ### 10.08.2022: Neue Script-Version: Widget zeigt Update Hinweis
 Die Widgets sind so erweitert, dass bei Verfügbarkeit einer neuen Version im Widget ein Hinweis zum Updaten dargestellt wird.
 Dann müssen auf dem iPhone unter den Kurzbefehlen alle blauen Update-Kurzbefehle ausgeführt werden.
@@ -470,7 +475,8 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 Warum eine Nerd-Version?
   
 Weils so ursprünglich programmiert war:     
-Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.    
+Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.<BR> 
+So erspart man sich, pro Cam ein einzelnes Script auf dem iPhone zu haben. Wenn in der Liste der Cams viele Einträge sind, wird das schnell unübersichtlich. Daher die Version mit Parameter.
 
 <ins>Vorteil:</ins>     
 Man hat nur wenige Scripte auf dem iPhone.  
@@ -480,9 +486,9 @@ Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).
    
 Daher die "Singles"-Version oben, für jede Cam gibt es genau ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
 Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
-Beim Einrichten der Widgets auf dem Homescreen dann den Wert "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget)
+Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" nicht verändern und nur den Wert von "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget). 
 
-Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit.
+Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit. Da steht noch etwas anderes zu "When interacting", aber dieser Wert kann so stehen bleiben.
 
 <table class="center">
   <tr>
