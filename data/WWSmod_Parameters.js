@@ -135,7 +135,7 @@ switch (myFilename) {
 
 
 	case ("WWS_Livespotting_Coast"):
-		CamFamily = "Livespotting Coat Edition";
+		CamFamily = "Livespotting Coast Edition";
 		GitHubCamFile = "LiveSpotting_coast.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
