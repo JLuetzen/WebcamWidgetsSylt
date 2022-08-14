@@ -437,9 +437,9 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
       
 ## News and Updates:
 ----------------------------------------------------
-### 14.08.2022: Livespotting Coast Version verfügbar
-Seit heute gibt es die aktuell 58 Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. <BR> 
-Die Cams stecken im Script "WWS_Livespotting_Coast".<BR>
+### 14.08.2022: Livespotting Coast Cams Version verfügbar
+Seit heute gibt es die aktuell 58 Coast Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. Dadurch werden die Ur-Scripte der Nerd-Version aufs iPhone kopiert, auch das neue Script für die Livespotting Coast Cams.<BR> 
+Diese Coast-Cams stecken im Script "WWS_Livespotting_Coast". Viel Spaß damit!<BR>
       
 ----------------------------------------------------
 ### 10.08.2022: Neue Script-Version: Widget zeigt Update Hinweis
