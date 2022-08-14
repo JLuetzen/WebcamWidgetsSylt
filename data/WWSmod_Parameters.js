@@ -134,9 +134,20 @@ switch (myFilename) {
 	break;
 
 
+	case ("WWS_Livespotting_Coast"):
+		CamFamily = "CSML Edition";
+		GitHubCamFile = "Cams_CSML-Edition.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+	break;
+
+
 	default:
 		CamFamily = "Test Script";
-		GitHubCamFile = "Cam_BBS.txt";
+		GitHubCamFile = "LiveSpotting_coast.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';

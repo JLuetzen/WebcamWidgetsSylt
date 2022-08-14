@@ -23,6 +23,8 @@ var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltcams_TST.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltfaehre_TST.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltshuttle_TST.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Livespotting_Coast.js");
+
 
 
 Script.complete();
