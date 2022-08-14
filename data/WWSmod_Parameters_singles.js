@@ -35,7 +35,7 @@ is_version = myFilename_Ver_Array[1];
 console.log("My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
-let to_be_version=21.7;
+let to_be_version=21.8;
 
 switch (myFilename) {
 
