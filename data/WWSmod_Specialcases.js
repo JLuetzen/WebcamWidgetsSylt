@@ -271,7 +271,7 @@ switch ( camLocation ) {
 	break;
 
 	case ("Sansibar"):
-		customLogoName = "WWS_Logo_Sansibar1.png";
+		customLogoName = "WWS_Logo_Sansibar2.png";
 		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
