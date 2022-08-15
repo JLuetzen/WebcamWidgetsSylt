@@ -35,7 +35,7 @@ is_version = myFilename_Ver_Array[1];
 console.log("My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
-let to_be_version=21.8;
+let to_be_version=21.9;
 
 switch (myFilename) {
 
@@ -260,7 +260,7 @@ switch (myFilename) {
 	// check version and create Hinweistext, if needed
 
 		if (1*is_version != 1*to_be_version) {
-			hinweistext = "Update verfügbar!"
+			hinweistext = "Blauen Update-Kurzbefehl ausführen!"
 		}
 
 

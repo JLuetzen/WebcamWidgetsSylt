@@ -17,7 +17,7 @@ let param = args.widgetParameter;
 if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
-	var ver = 21.8;
+	var ver = 21.9;
 
 	console.log("Parameter : " + param);
 	console.log("V " + ver);
@@ -393,6 +393,7 @@ function createWidget(prv_img,prv_Loc,prv_Subt,prv_camURL,prv_logoImg,prv_source
 	CamFamilyText.font = Font.boldSystemFont(12);
 	CamFamilyText.textColor = Color.white();
 	CamFamilyText.shadowRadius = 3;
+	CamFamilyText.minimumScaleFactor = 0.5;
 	CamFamilyText.shadowColor = Color.black();
 
 	const titleText = descriptionStack.addText(prv_Loc);
