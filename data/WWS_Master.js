@@ -17,7 +17,7 @@ let param = args.widgetParameter;
 if ( param == null ){//
 //param = 1; //zum Testen direkt in Scriptable diese Zeile aktivieren...
 	}
-	var ver = 21.9;
+	var ver = 21.10;
 
 	console.log("Parameter : " + param);
 	console.log("V " + ver);
@@ -405,9 +405,10 @@ function createWidget(prv_img,prv_Loc,prv_Subt,prv_camURL,prv_logoImg,prv_source
 
 	if (prv_movietimestamp != "N"){
 		const movietimestampText = descriptionStack.addText(prv_movietimestamp);
+		movietimestampText.minimumScaleFactor = 0.5;
 		if (hinweistext != "") {
 			movietimestampText.font = Font.boldSystemFont(10);
-			movietimestampText.textColor = Color.white();
+			movietimestampText.textColor = Color.yellow();
 		} else {
 			movietimestampText.font = Font.systemFont(8);
 			movietimestampText.textColor = Color.white();
