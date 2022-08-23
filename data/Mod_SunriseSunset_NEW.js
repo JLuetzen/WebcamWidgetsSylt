@@ -39,22 +39,19 @@ console.log("Longitude: " + lon)
     let dir = fm.documentsDirectory()
 
 
-// get sunrise and sunset info from today ...
+
+  // get sunrise and sunset info from today ...
 //  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), webCam[0].lon, webCam[0].lat, startCivilTwilight, endCivilTwilight)
-//  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, startCivilTwilight, endCivilTwilight)
-  sun_rise_set((today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, sunrise, sunset);
-//  rise = rechne_zeit_um(startCivilTwilight.val - differenz_zur_UTC(today));
-  rise = rechne_zeit_um(sunrise - differenz_zur_UTC(today));
-//  console.log("WFG Rise: " + startCivilTwilight.val);
-  console.log("WFG Rise: " + sunrise);
+  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, startCivilTwilight, endCivilTwilight)
+  rise = rechne_zeit_um(startCivilTwilight.val - differenz_zur_UTC(today));
+  console.log("WFG Rise: " + startCivilTwilight.val);
 
 //	let riseDate = new Date(today.getFullYear(), today.getMonth(), today.getDate(), rise.h, rise.m, rise.s)
   let riseDate = ("0" + rise.h).substr(-2) + ":" + ("0" + rise.m).substr(-2);
 
 console.log("WFG Sunrise: " + riseDate);
 
-//  sunset = rechne_zeit_um(endCivilTwilight.val - differenz_zur_UTC(today));
-  sunset = rechne_zeit_um(sunset - differenz_zur_UTC(today));
+  sunset = rechne_zeit_um(endCivilTwilight.val - differenz_zur_UTC(today));
 //  let sunsetDate = new Date(new Date(today.getFullYear(), today.getMonth(), today.getDate(), sunset.h, sunset.m, sunset.s))
   let sunsetDate = ("0" + sunset.h).substr(-2) + ":" + ("0" + sunset.m).substr(-2);
 
@@ -223,7 +220,8 @@ function sun_rise_set(year, month, day, lon, lat, rise, set) {
 /* the horizon.                                                         */
 function civil_twilight(year, month, day, lon, lat, start, end) {
   console.log("In Civil Twilight");
-	return __sunriset__(year, month, day, lon, lat, -6.0, 0, start, end);
+//	return __sunriset__(year, month, day, lon, lat, -6.0, 0, start, end);
+	return __sunriset__(year, month, day, lon, lat, 0, 0, start, end);
 };
 
 /* This macro computes the start and end times of nautical twilight.    */
