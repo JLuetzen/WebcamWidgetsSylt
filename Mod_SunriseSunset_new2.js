@@ -1,7 +1,7 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: purple; icon-glyph: magic;
-
+/*
 module.exports.calculateSunriseSunset = async function(latlon) {
 
 console.log("16. im Module Sunrise / Sunset")
@@ -10,12 +10,14 @@ console.log("angekommen latlon: " +latlon);
 let mylatlonArray = latlon.split("*");
   lat = 1 * mylatlonArray[0];
   lon = 1 * mylatlonArray[1];
-
-/*
-  lat = 48.219;
-  lon = 12.134;
 */
 
+/* Bardolino */
+  lat = 45.55714;
+  lon = 10.72398;
+//*/
+
+console.log("Versuch 4")
 console.log("Lattitude: " + lat)
 console.log("Longitude: " + lon)
 
@@ -25,6 +27,10 @@ console.log("Longitude: " + lon)
     yesterday.setTime(today.getTime() - 24*60*60*1000)
     var startCivilTwilight = {val: "no"};
     var endCivilTwilight   = {val: "no"};
+
+    var sunrisetime = {val: "no"};
+    var sunsettime = {val: "no"};
+
     var rise   = new Object();
     var riseYesterday = new Object();
 	  var sunset = new Object();
@@ -42,23 +48,40 @@ console.log("Longitude: " + lon)
 
   // get sunrise and sunset info from today ...
 //  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), webCam[0].lon, webCam[0].lat, startCivilTwilight, endCivilTwilight)
-  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, startCivilTwilight, endCivilTwilight)
+/*  civil_twilight(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, startCivilTwilight, endCivilTwilight)
   rise = rechne_zeit_um(startCivilTwilight.val - differenz_zur_UTC(today));
   console.log("WFG Rise: " + startCivilTwilight.val);
+*/
+
+  sun_rise_set(today.getFullYear(), today.getMonth()+1, today.getDate(), lon, lat, sunrisetime, sunsettime);
+  rise = rechne_zeit_um(sunrisetime.val - differenz_zur_UTC(today));
+  console.log("WFG Rise: " + sunsettime.val);
+
+
+
 
 //	let riseDate = new Date(today.getFullYear(), today.getMonth(), today.getDate(), rise.h, rise.m, rise.s)
   let riseDate = ("0" + rise.h).substr(-2) + ":" + ("0" + rise.m).substr(-2);
 
 console.log("WFG Sunrise: " + riseDate);
-
+/*
   sunset = rechne_zeit_um(endCivilTwilight.val - differenz_zur_UTC(today));
 //  let sunsetDate = new Date(new Date(today.getFullYear(), today.getMonth(), today.getDate(), sunset.h, sunset.m, sunset.s))
   let sunsetDate = ("0" + sunset.h).substr(-2) + ":" + ("0" + sunset.m).substr(-2);
 
 console.log("WFG Sunset: " + sunsetDate);
+*/
 
+sunset = rechne_zeit_um(sunsettime.val - differenz_zur_UTC(today));
+//  let sunsetDate = new Date(new Date(today.getFullYear(), today.getMonth(), today.getDate(), sunset.h, sunset.m, sunset.s))
+let sunsetDate = ("0" + sunset.h).substr(-2) + ":" + ("0" + sunset.m).substr(-2);
+
+console.log("WFG Sunset: " + sunsetDate);
+
+//sunsetDate = "00:00";
 Sunrise_Sunset = riseDate + "*" + sunsetDate;
 console.log("Sunrise_Sunset : " + Sunrise_Sunset);
+
 
 return(Sunrise_Sunset);
 
@@ -220,8 +243,7 @@ function sun_rise_set(year, month, day, lon, lat, rise, set) {
 /* the horizon.                                                         */
 function civil_twilight(year, month, day, lon, lat, start, end) {
   console.log("In Civil Twilight");
-//	return __sunriset__(year, month, day, lon, lat, -6.0, 0, start, end);
-	return __sunriset__(year, month, day, lon, lat, 0, 0, start, end);
+	return __sunriset__(year, month, day, lon, lat, -6.0, 0, start, end);
 };
 
 /* This macro computes the start and end times of nautical twilight.    */
@@ -971,6 +993,6 @@ function zweistellig(wert) {
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-}
+// musste weg zum lokalen testen }
 
 // EOF
