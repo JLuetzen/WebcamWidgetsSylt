@@ -77,7 +77,7 @@ Hier folgt die Schritt-für-Schritt Anleitung am Beispiel der Sylt-Cams. Weiter 
 
 **1. Scriptable installieren**
 
-Im App Store die App [Scriptable ](https://apps.apple.com/de/app/scriptable/id1405459188) auf dem iPhone installieren
+Im App Store die App [Scriptable](https://apps.apple.com/de/app/scriptable/id1405459188) auf dem iPhone installieren
 
 -----
 
@@ -390,66 +390,66 @@ Diese Webcams sind eingebunden:
 
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
-In Zusammenarbeit mit https://www.livespotting.com sind diese Webcams der Kategorie "Coast" eingebunden:
+In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams der Kategorie "Coast" eingebunden:
     
-    1: Live aus dem Seebad Warnemünde am Alten Strom
-    2: Live-Streaming im Fischereihafen Neuharlingersiel
-    3: Webcam im Hafen von Neuharlingersiel
-    4: Webcam vom UNSECO-Welterbe Wattenmeer in Friedrichskoog
-    5: Live vom Nordsee-Strand in Neuharlingersiel
-    6: Webcam auf der Halbinsel Holnis bei Glücksburg
-    7: Webcam aus der Marina Kröslin im Baltic Sea Resort
-    8: Webcam am Sandstrand auf der Nordseeinsel Wangerooge
-    9: Webcam in Büsum an der Familienlagune Perlebucht
-    10: Webcam aus Scharbeutz, Seebrücke an der Lübecker Bucht
-    11: Live-Streaming von Helgoland mit Düne und Hafen
-    12: Live vom endlosen feinen Sandstrand in Rantum auf SYLT
-    13: Live von der höchsten Webcam mit Blick über Borkum
-    14: Rügen, Wiek
-    15: Webcam im Seehafen Kiel mit Kreuzfahrtterminal
-    16: Live über den Dächern von Kühlungsborn mit Strand und Ostsee
-    17: Webcam am Nord-Ostsee Kanal an der Schleuse Brunsbüttel
-    18: Webcam am Nord-Ostsee-Kanal NOK Schleuse Kieler Förde
-    19: Webcam am Sandstrand in Eckernförde an der Ostsee
-    20: Live aus den Dünen von Kampen vom Quermarkenfeuer
-    21: Webcam am Bodensee mit dem einzigen Leuchtturm Bayerns
-    22: Webcam auf der ostfriesischen Inseln Juist in der Nordsee
-    23: Live aus Hörnum auf SYLT mit Sicht bis zur Insel Föhr
-    24: Höchste Webcam von St. Peter-Ording mit Küstenpanorama
-    25: Live aus dem Stadthafen von Sassnitz auf Rügen
-    26: Live vom Seebrückenvorplatz in Scharbeutz an der Ostsee
-    27: Webcam mit Ostsee und Strand aus der Lübecker Bucht 
-    28: Webcam an der Ostsee am Strand von Scharbeutz
-    29: Live vom Weltnaturerbe Wattenmeer und dem Jadebusen
-    30: Live vom Fähranleger und Hafen in Norddeich Mole
-    31: Webcam vom Bodensee aus dem Luftkurort Nonnenhorn
-    32: Livecam im Norderneyer Hafen mit Blick auf die Nordsee
-    33: Live in Norddeich mit Drachenwiese und Wassersport
-    34: Webcam am Sandstrand von Norddeich mit Strandfeeling
-    35: Webcam mit Strand und Ostsee im Bootshafen Kühlungsborn
-    36: Webcam mit Hafen, Nordsee und dem Strand von Bensersiel
-    37: Webcam vom Sandstrand an der Sansibar auf SYLT
-    38: Webcam aus Stralsund mit Segelschulschiff Gorch Fock
-    39: Webcam vom breitesten Sandstrand der deutschen Ostsee
-    40: Live am Wattenmeer der Nordsee an der Meldorfer Bucht
-    41: Live vom Königsstuhl der Kreidefelsformation auf Rügen
-    42: Live am Sandstrand mit Seebrücke von Graal-Müritz
-    43: Webcam Baustelle Dünenlandschaft
-    44: Live vom Sandstrand an der Ostsee in Markgrafenheide
-    45: Webcam im Hafen von Barth mit Bodden und Ostsee
-    46: Webcam aus Haffkrug mit Blick auf Ostsee und Seebrücke
-    47: Webcam in der Kieler Förde am Leuchtturm Friedrichsort
-    48: Webcam in Laboe mit Blick auf Schilksee und die Ostsee
-    49: Webcam am Strand und dem Wohnmobilstellplatz in Harlesiel
-    50: Webcam vom Hotel Stranddistel auf Norderney
-    51: Webcam am ATLANTIC Hotel in Wilhelmshaven
-    52: Webcam aus Sipplingen am Bodensee
-    53: Residenz Strandhotel in Warnemünde
-    54: Webcam am Museumshafen in Carolinensiel
-    55: Webcam mit Promenade und Strand in Westerland auf SYLT 
-    56: Webcam von der Seebrücke in Heiligenhafen
-    57: Webcam mit Strand und Seebrücke in Heiligenhafen
-    58: Webcam mit Blick auf die Seebrücke Seelin
+  1: Live aus dem Seebad Warnemünde am Alten Strom
+  2: Live-Streaming im Fischereihafen Neuharlingersiel
+  3: Webcam im Hafen von Neuharlingersiel
+  4: Webcam vom UNSECO-Welterbe Wattenmeer in Friedrichskoog
+  5: Live vom Nordsee-Strand in Neuharlingersiel
+  6: Webcam auf der Halbinsel Holnis bei Glücksburg
+  7: Webcam aus der Marina Kröslin im Baltic Sea Resort
+  8: Webcam am Sandstrand auf der Nordseeinsel Wangerooge
+  9: Webcam in Büsum an der Familienlagune Perlebucht
+  10: Webcam aus Scharbeutz, Seebrücke an der Lübecker Bucht
+  11: Live-Streaming von Helgoland mit Düne und Hafen
+  12: Live vom endlosen feinen Sandstrand in Rantum auf SYLT
+  13: Live von der höchsten Webcam mit Blick über Borkum
+  14: Rügen, Wiek
+  15: Webcam im Seehafen Kiel mit Kreuzfahrtterminal
+  16: Live über den Dächern von Kühlungsborn mit Strand und Ostsee
+  17: Webcam am Nord-Ostsee Kanal an der Schleuse Brunsbüttel
+  18: Webcam am Nord-Ostsee-Kanal NOK Schleuse Kieler Förde
+  19: Webcam am Sandstrand in Eckernförde an der Ostsee
+  20: Live aus den Dünen von Kampen vom Quermarkenfeuer
+  21: Webcam am Bodensee mit dem einzigen Leuchtturm Bayerns
+  22: Webcam auf der ostfriesischen Inseln Juist in der Nordsee
+  23: Live aus Hörnum auf SYLT mit Sicht bis zur Insel Föhr
+  24: Höchste Webcam von St. Peter-Ording mit Küstenpanorama
+  25: Live aus dem Stadthafen von Sassnitz auf Rügen
+  26: Live vom Seebrückenvorplatz in Scharbeutz an der Ostsee
+  27: Webcam mit Ostsee und Strand aus der Lübecker Bucht 
+  28: Webcam an der Ostsee am Strand von Scharbeutz
+  29: Live vom Weltnaturerbe Wattenmeer und dem Jadebusen
+  30: Live vom Fähranleger und Hafen in Norddeich Mole
+  31: Webcam vom Bodensee aus dem Luftkurort Nonnenhorn
+  32: Livecam im Norderneyer Hafen mit Blick auf die Nordsee
+  33: Live in Norddeich mit Drachenwiese und Wassersport
+  34: Webcam am Sandstrand von Norddeich mit Strandfeeling
+  35: Webcam mit Strand und Ostsee im Bootshafen Kühlungsborn
+  36: Webcam mit Hafen, Nordsee und dem Strand von Bensersiel
+  37: Webcam vom Sandstrand an der Sansibar auf SYLT
+  38: Webcam aus Stralsund mit Segelschulschiff Gorch Fock
+  39: Webcam vom breitesten Sandstrand der deutschen Ostsee
+  40: Live am Wattenmeer der Nordsee an der Meldorfer Bucht
+  41: Live vom Königsstuhl der Kreidefelsformation auf Rügen
+  42: Live am Sandstrand mit Seebrücke von Graal-Müritz
+  43: Webcam Baustelle Dünenlandschaft
+  44: Live vom Sandstrand an der Ostsee in Markgrafenheide
+  45: Webcam im Hafen von Barth mit Bodden und Ostsee
+  46: Webcam aus Haffkrug mit Blick auf Ostsee und Seebrücke
+  47: Webcam in der Kieler Förde am Leuchtturm Friedrichsort
+  48: Webcam in Laboe mit Blick auf Schilksee und die Ostsee
+  49: Webcam am Strand und dem Wohnmobilstellplatz in Harlesiel
+  50: Webcam vom Hotel Stranddistel auf Norderney
+  51: Webcam am ATLANTIC Hotel in Wilhelmshaven
+  52: Webcam aus Sipplingen am Bodensee
+  53: Residenz Strandhotel in Warnemünde
+  54: Webcam am Museumshafen in Carolinensiel
+  55: Webcam mit Promenade und Strand in Westerland auf SYLT 
+  56: Webcam von der Seebrücke in Heiligenhafen
+  57: Webcam mit Strand und Seebrücke in Heiligenhafen
+  58: Webcam mit Blick auf die Seebrücke Seelin
 
       
       
