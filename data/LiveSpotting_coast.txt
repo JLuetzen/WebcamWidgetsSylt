@@ -1,30 +1,33 @@
 Ferienresidenz am Strom;https://www.ferienresidenz-am-strom.de/;54.17793;12.08735;https://cdn.livespotting.com/vpu/oq57fxnt/mciwlhsf.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_35e49
 Kurverein Neuharlingersiel e.V.;https://www.neuharlingersiel.de;53.699474;7.703794;https://cdn.livespotting.com/vpu/ialdzk0q/92q9gnt6.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_44eee
 Kurverein Neuharlingersiel e.V.;https://www.neuharlingersiel.de;53.70005;7.70277;https://cdn.livespotting.com/vpu/ialdzk0q/dvq95dxh.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_a81f3
+Amt Marne-Nordsee;https://www.friedrichskoog.de;54.030067;8.838595;https://cdn.livespotting.com/vpu/qie3q9fo/1u6y1f0z.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_c4044
 Kurverein Neuharlingersiel e.V.;https://www.neuharlingersiel.de;53.70047;7.704408;https://cdn.livespotting.com/vpu/ialdzk0q/ahvwem2t.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_35351
 Førdekiter e.V.;http://www.foerdekiter.de;54.86688;9.59888;https://cdn.livespotting.com/vpu/rgm8xgbp/f8x7g8wx.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_dfdcb
-Amt Marne-Nordsee;https://www.friedrichskoog.de;54.030067;8.838595;https://cdn.livespotting.com/vpu/qie3q9fo/1u6y1f0z.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_c4044
 Marina Kröslin GmbH  ;https://www.baltic-sea-resort.com/marina/;54.1215437;13.7526659;https://cdn.livespotting.com/vpu/xv8t34tm/8mr08amr.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_eef9d
 Kurverwaltung Wangerooge;https://www.wangerooge.de/;53.793803;7.894582;https://cdn.livespotting.com/vpu/g6106xv4/hbh26r3r.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_4fd08
 Tourismus Marketing Service Büsum GmbH;http://www.buesum.de;54.138177457305;8.8388228416443;https://cdn.livespotting.com/vpu/tw0xvqm0/bc49630p.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_9a44c
 Tourismus-Agentur Lübecker Bucht;http://www.luebecker-bucht-ostsee.de;54.028008;10.756882;https://cdn.livespotting.com/vpu/y2irrmnv/u8lepbke.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_8c006
 Helgoland Tourismus-Service;https://www.helgoland.de/;54.182139;7.887493;https://cdn.livespotting.com/vpu/3j4s8fqc/dlwkigk3.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_c2586
-Nordseeheilbad Borkum GmbH;https://www.borkum.de/;53.58876;6.662137;https://cdn.livespotting.com/vpu/yoobmx27/2u3imco2.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_cb2dd
 Insel Sylt Tourismus-Service GmbH;http://www.insel-sylt.de;54.84802;8.286947;https://cdn.livespotting.com/vpu/4b7r3v86/3phv8zc6.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_8ae47
+Nordseeheilbad Borkum GmbH;https://www.borkum.de/;53.58876;6.662137;https://cdn.livespotting.com/vpu/yoobmx27/2u3imco2.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_cb2dd
 Wieker Hotel & Gastronomie GmbH & Co.KG;http://www.hafendorf-wiek.de;54.622600782015;13.284187316895;https://cdn.livespotting.com/vpu/zqqmmlcf/xf8ypbfa.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_51314
 Kiel-Marketing e.V.;https://kiel-sailing-city.de;54.316808769876;10.147204399109;https://cdn.livespotting.com/vpu/nmmdzt5u/ezzbo7ux.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_026bf
 Touristik Service Kühlungsborn GmbH;https://www.kuehlungsborn.de;54.152704167017;11.74777507782;https://cdn.livespotting.com/vpu/brgr3u26/519srew5.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_e6934
-UCA United Canal Agency GmbH;http://www.kiel-canal.de;54.365105920714;10.142612457275;https://cdn.livespotting.com/vpu/sttko2er/f1q161no.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_6862f
 UCA United Canal Agency GmbH;http://www.kiel-canal.de;53.892906333732;9.145131111145;https://cdn.livespotting.com/vpu/sttko2er/proylddb.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_0aae8
+UCA United Canal Agency GmbH;http://www.kiel-canal.de;54.365105920714;10.142612457275;https://cdn.livespotting.com/vpu/sttko2er/f1q161no.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_6862f
 Eckernförde Touristik & Marketing GmbH;http://www.ostseebad-eckernfoerde.de;54.4736219006;9.8390427231789;https://cdn.livespotting.com/vpu/fbwo6fqy/remzxs6s.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_4a447
 Tourismus-Service Kampen;http://www.kampen.de;54.955315961245;8.3425498008728;https://cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_8fbab
 Lindau Tourismus und Kongress GmbH;http://www.lindau-tourismus.de;47.54361723365489;9.681067093083895;https://cdn.livespotting.com/vpu/hmepsu74/6j7t62rc.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_66975
 Inselgmeinde Juist;https://www.juist.de/;53.67843;6.99547;https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_1b5bd
-leuchtfeuer ferienunterkünfte;https://www.sanktpeter-ording.de/;54.310564;8.619585;https://cdn.livespotting.com/vpu/b43p0ebl/324j8hxo.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_10bae
 Tourismus-Service Hörnum;http://www.hoernum.de;54.7538948995;8.2920169830322;https://cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_94cc4
+leuchtfeuer ferienunterkünfte;https://www.sanktpeter-ording.de/;54.310564;8.619585;https://cdn.livespotting.com/vpu/b43p0ebl/324j8hxo.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_10bae
 Rügen Fisch AG;http://www.ruegenfisch.de/;54.5107225;13.629097;https://cdn.livespotting.com/vpu/o5wgrlg8/65is5kui.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_LWl0h
-Kurverwaltung Nordseebad Dangast;https://www.dangast.de;53.450691;8.120924;https://cdn.livespotting.com/vpu/ruzhjc51/1v82v5h3.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_dnuvw
 Ferienwohnung Meersehen;https://www.ostseeferienwohnung-scharbeutz.de;54.0224961;10.7544158;https://cdn.livespotting.com/vpu/azcqykit/qovrg03j.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_uxrj9
+CAPOLINO;https://www.capolino.de;54.0293231;10.752876;https://cdn.livespotting.com/vpu/qosnn7zz/mjpzkih7.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_j9yxv
+Holm Immobilien;https://www.holm-immobilien.de;54.0274986;10.7543225;https://cdn.livespotting.com/vpu/3tdus7wu/9paq1se4.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_wfuf3
+Kurverwaltung Nordseebad Dangast;https://www.dangast.de;53.450691;8.120924;https://cdn.livespotting.com/vpu/ruzhjc51/1v82v5h3.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_dnuvw
+Tourismus-Service Norden-Norddeich;https://www.norddeich.de;53.621989;7.159059;https://cdn.livespotting.com/vpu/8h9zgq58/pyb3snyw.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=pyb3snyw
 Nonnenhorner Segelverein e.V.;https://segeln-nhsv.de/;47.575018;9.606907;https://cdn.livespotting.com/vpu/vignjhn1/r6dzr0zt.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=r6dzr0zt
 AG Reederei Norden-Frisia;https://www.reederei-frisia.de/;53.69797843968384;7.164579914642108;https://cdn.livespotting.com/vpu/unbebi63/vd4z3mnn.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=vd4z3mnn
 Tourismus-Service Norden-Norddeich;https://www.norddeich.de;53.617546;7.151905;https://cdn.livespotting.com/vpu/8h9zgq58/ct93uvhk.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_FqNUN
@@ -34,15 +37,15 @@ Esens-Bensersiel Tourismus GmbH;https://www.bensersiel.de;53.676477;7.570389;htt
 Sylt, Sansibar;https://sansibar.de;54.814434;8.284323;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=o3tazsiz
 SWS Stadtwerke Stralsund GmbH;https://www.stadtwerke-stralsund.de;54.316252;13.097298;https://cdn.livespotting.com/vpu/tcnhc5fw/3nis26zn.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=3nis26zn
 Hotel Hübner GmbH;https://www.hotel-huebner.de/;54.180276;12.08285;https://cdn.livespotting.com/vpu/2g1v2qai/x0etac6e.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=x0etac6e
-CAPOLINO;https://www.capolino.de;54.0293231;10.752876;https://cdn.livespotting.com/vpu/qosnn7zz/mjpzkih7.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_j9yxv
-Nationalpark-Zentrum KÖNIGSSTUHL;https://www.koenigsstuhl.com/;54.57304675206572;13.66000584;https://cdn.livespotting.com/vpu/6s4tsv0s/1bue65pk.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=1bue65pk
-Tourismus-Service Norden-Norddeich;https://www.norddeich.de;53.621989;7.159059;https://cdn.livespotting.com/vpu/8h9zgq58/pyb3snyw.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=pyb3snyw
-Holm Immobilien;https://www.holm-immobilien.de;54.0274986;10.7543225;https://cdn.livespotting.com/vpu/3tdus7wu/9paq1se4.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_wfuf3
 Gemeinde Büsumer Deichhausen;http://buesumer-deichhausen.de/;54.133776;8.892367;https://cdn.livespotting.com/vpu/9dvhd3wf/aetm7sg6.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=aetm7sg6
+Nationalpark-Zentrum KÖNIGSSTUHL;https://www.koenigsstuhl.com/;54.57304675206572;13.66000584;https://cdn.livespotting.com/vpu/6s4tsv0s/1bue65pk.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=1bue65pk
 Tourismus- und Kur GmbH Graal-Müritz;https://www.graal-mueritz.de/;54.258857;12.241048;https://cdn.livespotting.com/vpu/vbo8wthh/3ek1mj46.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=3ek1mj46
+Tourismus-Service Norden-Norddeich;https://www.norddeich.de;53.61738;7.151653;https://cdn.livespotting.com/vpu/8h9zgq58/t1yktgm5.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=t1yktgm5
+StrandResort Markgrafenheide Betriebsgesellschaft mbH;https://www.strandresort-ostsee.de;54.203592;12.152631;https://cdn.livespotting.com/vpu/r40g1a4o/i96ff7e1.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=i96ff7e1
 Stadt Barth;https://www.stadt-barth.de;54.371236;12.728734;https://cdn.livespotting.com/vpu/tchyk5bd/wvzw07rb.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=wvzw07rb
 Tourismus-Agentur Lübecker Bucht;http://www.luebecker-bucht-ostsee.de;54.051639183195;10.752096176147;https://cdn.livespotting.com/vpu/y2irrmnv/mvqnoovw.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=mvqnoovw
-Owner unbekannt;Website unbekannt;54.399975;10.210822;https://cdn.livespotting.com/vpu/vjy83fee/z3yqkp40.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=z3yqkp40
+ Landeshauptstadt Kiel;https://kiel.de;54.39049747074375;10.187778347435577;https://cdn.livespotting.com/vpu/vjy83fee/vgiy5566.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=vgiy5566
+Webcam in Laboe mit Blick auf Schilksee und die Ostsee;keine Website;54.399975;10.210822;https://cdn.livespotting.com/vpu/vjy83fee/z3yqkp40.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=z3yqkp40
 Nordseebad Carolinensiel-Harlesiel GmbH;https://www.carolinensiel.de;53.70928531759583;7.808849373514661;https://cdn.livespotting.com/vpu/4br14zyk/b96keym9.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=b96keym9
 Hotel Stranddiestel;https://www.hotel-stranddistel.de/;53.705911078617625;7.140019171073655;https://cdn.livespotting.com/vpu/unbebi63/9q7kps45.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=9q7kps45
 Wilhelmshaven Touristik & Freizeit GmbH;https://www.wilhelmshaven-touristik.de/;53.51178921865665;8.1155167323325;https://cdn.livespotting.com/vpu/bdq34tj2/h2lqrt85.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=h2lqrt85
@@ -50,9 +53,6 @@ Gemeinde Sipplingen;https://www.sipplingen.de;47.79469558058448;9.097984021;http
 Baltic Hideaways Warnemuende GmbH;baltic-seaside-properties.de;54.18043526203782;12.084086942796707;https://cdn.livespotting.com/vpu/ukmul3xl/vubehfid.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=vubehfid
 Nordseebad Carolinensiel-Harlesiel GmbH;https://www.carolinensiel.de;53.69149;7.80277;https://cdn.livespotting.com/vpu/4br14zyk/g25n89pk.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=g25n89pk
 Insel Sylt Tourismus-Service GmbH;http://www.insel-sylt.de;54.90927429561;8.2991302013397;https://cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_3f855
-Owner unbekannt;Website unbekannt;54.38307532147334;10.97912683005089;https://cdn.livespotting.com/vpu/t3dylco6/nm41s7ks.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=nm41s7ks
-Owner unbekannt;Website unbekannt;54.380169106487216;10.978213588836613;https://cdn.livespotting.com/vpu/t3dylco6/ihl42lia.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=ihl42lia
-Owner unbekannt;Website unbekannt;54.381625307546834;13.700083256176544;https://cdn.livespotting.com/vpu/9lq3iun1/3ubm6t46.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=3ubm6t46
- Landeshauptstadt Kiel;https://kiel.de;54.39049747074375;10.187778347435577;https://cdn.livespotting.com/vpu/vjy83fee/vgiy5566.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=vgiy5566
-Tourismus-Service Norden-Norddeich;https://www.norddeich.de;53.61738;7.151653;https://cdn.livespotting.com/vpu/8h9zgq58/t1yktgm5.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=t1yktgm5
-StrandResort Markgrafenheide Betriebsgesellschaft mbH;https://www.strandresort-ostsee.de;54.203592;12.152631;https://cdn.livespotting.com/vpu/r40g1a4o/i96ff7e1.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=i96ff7e1
+Webcam von der Seebrücke in Heiligenhafen;keine Website;54.38307532147334;10.97912683005089;https://cdn.livespotting.com/vpu/t3dylco6/nm41s7ks.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=nm41s7ks
+Webcam mit Strand und Seebrücke in Heiligenhafen;keine Website;54.380169106487216;10.978213588836613;https://cdn.livespotting.com/vpu/t3dylco6/ihl42lia.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=ihl42lia
+Webcam mit Blick auf die Seebrücke Seelin;keine Website;54.381625307546834;13.700083256176544;https://cdn.livespotting.com/vpu/9lq3iun1/3ubm6t46.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=3ubm6t46
