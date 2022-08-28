@@ -390,7 +390,7 @@ Diese Webcams sind eingebunden:
 
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
-In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams der Kategorie "Coast" eingebunden:
+In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams von [https://livespotting.tv](https://livespotting.tv) der Kategorie "Coast" eingebunden:
     
       1: Live aus dem Seebad Warnemünde am Alten Strom
       2: Live-Streaming im Fischereihafen Neuharlingersiel
