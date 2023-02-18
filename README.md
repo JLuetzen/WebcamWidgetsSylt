@@ -17,7 +17,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>10.08.2022: Widget weist auf neue Versionen hin (s. News). Dann auf dem iPhone alle blauen Update-Kurzbefehle aufrufen. 1. Update: eigene Berechnung der Sonnenaufgangs- und Untergangszeiten</marquee><BR>
+<marquee>18.02.2023: "Instant Ansicht" erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
 
 
 ## Einleitung
@@ -36,6 +36,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
+* [Instant Ansicht](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -242,12 +243,16 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="Instant Ansicht"></div><BR>
+<div id="InstantView"></div><BR>
 
 ## Instant Ansicht
 <br>
+Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
+<br><br>
+* [SyltCams](https://wwsylt.live/myHTML/SyltCams.html)
 
-SyltCams
+[Zurück zum Seitenanfang](#Top)
+      
 
 ------------------------------------------------
 -----
