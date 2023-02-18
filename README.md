@@ -18,8 +18,8 @@
 # Webcam Widgets Sylt -  live auf dem iPhone
 
 <marquee>10.08.2022: Widget weist auf neue Versionen hin (s. News). Dann auf dem iPhone alle blauen Update-Kurzbefehle aufrufen. 1. Update: eigene Berechnung der Sonnenaufgangs- und Untergangszeiten</marquee><BR>
-  
-  
+
+
 ## Einleitung
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
@@ -32,7 +32,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 -----
 <div id="Inhalt"></div><BR>
-  
+
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
@@ -47,7 +47,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 -----
 <div id="EinsfuerAlles"></div><BR>
-  
+
 ## Eins für Alles - das Script der 2. Generation
 Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
 
@@ -56,7 +56,7 @@ Die Vorteile dieser neuen Version sind
 * Automatische Updates
 * Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
-* erleichterte Erweiterung um neue WebCams ohne Neu-Installation 
+* erleichterte Erweiterung um neue WebCams ohne Neu-Installation
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
@@ -65,7 +65,7 @@ Die Vorteile dieser neuen Version sind
 ----------------------------------------------------
 
 **Der Ablauf in in 3 Schritten:**
-  1. Scriptable installieren 
+  1. Scriptable installieren
   2. Update-Kurzbefehl laden und ausführen
   3. Widgets einrichten    
       3.1 Einrichten als Kurzbefehl-Menue (Webcam-Bild ansehen)     
@@ -83,7 +83,7 @@ Im App Store die App [Scriptable](https://apps.apple.com/de/app/scriptable/id140
 
 **2. Update-Kurzbefehl laden und ausführen**
 
-**Einfach das Bild unten antippen** und den Kurzbefehl installieren. 
+**Einfach das Bild unten antippen** und den Kurzbefehl installieren.
 Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dieser Updater kopiert alles Notwendige auf das iPhone. Einfach und unkompliziert. Und das funktioniert auch, wenn neue Widgets verfügbar sind. Wenn sich bei den Cams etwas ändert, aktualisiert sich das Widget automatisch über Nacht.
 
 <table class="center">
@@ -97,9 +97,9 @@ Der Kurzbefehl kopiert das Update-Scrpit auf das iPhone, danach startet es. Dies
 **3. Widgets einrichten**
 
 #### 3.1 Einrichten als Kurzbefehl-Menue (Webcam-Bild ansehen)
-    
+
 Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht sich die Webcam aus, deren aktuelles Bild gezeigt werden soll. Bei dieser Variante funktioniert der Livestream leider nicht. Der funktioniert nur, wenn die Widgets auf dem Homescreen eingerichtet werden, wie unter 3.2  beschrieben. Man kann auf diese Weise aber sehr schnell eben mal auf der WebCam vorbei schauen.
-  
+
 
   <table class="center" width="600">
   <tr>
@@ -132,8 +132,8 @@ Man kann Kurzbefehle auf den Homescreen legen.
 -----
 
 #### 3.2 Einrichten auf dem Homescreen (Webcam-Bild ansehen & Livestream starten)  
-  
-Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt. 
+
+Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang. Das Widget liegt dann auf dem Homescreen und der Livestream startet nach Antippen des Bildes. Mehrere Widgets können zu einem SmartStack gestapelt werden und diese Stapel sind scrollbar, wie in dem YouTube Video dargestellt.
 Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher.    
 So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.   
 
@@ -147,15 +147,15 @@ Diese wenigen Schritte sind heute auszuführen:
   3. Neues Widget antippen führt zu den Einstellungen
   5. Unter <b>Script</b> das neue Script auswählen, zB <i>WWS_Sylt_SurfcamSylt</i>
   6. Das war's. Jetzt oben rechts auf <b>Fertig</b> oder den HomeScreen tippen, um die Einstellung abzuschliessen.
-  
+
  Um den Livestream zu starten, einfach das Bild auf dem Homescreen antippen.
-  
+
  <ins>Stapeln der Bilder:</ins>
-  
+
 Wenn die Icons wackeln, ein Bild auf das andere ziehen, um einen Smart Stapel zu erzeugen, mit dem man durch die Cams mit dem Daumen durchscrollen kann. Das ist ein Smart Stack. bis zu 10 Bilder können so gestapelt werden.
 
-  
-  
+
+
 Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 <table class="center">
   <tr>
@@ -168,11 +168,11 @@ Das Ergebnis kann sich sehen lassen (Tap oder Click zum Vergrößern):
 Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 [Zurück zum Seitenanfang](#Top)
-  
+
 ------------------------------------------------
 -----
 <div id="ZusammenfassungKurzbefehle"></div><BR>
-  
+
 ## Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
 
 
@@ -183,12 +183,12 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
     <th></th>
     <th>Sylt-Cams</th>
     <th>Sylt-Shuttle & Ferry</th>    
-  </tr> 
+  </tr>
   <tr>
     <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
     <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
     <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
-    
+
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
@@ -209,7 +209,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 
 #### Andere Cams
-      
+
 <table width="900">
   <tr>
     <th></th>
@@ -238,13 +238,23 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 </table>
 
 [Zurück zum Seitenanfang](#Top)
-      
+
+
+------------------------------------------------
+-----
+<div id="Instant Ansicht"></div><BR>
+
+## Instant Ansicht
+<br>
+
+SyltCams
+
 ------------------------------------------------
 -----
 <div id="WeitereHinweise"></div><BR>
-      
+
 ## Weitere Hinweise
-  
+
 <br>
 Desweiteren gibt es [dieses kommentierte](https://youtu.be/okgi-ZKg_PY) Video und vom Sylt-Shuttle [dieses unkommentierte](https://youtu.be/En-h2LZYh1w) YouTube-Video, um sich einen Eindruck zu verschaffen.
 
@@ -312,13 +322,13 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 [Zurück zum Seitenanfang](#Top)
-      
+
 ------------------------------------------------
 -----
 <div id="ListederCams"></div><BR>
-      
+
 ## Liste der Cams
-      
+
 ### Syltcams (Stand 12.06.2022)
 
 Diese Sylter Cams sind eingebunden:
@@ -385,13 +395,13 @@ Diese Webcams sind eingebunden:
 * Greetsiel
 * Hotel Color Bardolino
 
-      
+
 ------------------------------------------------
 
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
 In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams von [https://livespotting.tv](https://livespotting.tv) der Kategorie "Coast" eingebunden:
-    
+
       1: Live aus dem Seebad Warnemünde am Alten Strom
       2: Live-Streaming im Fischereihafen Neuharlingersiel
       3: Webcam im Hafen von Neuharlingersiel
@@ -418,7 +428,7 @@ In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.co
       24: Höchste Webcam von St. Peter-Ording mit Küstenpanorama
       25: Live aus dem Stadthafen von Sassnitz auf Rügen
       26: Live vom Seebrückenvorplatz in Scharbeutz an der Ostsee
-      27: Webcam mit Ostsee und Strand aus der Lübecker Bucht 
+      27: Webcam mit Ostsee und Strand aus der Lübecker Bucht
       28: Webcam an der Ostsee am Strand von Scharbeutz
       29: Live vom Weltnaturerbe Wattenmeer und dem Jadebusen
       30: Live vom Fähranleger und Hafen in Norddeich Mole
@@ -446,15 +456,15 @@ In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.co
       52: Webcam aus Sipplingen am Bodensee
       53: Residenz Strandhotel in Warnemünde
       54: Webcam am Museumshafen in Carolinensiel
-      55: Webcam mit Promenade und Strand in Westerland auf SYLT 
+      55: Webcam mit Promenade und Strand in Westerland auf SYLT
       56: Webcam von der Seebrücke in Heiligenhafen
       57: Webcam mit Strand und Seebrücke in Heiligenhafen
       58: Webcam mit Blick auf die Seebrücke Seelin
 
-      
-      
+
+
 [Zurück zum Seitenanfang](#Top)
-      
+
 ------------------------------------------------
 -----
 <div id="Daswillichauch"></div><BR>
@@ -469,13 +479,13 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ![image](images/DSC01323_Banner.JPG "Banner-Kliffende")
 
 [Zurück zum Seitenanfang](#Top)
-      
+
 ------------------------------------------------
 -----
 <div id=Danksagung></div><BR>
-      
+
 ## Danke an meine Unterstützer:
-      
+
 - Sabine
 - D. Erdmann, [Hotel Rungholt](https://hotel-rungholt.de), Kampen
 - C. Kochanek, [C-A Ferienwohnung Sylt](https://www.cundasylt.de), Westerland
@@ -497,28 +507,28 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 #webcamwidgets #webcamwidgetssylt
 
 [Zurück zum Seitenanfang](#Top)
-      
+
 ------------------------------------------------
 -----
 <div id=NewsUpdates></div><BR>
-      
+
 ## News and Updates:
 ----------------------------------------------------
 ### 28.08.2022: Sonnenauf- und Untergangszeiten angepasst
 Die Berechnung der Sonnenauf- und Untergangszeiten wurde von "Bürgerliche Dämmerung" umgestellt auf Sonnenauf- und Untergang, so wie sie zB in Wetter-Apps für den Standort angegeben werden.
-      
+
 ----------------------------------------------------
 ### 14.08.2022: Livespotting Coast Cams Version verfügbar
-Seit heute gibt es die aktuell 58 Coast Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. Dadurch werden die Ur-Scripte der Nerd-Version aufs iPhone kopiert, auch das neue Script für die Livespotting Coast Cams.<BR> 
+Seit heute gibt es die aktuell 58 Coast Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. Dadurch werden die Ur-Scripte der Nerd-Version aufs iPhone kopiert, auch das neue Script für die Livespotting Coast Cams.<BR>
 Diese Coast-Cams stecken im Script "WWS_Livespotting_Coast". Viel Spaß damit!<BR>
-      
+
 ----------------------------------------------------
 ### 10.08.2022: Neue Script-Version: Widget zeigt Update Hinweis
 Die Widgets sind so erweitert, dass bei Verfügbarkeit einer neuen Version im Widget ein Hinweis zum Updaten dargestellt wird.
 Dann müssen auf dem iPhone unter den Kurzbefehlen alle blauen Update-Kurzbefehle ausgeführt werden.
 Mit der nächsten Aktualisierung der Widgets auf dem Homescreen verschwindet der Update Hinweis wieder.<BR>
 <img src="images/Update_hint.jpeg" title="Update Hinweis" width="300"><br>  
-      
+
 ----------------------------------------------------
 ### 09.08.2022: Umbau Sonnenauf- und Untergangszeiten fertig
 Die Scripte sind jetzt so erweitert, dass die Berechnung der Sonnenauf- und Untergangszeiten nicht mehr über einen Fremd-WebService erfolgt, sondern direkt im Script berechnet wird. Dazu habe ich den Kollegen von der Hessenschau und Andreas Konarski zu danken, die die Berechnung ins Netz gestellt haben. Errechnet wird der Zetipunkt der sog. Zivilen oder Bürgerlichen Dämmerung. Das ist der Zeitpunkt, zu dem die Mitte der Sonne 6° unterhalb des Horizonts steht (s.a. https://www.timeanddate.de/astronomie/buergerliche-daemmerung).
@@ -528,36 +538,36 @@ Die Scripte sind jetzt so erweitert, dass die Berechnung der Sonnenauf- und Unte
 ### 07.08.2022: Umbau Sonnenauf- und Untergangszeiten begonnen
 - Der Zertifikats-Fehler auf dem api unter https://sunrise-sunset.org besteht immer noch.Deshalb fange ich jetzt an, diesen Teil umzubauen.<BR>
 - Neu aufgenommen ist die Cam im Hotel Color, Bardolino, unter den Urlaubszielen
- 
-     
+
+
 ----------------------------------------------------
 ### 23.07.2022: Fehler beim api für Sonnenauf- und Untergangszeiten
 Probleme auf dem Server zur Berechnung der Sonnenauf- und Untergangszeiten.<br>
-<img src="images/Sunset_api_error.jpeg" title="Sunset_api_error" width="300"><br> 
+<img src="images/Sunset_api_error.jpeg" title="Sunset_api_error" width="300"><br>
 Bitte Update-Kurzbefehle ausführen <br>
 24.07.2022<br>
-Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten. 
+Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten.
 Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeiten verfügbar sind. <br>
 <img src="images/Sunset_api_displayedtext.jpeg" title="Sunset_api_didplayedtext" width="300"><br>    
-      
+
 ----------------------------------------------------
 ### 18.06.2022: iPhone Nerd Version
 
 Warum eine Nerd-Version?
-  
+
 Weils so ursprünglich programmiert war:     
-Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.<BR> 
+Ein Widget-Script bekommt beim Aufruf eine Zahl >1 als Parameter übergeben, der beschreibt welche Zeilennummer aus der CamListe genommen werden soll.<BR>
 So erspart man sich, pro Cam ein einzelnes Script auf dem iPhone zu haben. Wenn in der Liste der Cams viele Einträge sind, wird das schnell unübersichtlich. Daher die Version mit Parameter.
 
 <ins>Vorteil:</ins>     
 Man hat nur wenige Scripte auf dem iPhone.  
-  
+
 <ins>Nachteil:</ins>     
 Das Einrichten auf dem Homescreen ist... sagen wir einmal .. nerdisch ;-).    
-   
+
 Daher die "Singles"-Version oben, für jede Cam gibt es genau ein Script mit einem sprechenden Namen. Das macht es kinderleicht.     
 Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
-Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" nicht verändern und nur den Wert von "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget). 
+Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" nicht verändern und nur den Wert von "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget).
 
 Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit. Da steht noch etwas anderes zu "When interacting", aber dieser Wert kann so stehen bleiben.
 
@@ -573,8 +583,8 @@ Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Sc
 
 ------------------------------------------------
 ### 12.06.2022: Script der 2. Generation
-Die neue Version WWS_Master.js, **das Eine für Alle** steht ab sofort zur Verfügung, eine für alles. 
-Die Installation erfolgt über einen Kurzbefehl, die List der verfügbaren Cams wird dann täglich heruntergeladen. 
+Die neue Version WWS_Master.js, **das Eine für Alle** steht ab sofort zur Verfügung, eine für alles.
+Die Installation erfolgt über einen Kurzbefehl, die List der verfügbaren Cams wird dann täglich heruntergeladen.
 [Hier](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) gehts zum Anschauen.
 Unbedingt Aktualisieren, die Scripte der 1. Generation werden nicht mehr weiter gepflegt.
 
@@ -629,14 +639,13 @@ Ihr werdet sehen, das ist alles sehr einfach.
   </tr>
 </table>
 
- 
+
 [Zurück zum Seitenanfang](#Top)
-      
+
 ------------------------------------------------
 -----
 <div id=Lizenz></div><BR>
-     
+
 ## Lizenz:
 
 Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License](https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE)
-
