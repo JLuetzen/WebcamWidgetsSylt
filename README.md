@@ -248,8 +248,10 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 ## Instant Ansicht
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
-<br>
-[SyltCams](https://wwsylt.live/myHTML/SyltCams.html)
+<br><br>
+* [SyltCams](https://wwsylt.live/myHTML/SyltCams.html)
+
+[Zurück zum Seitenanfang](#Top)
       
 
 ------------------------------------------------
