@@ -36,6 +36,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
+* [Instant Ansicht](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -242,12 +243,13 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="Instant Ansicht"></div><BR>
+<div id="InstantView"></div><BR>
 
 ## Instant Ansicht
 <br>
 
-SyltCams
+[SyltCams](https://wwsylt.live/myHTML/SyltCams.html)
+      
 
 ------------------------------------------------
 -----
