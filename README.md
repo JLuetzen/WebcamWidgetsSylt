@@ -16,7 +16,7 @@ let processScroll =() => {
         docBody = document.body,
         scrollTop = docElem['scrollTop'] || docBody['scrollTop'],
         scrollBottom = (docElem['scrollHeight'] || docBody['scrollHeight']) - window.innerHeight,
-        scrollPercent = scrollTop / scrollBottom * 100 + ' %';
+        scrollPercent = scrollTop / scrollBottom * 100 + '%';
 
     document.getElementById('progress-bar').style.setProperty('--scrollAmount', scrollPercent);
 }
