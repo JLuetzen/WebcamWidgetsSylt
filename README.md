@@ -22,6 +22,8 @@
 <marquee>12.03.2023: "Sofort-Ansicht im Browser" erweitert um die Cams am Autozug und der Fähre. Es erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Einleitung
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
@@ -38,7 +40,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
-* [Sofort-Ansicht im Browser](#InstantView) für alle ohne iPhone
+* [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView) 
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -247,7 +249,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 -----
 <div id="InstantView"></div><BR>
 
-## Sofort-Ansicht im Browser (für alle ohne iPhone
+## Sofort-Ansicht im Browser - für Androiden und PC-Benutzer
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
 <br><br>
@@ -522,6 +524,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ## News and Updates:
 ----------------------------------------------------
+### 13.03.2023: Für alle Android- und PC-Benutzer
+Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Einfach dem Link ... folgen
+      
+----------------------------------------------------
 ### 28.08.2022: Sonnenauf- und Untergangszeiten angepasst
 Die Berechnung der Sonnenauf- und Untergangszeiten wurde von "Bürgerliche Dämmerung" umgestellt auf Sonnenauf- und Untergang, so wie sie zB in Wetter-Apps für den Standort angegeben werden.
 
@@ -607,8 +613,6 @@ Der Fehler beim Sylt Shuttle Widget mit der ausgefallenen Webcam von der Verladu
 ---> Das erneute Laden entfällt bei Verwendung des Scripts der 2. Generation --> unbedingt Aktualsieren!
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ------------------------------------------------
 ### Neuerungen im Script der 2. Generation
