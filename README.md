@@ -15,7 +15,7 @@
 
 </head>
 
-<div id="progress-bar"></div>
+<div class="progress-bar"></div>
 
 <div id="Top"></div><BR>
 
