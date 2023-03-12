@@ -36,7 +36,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
-* [Instant Ansicht](#InstantView)
+* [Instant Ansicht im Browser](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -245,11 +245,12 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 -----
 <div id="InstantView"></div><BR>
 
-## Instant Ansicht
+## Instant Ansicht im Browser
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
 <br><br>
 * [SyltCams](https://wwsylt.live/myHTML/SyltCams.html)
+* [Webcams an Autozug und Fähre](https://wwsylt.live/myHTML/SyltShuttle_Express.html)      
 
 [Zurück zum Seitenanfang](#Top)
       
