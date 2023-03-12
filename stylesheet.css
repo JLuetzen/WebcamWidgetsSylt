@@ -2,3 +2,14 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Progress - Bar */
+#progress-bar {
+  --scrollAmount: 10%;
+
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  width:var(--scrollAmount);
+  height: 10px;
+  position: fixed;
+  top: 0;
+}
