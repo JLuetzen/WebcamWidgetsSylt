@@ -1,4 +1,6 @@
 
+
+
 <head>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
@@ -7,6 +9,20 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!--- <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.png?"> --->
+
+<script>
+let processScroll =() => {
+    let docElem = document.document.Element,
+        docBody = document.body,
+        scrollTop = docElem['scrollTop'] || docBody['scrollTop'],
+        scrollBottom = (docElem['scrollHeight'] || docBody['scrollHeight']) - window.innerHeight,
+        scrollPercent = scrollTop / scrollBottom * 100 + ' %';
+
+    document.getElementById('progress-bar').style.setProperty('--scrollAmount', scrollPercent);
+}
+
+document.addEventListener('scroll', processScroll);
+</script>
 
 </head>
 
@@ -40,7 +56,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
-* [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView) 
+* [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -257,7 +273,7 @@ Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf e
 * [Webcams an Autozug und Fähre](https://wwsylt.live/myHTML/SyltShuttle_Express.html)      
 
 [Zurück zum Seitenanfang](#Top)
-      
+
 
 ------------------------------------------------
 -----
@@ -526,7 +542,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ----------------------------------------------------
 ### 13.03.2023: Für alle Android- und PC-Benutzer
 Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Einfach dem Link ... folgen
-      
+
 ----------------------------------------------------
 ### 28.08.2022: Sonnenauf- und Untergangszeiten angepasst
 Die Berechnung der Sonnenauf- und Untergangszeiten wurde von "Bürgerliche Dämmerung" umgestellt auf Sonnenauf- und Untergang, so wie sie zB in Wetter-Apps für den Standort angegeben werden.
