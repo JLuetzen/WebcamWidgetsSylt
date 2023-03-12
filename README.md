@@ -10,7 +10,8 @@
 
 <!--- <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.png?"> --->
 
-<script src="js.md"></script>
+<script src="js.md">
+</script>
 
 </head>
 
