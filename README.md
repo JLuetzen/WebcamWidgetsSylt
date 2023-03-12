@@ -10,6 +10,8 @@
 
 </head>
 
+<div id="progress-bar"></div>
+
 <div id="Top"></div><BR>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
@@ -17,7 +19,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>18.02.2023: "Instant Ansicht" erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
+<marquee>12.03.2023: "Sofort-Ansicht im Browser" erweitert um die Cams am Autozug und der Fähre. Es erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
 
 
 ## Einleitung
@@ -36,7 +38,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 ## Inhalt
 * [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
-* [Instant Ansicht im Browser](#InstantView)
+* [Sofort-Ansicht im Browser](#InstantView) für alle ohne iPhone
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
@@ -245,7 +247,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 -----
 <div id="InstantView"></div><BR>
 
-## Instant Ansicht im Browser
+## Sofort-Ansicht im Browser (für alle ohne iPhone
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
 <br><br>
