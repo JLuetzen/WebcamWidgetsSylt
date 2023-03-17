@@ -10,8 +10,8 @@
 
 <!--- <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.png?"> --->
 
-<script src="js.md">
-</script>
+<!--- <script src="js.md" type="text/javascript"></script> --->
+<script src="script.js" type="text/javascript"></script>
 
 </head>
 
@@ -22,7 +22,7 @@
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
 
-# Webcam Widgets Sylt -  live auf dem iPhone
+# Webcam Widgets Sylt -  live auf dem iPhone1
 
 <marquee>12.03.2023: "Sofort-Ansicht im Browser" erweitert um die Cams am Autozug und der Fähre. Es erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
 
