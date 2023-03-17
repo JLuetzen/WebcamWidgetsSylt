@@ -9,7 +9,7 @@
 
   background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   width:var(--scrollAmount);
-  height: 5px;
+  height: 3px;
   position: fixed;
   top: 0;
 }
