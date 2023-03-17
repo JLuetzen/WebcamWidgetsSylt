@@ -5,11 +5,11 @@
 
 /* Progress - Bar */
 #progress-bar {
-  --scrollAmount: 1%;
+  --scrollAmount: 0%;
 
   background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   width:var(--scrollAmount);
-  height: 10px;
+  height: 5px;
   position: fixed;
   top: 0;
 }
