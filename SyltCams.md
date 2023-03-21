@@ -1,3 +1,8 @@
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+ 
 # Sylt Cams
 
 <img src="[[drawing.jpg](https://wwsylt.live/data/WWS_Logo_black.png)" alt="drawing](https://wwsylt.live/data/WWS_Logo_black.png)" width="200"/>
