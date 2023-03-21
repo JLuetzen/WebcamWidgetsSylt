@@ -1,6 +1,6 @@
 <head>
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-<script src="script.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <script src="script.js" type="text/javascript"></script>
 </head>
 
 <div id="progress-bar"></div> 
