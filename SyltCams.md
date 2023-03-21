@@ -6,7 +6,7 @@
 <div id="progress-bar"></div> 
 
 <div id="content">
-  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="40%"/>
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="30%"/>
 </div>
   
 
