@@ -6,11 +6,11 @@
 <div id="progress-bar"></div> 
 
 <div id="content">
-  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="20%"/>
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="40%"/>
 </div>
   
 
-# Sylt Cams2
+# Sylt Cams
 
 ## Webcam Widgets Sylt
 
