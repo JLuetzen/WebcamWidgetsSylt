@@ -5,13 +5,10 @@
  
 # Sylt Cams
 
-<img src="[[drawing.jpg](https://wwsylt.live/data/WWS_Logo_black.png)" alt="drawing](https://wwsylt.live/data/WWS_Logo_black.png)" width="200"/>
-
-![IMG](https://wwsylt.live/data/WWS_Logo_black.png){width=60%,height:30px}
-
-![IMG](https://wwsylt.live/data/WWS_Logo_black.png#right)
-
-![my image](/img/myImage.jpg#right)
+  <div id="content">
+      <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="200" height="180"/>
+  </div>
+  
 
 
 ## Webcam Widgets Sylt
