@@ -3,14 +3,14 @@
 <script src="script.js" type="text/javascript"></script>
 </head>
 
- 
+<div id="progress-bar"></div> 
 
 <div id="content">
-  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="200" height="180"/>
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="20%"/>
 </div>
   
 
-# Sylt Cams
+# Sylt Cams2
 
 ## Webcam Widgets Sylt
 
