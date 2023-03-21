@@ -13,3 +13,9 @@
   position: fixed;
   top: 0;
 }
+
+
+img[src*='#right'] {
+    float: right;
+}
+
