@@ -1,15 +1,16 @@
 <head>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="script.js" type="text/javascript"></script>
 </head>
 
  
-# Sylt Cams
 
-  <div id="content">
-      <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="200" height="180"/>
-  </div>
+<div id="content">
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="200" height="180"/>
+</div>
   
 
+# Sylt Cams
 
 ## Webcam Widgets Sylt
 
