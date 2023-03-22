@@ -13,3 +13,21 @@
   position: fixed;
   top: 0;
 }
+
+
+img[src*='#right'] {
+    float: right;
+}
+
+
+    #content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+
+
+
