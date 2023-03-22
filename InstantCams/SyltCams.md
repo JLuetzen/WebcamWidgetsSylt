@@ -1,14 +1,14 @@
 <head>
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <script src="script.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
+  <script src="../script.js" type="text/javascript"></script>
 </head>
 
-<div id="progress-bar"></div> 
+<div id="progress-bar"></div>
 
 <div id="content">
-  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="30%"/>
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="25%"/>
 </div>
-  
+
 
 # Sylt Cams
 
@@ -27,7 +27,7 @@ Für alle ohne iPhone...
 ### Hörnum
 [![IMG](https://cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.jpg)](https://player.livespotting.tv/jwp.html?alias=PS_9c086)
 [https://www.hoernum.de](https://www.hoernum.de)
- 
+
 ### Kampen Quermarkenfeuer
 [![IMG](https://wwsylt.live/data/CamOutofOrder.jpg)](https://wwsylt.live/data/CamOutofOrder.jpg)
 [https://www.kampen.de](https://www.kampen.de)

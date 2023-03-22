@@ -1,16 +1,16 @@
 <head>
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <script src="script.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
+  <script src="../script.js" type="text/javascript"></script>
 </head>
 
-<div id="progress-bar"></div> 
+<div id="progress-bar"></div>
 
 <div id="content">
-  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="30%"/>
+  <img src="https://wwsylt.live/data/WWS_Logo_black.png" class="ribbon" alt="" width="25%"/>
 </div>
-  
 
-# Cams SyltShuttle & Syltfähre
+
+# SyltShuttle & Syltfähre
 
 ## Webcam Widgets Sylt
 
@@ -27,7 +27,7 @@ Für alle ohne iPhone...
 ### Autoverladung Niebüll III
 [![IMG](https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg)](https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg)
 [https://www.autozug-sylt.de](https://www.autozug-sylt.de)
- 
+
 ### Autverladung Westerland I
 [![IMG](https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg)](https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg)
 [https://www.autozug-sylt.de](https://www.autozug-sylt.de)
@@ -51,5 +51,3 @@ Für alle ohne iPhone...
 ### Anleger List/Sylt - Zoon
 [![IMG](https://www.frs-syltfaehre.de/webcam-image.jpg?tx_frsfrs_pi6%5Baction%5D=show&tx_frsfrs_pi6%5BcontentElementUid%5D=1875&tx_frsfrs_pi6%5Bcontroller%5D=WebcamImage&cHash=527bebc357183493694b73341cc9075d#version-1615749698)](https://www.frs-syltfaehre.de/webcam-image.jpg?tx_frsfrs_pi6%5Baction%5D=show&tx_frsfrs_pi6%5BcontentElementUid%5D=1875&tx_frsfrs_pi6%5Bcontroller%5D=WebcamImage&cHash=527bebc357183493694b73341cc9075d#version-1615749698)
 [https://www.frs-syltfaehre.de](https://www.frs-syltfaehre.de)
-
-
