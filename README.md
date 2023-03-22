@@ -258,9 +258,9 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
 <br><br>
-1
-* [SyltCams](SyltCams.md)  
-* [Cams SyltShutte und Syltfähre](SyltShuttle_Express.md)  
+2
+* [SyltCams](SyltCams_MD.md)  
+* [Cams SyltShutte und Syltfähre](SyltShuttle_Express_MD.md)  
 
 Extra-Seite:      
 * [SyltCams](SyltCams.html)  
