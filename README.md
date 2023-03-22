@@ -260,6 +260,7 @@ Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf e
 <br><br>
 MD:
 * [SyltCams](SyltCams.md).  
+* [Cams SyltShutte und Syltfähre](SyltShuttle_Express.md).  
 
 HTML:      
 * [SyltCams](https://wwsylt.live/myHTML/SyltCams.html).  
