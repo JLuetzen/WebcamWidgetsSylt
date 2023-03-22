@@ -258,13 +258,13 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 <br>
 Für alle ohne iPhone oder am Desktop ist hier die Möglichkeit, alle Cams auf einer Seite im Browser anzusehen. Das Bild anklicken, um den Livestream zu sehen
 <br><br>
-2
-* [SyltCams](SyltCams_MD.md)  
-* [Cams SyltShutte und Syltfähre](SyltShuttle_Express_MD.md)  
+
+* [SyltCams](Browser_View/SyltCams_MD.md)  
+* [Cams SyltShutte und Syltfähre](Browser_View/SyltShuttle_Express_MD.md)  
 
 Extra-Seite:      
-* [SyltCams](SyltCams.html)  
-* [Webcams an Autozug und Fähre](SyltShuttle_Express.html)        
+* [SyltCams](Browser_View/SyltCams.html)  
+* [Webcams an Autozug und Fähre](Browser_View/SyltShuttle_Express.html)        
 
 [Zurück zum Seitenanfang](#Top)
 
