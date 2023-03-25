@@ -51,3 +51,7 @@ Für alle ohne iPhone...
 ### Anleger List/Sylt - Zoon
 [![IMG](https://www.frs-syltfaehre.de/webcam-image.jpg?tx_frsfrs_pi6%5Baction%5D=show&tx_frsfrs_pi6%5BcontentElementUid%5D=1875&tx_frsfrs_pi6%5Bcontroller%5D=WebcamImage&cHash=527bebc357183493694b73341cc9075d#version-1615749698)](https://www.frs-syltfaehre.de/webcam-image.jpg?tx_frsfrs_pi6%5Baction%5D=show&tx_frsfrs_pi6%5BcontentElementUid%5D=1875&tx_frsfrs_pi6%5Bcontroller%5D=WebcamImage&cHash=527bebc357183493694b73341cc9075d#version-1615749698)
 [https://www.frs-syltfaehre.de](https://www.frs-syltfaehre.de)
+
+
+<BR>
+[back](https://wwsylt.live/#InstantView)
