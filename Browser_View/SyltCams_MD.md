@@ -45,5 +45,9 @@ Für alle ohne iPhone...
 [![IMG](https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg)](https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz)
 [https://www.sansibar.de](https://www.sansibar.de)
 
+### Friesenkapelle Wenningstedt
+[![IMG](https://live-image.panomax.com/cams/3558/recent_reduced.jpg)](https://sylt.panomax.com/friesenkapelle-dorfteich)
+[https://friesenkapelle.de/](https://friesenkapelle.de/)
+
 <BR>
 [back](https://wwsylt.live/#InstantView)
