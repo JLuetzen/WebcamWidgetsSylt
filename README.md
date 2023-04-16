@@ -113,7 +113,7 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
 
   <table class="center" width="600">
   <tr>
-    <th>Kurzbefehl-Menue<BR> Sylt-Cams.</th>
+    <th>Kurzbefehl-Menue<BR> Sylt-Cams</th>
     <th>Kurzbefehl-Menue<BR>Sylt-Shuttle & Fähre</th>
  </tr>
  <tr>
@@ -191,13 +191,13 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 <table class="center" width="900">
   <tr>
     <th></th>
-    <th>Sylt-Cams</th>
+    <th>Sylt-Cams.</th>
     <th>Sylt-Shuttle & Ferry</th>    
   </tr>
   <tr>
     <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
-    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
-    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/6159c22b53e544cfa4e8bf1cb80c89b8" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
+    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/87908925b9cd4c83987d1125433e5d4c" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
+    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/87908925b9cd4c83987d1125433e5d4c" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Sylt_Singles.jpg" width="200" /></a></td>
 
   </tr>
   <tr>
