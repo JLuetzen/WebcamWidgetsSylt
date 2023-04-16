@@ -23,6 +23,7 @@ var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Rantum.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Sansibar.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Golfclub_Sylt.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Friesenkapelle_Wenningstedt.js");
 
 // WWS_Syltfaehre
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Syltfaehre_Havneby.js");
