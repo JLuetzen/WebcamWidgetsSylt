@@ -133,6 +133,17 @@ switch (myFilename) {
 		param = "8"
 	break;
 
+	case ("WWS_Sylt_Friesenkapelle_Wenningstedt"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "9"
+	break;
+
 // *****************************
 // WWS_Syltfaehre
 // *****************************
