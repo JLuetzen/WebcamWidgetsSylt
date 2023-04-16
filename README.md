@@ -113,11 +113,11 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
 
   <table class="center" width="600">
   <tr>
-    <th>Kurzbefehl-Menue<BR> Sylt-Cams</th>
+    <th>Kurzbefehl-Menue<BR> Sylt-Cams.</th>
     <th>Kurzbefehl-Menue<BR>Sylt-Shuttle & Fähre</th>
  </tr>
  <tr>
-    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/6cd36e1b5a384f2f930f8b4cfd36d684" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl Sylt-Cams" width="150"></a></td>
+    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/7086cf6c391344dfb5835463fa260c01" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl Sylt-Cams" width="150"></a></td>
     <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Kurzbefehl Syltshuttle" width="150"></a></td>
   </tr>
 </table>  
