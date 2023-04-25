@@ -349,7 +349,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ## Liste der Cams
 
-### Syltcams (Stand 12.06.2022)
+### Syltcams (Stand 20.04.2023)
 
 Diese Sylter Cams sind eingebunden:
 * Westerland Kurpromendade
@@ -360,6 +360,7 @@ Diese Sylter Cams sind eingebunden:
 * Rantum Beach
 * Sansibar Beach
 * Kampen Golfclub Sylt
+* Friesenkapelle Norddörfer Wenningstedt
 
 
 ------------------------------------------------
@@ -533,6 +534,11 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 20.04.2023: Friesenkapelle Wenningstedt
+Die Panorama-Cam in der Friesenkapelle Wenningstedt ist neu mit aufgenommen. 
+Arbeiten an einem GitBook zur Dokumentation sind begonnen. 
+      
 ----------------------------------------------------
 ### 13.03.2023: Für alle Android- und PC-Benutzer
 Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Einfach dem Link ... folgen
