@@ -337,7 +337,7 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
 
-Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie.
+Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie. Sie halten ca. 2 Jahre, wie ich jetzt festgestellt habe.
 
 Versand erfolgt allerdings nur innerhalb Deutschlands.
 
