@@ -233,7 +233,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/b35677180df777ce1402a911afa15bc3255e7" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/9635a87a0cbe42eca8d513f7f8a43e90" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
   </tr>
   <tr>
