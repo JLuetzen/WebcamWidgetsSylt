@@ -69,8 +69,6 @@ BR [back](https://wwsylt.live/#InstantView)
 ### Wenningstedt Risgap
 [![IMG](https://wwsylt.live/images/Wenningstedt_3_Risgap_ComingSoon.jpeg)](https://www.wenningstedt.de/service/webcams/webcam-risgap)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
-BR [back](https://wwsylt.live/#InstantView)
-
 
 
 <BR>
