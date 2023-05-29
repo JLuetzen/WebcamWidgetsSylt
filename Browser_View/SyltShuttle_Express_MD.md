@@ -14,7 +14,7 @@
 
 ## Webcam Widgets Sylt
 
-Für alle ohne iPhone...
+only the Cams... purely Sylt - Transportation
 
 ### Autoverladung Niebüll I
 [![IMG](https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg")](https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg")
