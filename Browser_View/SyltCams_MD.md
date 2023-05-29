@@ -32,7 +32,7 @@ only the Cams... purely Sylt
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Kampen Quermarkenfeuer
-[![IMG](https://wwsylt.live/images/CamOutofOrder.jpg)](https://wwsylt.live/data/CamOutofOrder.jpg)
+[![IMG](https://wwsylt.live/images/CamOutofOrder.jpg)](https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab)
 [https://www.kampen.de](https://www.kampen.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
@@ -42,7 +42,7 @@ only the Cams... purely Sylt
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Rantum ISTS
-[![IMG](https://wwsylt.live/images/CamOutofOrder.jpg)](https://wwsylt.live/data/CamOutofOrder.jpg)
+[![IMG](https://wwsylt.live/images/CamOutofOrder.jpg)](https://player.livespotting.tv/jwp.html?alias=PS_f9931&ch=LS_8ae47)
 [https://www.insel-sylt.de](https://www.insel-sylt.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
