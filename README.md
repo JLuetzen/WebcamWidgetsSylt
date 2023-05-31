@@ -117,7 +117,7 @@ Diese Kurzbefehle starten ein Auswahlmenue, das alle WebCams zeigt und man sucht
     <th>Kurzbefehl-Menue<BR>Sylt-Shuttle & Fähre</th>
  </tr>
  <tr>
-    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/7086cf6c391344dfb5835463fa260c01" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl Sylt-Cams" width="150"></a></td>
+    <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/b406976983b747c1baaae695d009cb1d" target="_blank" rel="noopener"><img src="images/SC_SyltCams.jpg" title="Kurzbefehl Sylt-Cams" width="150"></a></td>
     <td text align="center" width="50%"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img src="images/SC_Syltshuttle.jpg" title="Kurzbefehl Syltshuttle" width="150"></a></td>
   </tr>
 </table>  
@@ -202,7 +202,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/664efef35fe941c18a028576b6a84c39" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SyltCams.jpg" width="120" /></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/b406976983b747c1baaae695d009cb1d" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SyltCams.jpg" width="120" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/ad873c0c7c23400b9d0fdbc1822e7fe8" target="_blank" rel="noopener"><img     style="display: block; margin-left: auto; margin-right: auto" src="images/SC_Syltshuttle.jpg" width="120" /></a></td>
   </tr>
   <tr>
