@@ -282,6 +282,13 @@ switch ( camLocation ) {
 		console.log("Anleger List/Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case ("Wenningstedt Haus am Kliff"):
+	case ("Wenningstedt Berthin-Bleeg-Straße"):
+	case ("Wenningstedt Risgap"):
+		customLogoName = "WWS_Logo_Wenningstedt_1.png";
+		console.log("Wenningstedt Haus am Kliff gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kochelsee") :
 //	case ("Surfcam Sylt"):
 		customLogoName = "WWS_Logo_Eastern2022.png";
