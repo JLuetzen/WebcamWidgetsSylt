@@ -144,6 +144,41 @@ switch (myFilename) {
 		param = "9"
 	break;
 
+	case ("WWS_Sylt_Wenningstedt_HausAmKliff"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "10"
+	break;
+
+	case ("WWS_Sylt_Wenningstedt_BerthinBleegStr"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "11"
+	break;
+
+	case ("WWS_Sylt_Wenningstedt_Risgap"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "12"
+	break;
+
+
+
 // *****************************
 // WWS_Syltfaehre
 // *****************************
