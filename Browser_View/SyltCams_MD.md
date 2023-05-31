@@ -57,17 +57,17 @@ only the Cams... purely Sylt
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Wenningstedt Haus am Kliff
-[![IMG](https://wwsylt.live/images/Wenningstedt_1_Haus_am_Kliff_ComingSoon.jpeg)](https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff)
+[![IMG](https://www.wenningstedt.de/fileadmin/_processed_/d/2/csm_TSWB-Jasmin-Heimberger-Promenade-Luftansicht_164da5aa9c.jpg)](https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Wenningstedt Berthin-Bleeg-Straße
-[![IMG](https://wwsylt.live/images/Wenningstedt_2_Berthin_Bleeg_Strasse_ComingSoon.jpeg)](https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse)
+[![IMG](https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg)](https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Wenningstedt Risgap
-[![IMG](https://wwsylt.live/images/Wenningstedt_3_Risgap_ComingSoon.jpeg)](https://www.wenningstedt.de/service/webcams/webcam-risgap)
+[![IMG](https://wenningstedt.nordwind-ev.de/preview-risgap.jpg)](https://www.wenningstedt.de/service/webcams/webcam-risgap)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
 
 

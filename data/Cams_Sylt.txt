@@ -7,3 +7,6 @@ Rantum ISTS;https://www.insel-sylt.de/;54.84841039611982;8.287760832809381;https
 Sansibar;https://www.sansibar.de;54.81466340907194;8.285084670384071;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz
 Kampen Golfclub Sylt;https://www.golfclubsylt.de;54.942142;8.336588;https://www.golfclubsylt.de;https://www.golfclubsylt.de/webcam.html
 Friesenkapelle Wenningstedt;https://friesenkapelle.de/;54.93997;8.32765;https://live-image.panomax.com/cams/3558/recent_reduced.jpg;https://sylt.panomax.com/friesenkapelle-dorfteich
+Wenningstedt Haus am Kliff;https://www.wenningstedt.de;54.93707;8.31600;https://www.wenningstedt.de/fileadmin/_processed_/d/2/csm_TSWB-Jasmin-Heimberger-Promenade-Luftansicht_164da5aa9c.jpg;https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff
+Wenningstedt Berthin-Bleeg-Straße;https://www.wenningstedt.de;54.93863;8.31668;https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg;https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse
+Wenningstedt Risgap;https://www.wenningstedt.de;54.93579;8.31504;https://wenningstedt.nordwind-ev.de/preview-risgap.jpg;https://www.wenningstedt.de/service/webcams/webcam-risgap
