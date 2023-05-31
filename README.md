@@ -517,6 +517,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - A. Wagner, [SANSIBAR Sylt](https://www.sansibar.de)
 - S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
+- J. Heimberber, [www.wenningstedt.de](https://www.wenningstedt.de)       
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
 - Scriptable Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
 - [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
