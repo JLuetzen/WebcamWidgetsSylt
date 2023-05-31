@@ -24,8 +24,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt   12.03.2023: "Sofort-Ansicht im Browser" erweitert um die Cams am Autozug und der Fähre. Es erlaubt einen Blick auf die Cams auch ohne iPhone. WebCam im Kampener Quermarkenfeuer immer noch Offline</marquee><BR>
-
+<marquee>31.05.2023 neu: die 3 Webcams in Wenningstedt 21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -517,6 +516,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - A. Wagner, [SANSIBAR Sylt](https://www.sansibar.de)
 - S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
+- J. Heimberber, [www.wenningstedt.de](https://www.wenningstedt.de)       
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
 - Scriptable Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
 - [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
