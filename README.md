@@ -24,7 +24,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>31.05.2023 neu: die 3 Webcams in Wenningstedt 21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt</marquee><BR>
+<marquee>01.06.2023 Die WebCam Widgetgs sind auf den Webseiten der Gemeinde Wenningstedt verlinkt und wurden im aktuellen Newsletter im Rahmen eines Artikels beschrieben 31.05.2023 neu: die 3 Webcams in Wenningstedt sind jetzt neu eingebunden 21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -360,6 +360,9 @@ Diese Sylter Cams sind eingebunden:
 * Sansibar Beach
 * Kampen Golfclub Sylt
 * Friesenkapelle Norddörfer Wenningstedt
+* Wenningstedt, Haus am Kliff
+* Wenningstedt, Berthin-Bleeg-Straße
+* Wenningstedt, Risgap
 
 
 ------------------------------------------------
@@ -534,6 +537,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 01.06.2023: Webcams der Gemeinde Wenningstedt
+Die 3 Webcams der Gemeinde Wenningstedt sind neu aufgenommen in der Familie der Webcam Widgets Sylt.
+Diese Neuigkeit wurde im heutigen Newsletter erwähnt und die Website https://www.wenningstedt.de/service/webcams enthält jetzt einen Hinweis auf https://wwsylt.live. Sehr cool!
 ----------------------------------------------------
 ### 20.04.2023: Friesenkapelle Wenningstedt
 Die Panorama-Cam in der Friesenkapelle Wenningstedt ist neu mit aufgenommen. 
