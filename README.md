@@ -540,7 +540,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ----------------------------------------------------
 ### 01.06.2023: Webcams der Gemeinde Wenningstedt
 Die 3 Webcams der Gemeinde Wenningstedt sind neu aufgenommen in der Familie der Webcam Widgets Sylt.
-Diese Neuigkeit wurde im heutigen Newsletter erwähnt und die Website https://www.wenningstedt.de/service/webcams enthält jetzt einen Hinweis auf https://wwsylt.live. Sehr cool!
+Diese Neuigkeit wurde im heutigen Newsletter erwähnt und die Website [https://www.wenningstedt.de/service/webcams](https://www.wenningstedt.de/service/webcams) enthält jetzt einen Hinweis auf https://wwsylt.live. Sehr cool!
 
 ----------------------------------------------------
 ### 20.04.2023: Friesenkapelle Wenningstedt
