@@ -57,7 +57,7 @@ only the Cams... purely Sylt
 <BR> [back](https://wwsylt.live/#InstantView)
 
 ### Wenningstedt Haus am Kliff
-[![IMG](https://www.wenningstedt.de/fileadmin/_processed_/d/2/csm_TSWB-Jasmin-Heimberger-Promenade-Luftansicht_164da5aa9c.jpg)](https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff)
+[![IMG](https://wenningstedt.nordwind-ev.de/preview-haus-am-kliff.jpg)](https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
