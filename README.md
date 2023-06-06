@@ -348,7 +348,7 @@ Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 ## Liste der Cams
 
-### Syltcams (Stand 20.04.2023)
+### Syltcams (Stand 06.06.2023)
 
 Diese Sylter Cams sind eingebunden:
 * Westerland Kurpromendade
@@ -363,6 +363,7 @@ Diese Sylter Cams sind eingebunden:
 * Wenningstedt, Haus am Kliff
 * Wenningstedt, Berthin-Bleeg-Straße
 * Wenningstedt, Risgap
+* Hörnum Weststrand
 
 
 ------------------------------------------------
@@ -537,6 +538,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 06.06.2023: Newu: Hörnum Weststrand
+Heute wurde die WebCam Hörnum Westrand aufgenommen.
+
 ----------------------------------------------------
 ### 01.06.2023: Webcams der Gemeinde Wenningstedt
 Die 3 Webcams der Gemeinde Wenningstedt sind neu aufgenommen in der Familie der Webcam Widgets Sylt.
