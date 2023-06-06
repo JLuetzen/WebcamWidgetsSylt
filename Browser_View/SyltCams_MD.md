@@ -31,6 +31,11 @@ only the Cams... purely Sylt
 [https://www.hoernum.de](https://www.hoernum.de)
 <BR> [back](https://wwsylt.live/#InstantView)
 
+### Hörnum - Weststrand
+[![IMG](https://cdn.livespotting.com/vpu/bgh4pz4b/28eljrrx.jpg)](https://player.livespotting.com?alias=w5l40qk4&ch=28eljrrx)
+[https://www.hoernum.de](https://www.hoernum.de)
+<BR> [back](https://wwsylt.live/#InstantView)
+
 ### Kampen Quermarkenfeuer
 [![IMG](https://wwsylt.live/images/CamOutofOrder.jpg)](https://player.livespotting.com/?alias=nn1xc3my&ch=LS_8fbab)
 [https://www.kampen.de](https://www.kampen.de)
