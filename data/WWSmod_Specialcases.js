@@ -266,6 +266,7 @@ switch ( camLocation ) {
 	break
 
 	case ("Hörnum"):
+	case ("Hörnum Weststrand"):
 		customLogoName = "WWS_Logo_Hoernum.png";
 		console.log("Hörnum gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;

@@ -18,6 +18,7 @@ const GitHubMasterScriptFile = "WWS_Master_singles"
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Westerland_Promenade.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_SurfcamSylt.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Hoernum.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Hoernum_Weststrand.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen_Quermarkenfeuer.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Kampen Hotel Rungholt.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Rantum.js");
