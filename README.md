@@ -539,7 +539,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ## News and Updates:
 ----------------------------------------------------
-### 06.06.2023: Newu: Hörnum Weststrand
+### 06.06.2023: Neu: Hörnum Weststrand
 Heute wurde die WebCam Hörnum Westrand aufgenommen.
 
 ----------------------------------------------------
