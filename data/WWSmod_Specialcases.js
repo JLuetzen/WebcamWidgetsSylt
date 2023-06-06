@@ -285,7 +285,7 @@ switch ( camLocation ) {
 	case ("Wenningstedt Haus am Kliff"):
 	case ("Wenningstedt Berthin-Bleeg-Straße"):
 	case ("Wenningstedt Risgap"):
-		customLogoName = "WWS_Logo_Wenningstedt_1.png";
+		customLogoName = "WWS_Logo_Wenningstedt_1_W.png";
 		console.log("Wenningstedt Haus am Kliff gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 

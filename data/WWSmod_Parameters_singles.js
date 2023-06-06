@@ -148,7 +148,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1_W.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -159,7 +159,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1_W.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -170,7 +170,7 @@ switch (myFilename) {
 		CamFamily = "Sylt Cams";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_Wenningstedt_1.png';
+		GitHubLogoName = 'WWS_Logo_Wenningstedt_1_W.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
