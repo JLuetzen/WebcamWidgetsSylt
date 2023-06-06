@@ -10,3 +10,4 @@ Friesenkapelle Wenningstedt;https://friesenkapelle.de/;54.93997;8.32765;https://
 Wenningstedt Haus am Kliff;https://www.wenningstedt.de;54.93707;8.31600;https://wenningstedt.nordwind-ev.de/preview-haus-am-kliff.jpg;https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff
 Wenningstedt Berthin-Bleeg-Straße;https://www.wenningstedt.de;54.93863;8.31668;https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg;https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse
 Wenningstedt Risgap;https://www.wenningstedt.de;54.93579;8.31504;https://wenningstedt.nordwind-ev.de/preview-risgap.jpg;https://www.wenningstedt.de/service/webcams/webcam-risgap
+Hörnum Weststrand;https://www.hoernum.de;54.7529359010815;8.2786923137715;https://cdn.livespotting.com/vpu/bgh4pz4b/28eljrrx.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=28eljrrx
