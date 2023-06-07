@@ -283,6 +283,11 @@ switch ( camLocation ) {
 		console.log("Anleger List/Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case ("Friesenkapelle Wenningstedt"):
+		customLogoName = "WWS_Wenningstedt_Kirche.png";
+		console.log("Friesenkapelle Wenningstedt gefunden, CustomLogoName: " + customLogoName + " . ");
+	break
+
 	case ("Wenningstedt Haus am Kliff"):
 	case ("Wenningstedt Berthin-Bleeg-Straße"):
 	case ("Wenningstedt Risgap"):
