@@ -28,6 +28,8 @@ var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Wenningstedt_HausAmKliff.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Wenningstedt_BerthinBleegStr.js");
 var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_Wenningstedt_Risgap.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_List_Weststrand.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_Sylt_List_Hafen.js");
 
 
 // WWS_Syltfaehre

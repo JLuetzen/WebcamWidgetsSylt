@@ -11,3 +11,5 @@ Wenningstedt Haus am Kliff;https://www.wenningstedt.de;54.93707;8.31600;https://
 Wenningstedt Berthin-Bleeg-Straße;https://www.wenningstedt.de;54.93863;8.31668;https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg;https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse
 Wenningstedt Risgap;https://www.wenningstedt.de;54.93579;8.31504;https://wenningstedt.nordwind-ev.de/preview-risgap.jpg;https://www.wenningstedt.de/service/webcams/webcam-risgap
 Hörnum Weststrand;https://www.hoernum.de;54.7529359010815;8.2786923137715;https://cdn.livespotting.com/vpu/bgh4pz4b/28eljrrx.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=28eljrrx
+List Weststrand;https://www.list-sylt.de/;55.03645;8.38654;https://list.nordwind-ev.de/preview-list.jpg;https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr62240_0
+List Hafen;https://www.list-sylt.de/;55.01686;8.43937;https://list.nordwind-ev.de/preview-list-hafen.jpg;https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr5806_0

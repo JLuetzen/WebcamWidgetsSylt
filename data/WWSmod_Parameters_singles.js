@@ -35,7 +35,7 @@ is_version = myFilename_Ver_Array[1];
 console.log("My Filename: " + myFilename);
 console.log("is_version: " + is_version);
 
-let to_be_version=21.30;
+let to_be_version=21.40;
 
 switch (myFilename) {
 
@@ -186,6 +186,28 @@ switch (myFilename) {
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
 		param = "13"
+	break;
+
+	case ("WWS_Sylt_List_Weststrand"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "14"
+	break;
+
+	case ("WWS_Sylt_List_Hafen"):
+		CamFamily = "Sylt Cams";
+		GitHubCamFile = "Cams_Sylt.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "15"
 	break;
 
 // *****************************
