@@ -24,7 +24,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>06.06.2023: Die Webcam Hörnum Weststrand ist neu dabei 01.06.2023 Die WebCam Widgetgs sind auf den Webseiten der Gemeinde Wenningstedt verlinkt und wurden im aktuellen Newsletter im Rahmen eines Artikels beschrieben 31.05.2023 neu: die 3 Webcams in Wenningstedt sind jetzt neu eingebunden 21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt</marquee><BR>
+<marquee>08.06.23: Jetzt sind auch die Webcams in List dabei 06.06.2023: Die Webcam Hörnum Weststrand ist neu dabei 01.06.2023 Die WebCam Widgetgs sind auf den Webseiten der Gemeinde Wenningstedt verlinkt und wurden im aktuellen Newsletter im Rahmen eines Artikels beschrieben 31.05.2023 neu: die 3 Webcams in Wenningstedt sind jetzt neu eingebunden 21.04.2023: neu: Webcam in der Friesenkapelle Wenningstedt</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -364,6 +364,8 @@ Diese Sylter Cams sind eingebunden:
 * Wenningstedt, Berthin-Bleeg-Straße
 * Wenningstedt, Risgap
 * Hörnum Weststrand
+* List Weststrand
+* List Hafen
 
 
 ------------------------------------------------
@@ -520,7 +522,9 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - A. Wagner, [SANSIBAR Sylt](https://www.sansibar.de)
 - S. Bukowsky, [FRS Syltfähre](https://www.frs-syltfaehre.de)
 - M. Hoppe, [www.nordwind-ev.de](https://www.nordwind-ev.de)
-- J. Heimberger, [www.wenningstedt.de](https://www.wenningstedt.de)       
+- J. Heimberger, [www.wenningstedt.de](https://www.wenningstedt.de)  
+- M. Neubauer, [www.list-sylt.de](https://www.list-sylt.de)  
+- D.-O. Strempler, [https://friesenkapelle.de](https://friesenkapelle.de/)      
 - [sunrise-sunset.org](https://www.sunrise-sunset.org)
 - Scriptable Widget der [Hessenschau](https://www.scriptables.de/widget/hs-webcam)
 - [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
@@ -538,6 +542,12 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 08.06.2023: Neu: List
+Seit heute sind auch die Webcams der Gemeinde List auf Sylt eingebunden.
+Das sind List Weststrand und List Hafen.
+Zudem konnten wir uns für die Friesenkapelle Wenningstedt auf das Logo verständigen.
+
 ----------------------------------------------------
 ### 06.06.2023: Neu: Hörnum Weststrand
 Heute wurde die WebCam Hörnum Westrand aufgenommen.
