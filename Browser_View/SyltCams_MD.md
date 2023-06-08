@@ -75,6 +75,15 @@ only the Cams... purely Sylt
 [![IMG](https://wenningstedt.nordwind-ev.de/preview-risgap.jpg)](https://www.wenningstedt.de/service/webcams/webcam-risgap)
 [https://www.wenningstedt.de](https://www.wenningstedt.de)
 
+### List Weststrand
+[![IMG](https://list.nordwind-ev.de/preview-list.jpg)](https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr62240_0)
+[https://www.list-sylt.de](https://www.list-sylt.de)
+
+### List Hafen
+[![IMG](https://list.nordwind-ev.de/preview-list-hafen.jpg)](https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr5806_0)
+[https://www.list-sylt.de](https://www.list-sylt.de)
+
+
 
 <BR>
 [back](https://wwsylt.live/#InstantView)
