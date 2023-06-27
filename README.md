@@ -42,7 +42,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 <div id="Inhalt"></div><BR>
 
 ## Inhalt
-* [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
+* [Ein Script zu allen Cams](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
@@ -57,10 +57,9 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 -----
 <div id="EinsfuerAlles"></div><BR>
 
-## Eins für Alles - das Script der 2. Generation
-Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
+## Ein Script zu allen Cams
+Das deutlich verbesserte Script der 2. Generation zur Verfügung bringt folgende Vorteile:
 
-Die Vorteile dieser neuen Version sind
 * Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
 * Automatische Updates
 * Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
@@ -70,6 +69,7 @@ Die Vorteile dieser neuen Version sind
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
+Das vorherige Script wird weiterhin genutzt für die Livespotting Cams an der Nordsee (siehe unten).
 
 ----------------------------------------------------
 
