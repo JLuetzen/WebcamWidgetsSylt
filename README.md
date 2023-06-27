@@ -42,7 +42,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 <div id="Inhalt"></div><BR>
 
 ## Inhalt
-* [Ein Script zu allen Cams](#EinsfuerAlles)  
+* [Mit einem Script zu allen Cams](#EinsfuerAlles)  
 * [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
@@ -57,7 +57,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 -----
 <div id="EinsfuerAlles"></div><BR>
 
-## Ein Script zu allen Cams
+## Mit einem Script zu allen Cams
 Das deutlich verbesserte Script der 2. Generation zur Verfügung bringt folgende Vorteile:
 
 * Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
