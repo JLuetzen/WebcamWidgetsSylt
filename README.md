@@ -42,8 +42,8 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 <div id="Inhalt"></div><BR>
 
 ## Inhalt
-* [Eins für Alles - das Script der 2. Generation](#EinsfuerAlles)  
-* [Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen](#ZusammenfassungKurzbefehle)  
+* [Mit einem Script zu allen Cams](#EinsfuerAlles)  
+* [Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen](#UebersichtKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
@@ -57,10 +57,9 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 -----
 <div id="EinsfuerAlles"></div><BR>
 
-## Eins für Alles - das Script der 2. Generation
-Ab sofort steht das deutlich verbesserte Script der 2. Generation zur Verfügung!   
+## Mit einem Script zu allen Cams
+Das deutlich verbesserte Script der 2. Generation hat folgende Features:
 
-Die Vorteile dieser neuen Version sind
 * Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
 * Automatische Updates
 * Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
@@ -70,6 +69,8 @@ Die Vorteile dieser neuen Version sind
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
+Das vorherige Script (die "Nerd-Version" ;-) ) wird weiterhin genutzt für die [Livespotting Cams](#LivespottingWebcamsCoast) an der Nordsee.
+Wie das geht, steht [hier](#Nerd-Version).
 
 ----------------------------------------------------
 
@@ -146,8 +147,6 @@ Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang.
 Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher.    
 So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.   
 
-Es wird aber im Herbst spannend, wenn iOS 16 kommt. Die Vorberichte deuten an, dass man Widgets dann auch auf den Sperrbildschirm legen kann. Das macht die Sicht auf die Cams noch angenehmer.    
-
 Diese wenigen Schritte sind heute auszuführen:   
 
 
@@ -180,9 +179,9 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="ZusammenfassungKurzbefehle"></div><BR>
+<div id="UebersichtKurzbefehle"></div><BR>
 
-## Zusammenfassung Kurzbefehle und Anleitung Einrichtung auf Homescreen      
+## Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen      
 
 
 #### Sylt-Cams
@@ -423,10 +422,11 @@ Diese Webcams sind eingebunden:
 
 
 ------------------------------------------------
-
+<div id="LivespottingWebcamsCoast"></div><BR>
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
 In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams von [https://livespotting.tv](https://livespotting.tv) der Kategorie "Coast" eingebunden:
+Die Einrichtung ist [hier](#Nerd-Version) beschrieben. Das aufzurufende Script heißt <b>WWS_Livespotting_Coast</b>
 
       1: Live aus dem Seebad Warnemünde am Alten Strom
       2: Live-Streaming im Fischereihafen Neuharlingersiel
@@ -604,6 +604,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 <img src="images/Sunset_api_displayedtext.jpeg" title="Sunset_api_didplayedtext" width="300"><br>    
 
 ----------------------------------------------------
+<div id="Nerd-Version"></div><BR>
 ### 18.06.2022: iPhone Nerd Version
 
 Warum eine Nerd-Version?
@@ -624,11 +625,23 @@ Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" 
 
 Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit. Da steht noch etwas anderes zu "When interacting", aber dieser Wert kann so stehen bleiben.
 
+
 <table class="center">
   <tr>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/8d46e117081f48a89b25cfe9b9cb06ab"><img src="images/WWS_Shortcut.jpg" title="Link zum Kurzbefehl zum Installieren" height="200"></a></td>
   </tr>
 </table>
+
+**Update 09.07.2023**
+
+Der Kurzbefehl <b>Update WWSylt</b> kopiert die Scripte für diese Nerd-Version auf das iPhone in die Scriptable App. Folgende Scripte stehen dann für diese Version in Scriptable zur Verfügung:
+
+- WWS_Syltcams
+- WWS_Syltfaehre
+- WWS_Syltshuttle
+- WWS_CSML-Edition
+- WWS_Surfcams_Bayern
+- WWS_Livespotting_Coast
 
 ------------------------------------------------
 ### 17.06.2022: Einführung von Kurzbefehlen für erleichtertes Einrichten und Updaten
