@@ -147,8 +147,6 @@ Das Einrichten der Widgets auf dem Homescreen bietet den vollen Funktionsumfang.
 Der hier beschriebene Weg zum Einrichten der Widgets auf dem Homescreen ist von Apple so vorgegeben, mit der aktuellen iOS-Version geht nicht einfacher.    
 So auch bestätigt vom Entwickler von Scriptable, Simon B. Støvring.   
 
-Es wird aber im Herbst spannend, wenn iOS 16 kommt. Die Vorberichte deuten an, dass man Widgets dann auch auf den Sperrbildschirm legen kann. Das macht die Sicht auf die Cams noch angenehmer.    
-
 Diese wenigen Schritte sind heute auszuführen:   
 
 
