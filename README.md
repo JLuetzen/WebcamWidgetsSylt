@@ -70,7 +70,7 @@ Das deutlich verbesserte Script der 2. Generation hat folgende Features:
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
 Das vorherige Script (die "Nerd-Version" ;-) ) wird weiterhin genutzt für die [Livespotting Cams](#LivespottingWebcamsCoast) an der Nordsee.
-Wie das geht steht [hier](#Nerd-Version).
+Wie das geht, steht [hier](#Nerd-Version).
 
 ----------------------------------------------------
 
@@ -634,7 +634,8 @@ Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetz
   </tr>
 </table>
 
-**Update 9.07.2023**
+**Update 09.07.2023**
+
 Der Kurzbefehl <b>Update WWSylt</b> kopiert die Scripte für diese Nerd-Version auf das iPhone in die Scriptable App. Folgende Scripte stehen dann für diese Version in Scriptable zur Verfügung:
 
 - WWS_Syltcams
