@@ -43,7 +43,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 
 ## Inhalt
 * [Mit einem Script zu allen Cams](#EinsfuerAlles)  
-* [Übersicht Kurzbefehle und Anleitung Einrichtung auf Homescreen](#UebersichtKurzbefehle)  
+* [Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen](#UebersichtKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
 * [Liste der Cams](#ListederCams)   
@@ -183,7 +183,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 -----
 <div id="UebersichtKurzbefehle"></div><BR>
 
-## Übersicht Kurzbefehle und Anleitung Einrichtung auf Homescreen      
+## Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen      
 
 
 #### Sylt-Cams
