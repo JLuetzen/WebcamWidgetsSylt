@@ -69,6 +69,8 @@ Das deutlich verbesserte Script der 2. Generation hat folgende Features:
 * tägliche Aktualisierung der WebCam-Listen
 * News-Zeile, falls notwendig (zeigt sich dann im Widget links oberhalb Datum/Uhrzeit)
 
+![image](images/WWS_Beispielbild.jpeg "Beispielbild")
+
 Das vorherige Script (die "Nerd-Version" ;-) ) wird weiterhin genutzt für die [Livespotting Cams](#LivespottingWebcamsCoast) an der Nordsee.
 Wie das geht, steht [hier](#Nerd-Version).
 
