@@ -2,6 +2,15 @@
 
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7N5ZHXS4KK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7N5ZHXS4KK');
+</script>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
