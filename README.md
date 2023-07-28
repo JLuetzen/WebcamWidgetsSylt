@@ -13,6 +13,17 @@
 <!--- <script src="js.md" type="text/javascript"></script> --->
 <script src="script.js" type="text/javascript"></script>
 {% include google-analytics.html %}  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q6GZV3PF0L');
+</script>
+
+
 </head>
 
 <div id="progress-bar"></div>
@@ -561,9 +572,9 @@ Diese Neuigkeit wurde im heutigen Newsletter erwähnt und die Website [https://w
 
 ----------------------------------------------------
 ### 20.04.2023: Friesenkapelle Wenningstedt
-Die Panorama-Cam in der Friesenkapelle Wenningstedt ist neu mit aufgenommen. 
-Arbeiten an einem GitBook zur Dokumentation sind begonnen. 
-      
+Die Panorama-Cam in der Friesenkapelle Wenningstedt ist neu mit aufgenommen.
+Arbeiten an einem GitBook zur Dokumentation sind begonnen.
+
 ----------------------------------------------------
 ### 13.03.2023: Für alle Android- und PC-Benutzer
 Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Einfach dem Link ... folgen
