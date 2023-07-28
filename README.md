@@ -12,7 +12,18 @@
 
 <!--- <script src="js.md" type="text/javascript"></script> --->
 <script src="script.js" type="text/javascript"></script>
+
 {% include google-analytics.html %}  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q6GZV3PF0L');
+</script>
+
 </head>
 
 <div id="progress-bar"></div>
