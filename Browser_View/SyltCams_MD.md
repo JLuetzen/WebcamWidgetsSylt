@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="../stylesheet.css">
   <script src="../script.js" type="text/javascript"></script>
-{% include google-analytics.html %}
+  {% include google-analytics.html %}
 </head>
 
 <div id="progress-bar"></div>
