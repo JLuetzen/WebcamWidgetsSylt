@@ -2,14 +2,14 @@
 
 
 <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7N5ZHXS4KK"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-7N5ZHXS4KK');
+  gtag('config', 'G-Q6GZV3PF0L');
 </script>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
