@@ -12,7 +12,7 @@
 
 <!--- <script src="js.md" type="text/javascript"></script> --->
 <script src="script.js" type="text/javascript"></script>
-{% include google_analytics.html %}  
+{% include google-analytics.html %}  
 </head>
 
 <div id="progress-bar"></div>
