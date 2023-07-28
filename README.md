@@ -12,6 +12,7 @@
 
 <!--- <script src="js.md" type="text/javascript"></script> --->
 <script src="script.js" type="text/javascript"></script>
+
 {% include google-analytics.html %}  
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
