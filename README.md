@@ -24,6 +24,10 @@
   gtag('config', 'G-Q6GZV3PF0L');
 </script>
 
+<!--- Google adSense Abschnitt --->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
+     crossorigin="anonymous"></script>
+
 
 </head>
 
