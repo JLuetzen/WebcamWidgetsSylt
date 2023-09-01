@@ -2,6 +2,7 @@
 
 
 <head>
+
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
@@ -65,9 +66,6 @@ function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(
 
 window.__h82AlnkH6D91__("WyJwdWItNjMyMjAxMjM1NjIzOTIxMSIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi02MzIyMDEyMzU2MjM5MjExIl0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hVUTJPSkczT29iVHZkQkxHOXZXdnphT0JHTlhkTXdSd25TMTBYUHFSbHVNUTJPS2t2THBXa2R4OVZUcXIwTmlWYndNaWE1Z1VzU1l2Z083VnM1WE81c1pBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFU1b1JTU3N3UTJ4OE1kOGRXNUFQdnVHTUg1SW9yMFRIQWFzN2J1YXNOVG1GeGhFVW1zNFhxLWpEbkN1RTFzZW9MLTI0NWNyRGdfamRONktiTm9zSjZTUGdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFV0dVN2NUF2VzdSSktHSFRFemc2X1BlMW5EVy1hc1FwQ1NCMmdkUGJodlJ0Wk9ETTZOdW9COTVnYUdLdHdnc1BVMVF4dFhLYTN5MGFFQTgxbEJCVzYwNmdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFhPMmZTYWVVRy1nOW9LOVJMOVpjUlpGaXVvdzNMZVcyR3RldFR1VVNweXdhMkxibzFVX0JDSndaRmlJejBUZDB4UUV4ZUgwbDVhcHBxUU1abmFaVy10SEFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUWXpNakl3TVRJek5UWXlNemt5TVRFXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi02MzIyMDEyMzU2MjM5MjExLmpzP3VzcXBcdTAwM2RDQUUiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4VnNxT1U0bi1vRzJkZE5BZmwtR3lKaVFHNFpCdWJfMGJSZ2dWUDRLTUR4ODhMcm5nMklJNzVYYTFJVGYya3J2NGJkQmZwV01PeWZTZi1NNmdGdnlzZDl0d1x1MDAzZFx1MDAzZCJd");</script>
 
-<!--- adSense Verknüpfung --->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
-     crossorigin="anonymous"></script>
 
 </head>
 
