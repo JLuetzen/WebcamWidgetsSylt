@@ -106,6 +106,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [News and Updates](#NewsUpdates)
 * [Lizenz](#Lizenz)
 * [Datenschutz-Erklärung](#Datenschutz-Erklärung)
+* [Impressum](#Impressum)
 
 
 
@@ -787,6 +788,6 @@ Hier ist der Link zur [Datenschutz-Erklärung](https://wwsylt.live/datenschutz/d
 ----------------------------------------------------
 <div id="Impressum"></div><BR>
 
-## Impressumg:
+## Impressum:
 
 Hier ist der Link zum [Impressum](https://wwsylt.live/impressum/impressum.html)
