@@ -780,7 +780,7 @@ Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License]
 
 ## Datenschutz-Erklärung:
 
-Hier ist der Link zur [Datenschutz-Erklärung](https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html)
+Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html">Datenschutz-Erklärung</a>
 
 
 [Zurück zum Seitenanfang](#Top)
@@ -790,4 +790,4 @@ Hier ist der Link zur [Datenschutz-Erklärung](https://wwsylt.live/datenschutz/W
 
 ## Impressum:
 
-Hier ist der Link zum [Impressum](https://wwsylt.live/impressum/Impressum.html)
+Hier ist der Link zum <a href="https://wwsylt.live/impressum/Impressum.html">Impressum</a>
