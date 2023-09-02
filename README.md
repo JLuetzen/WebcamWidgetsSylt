@@ -105,6 +105,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be
 * [Danke an meine Unterstützer](#Danksagung)  
 * [News and Updates](#NewsUpdates)
 * [Lizenz](#Lizenz)
+* [Datenschutz-Erklärung](#Datenschutz-Erklärung)
 
 
 
@@ -763,9 +764,19 @@ Ihr werdet sehen, das ist alles sehr einfach.
 [Zurück zum Seitenanfang](#Top)
 
 ------------------------------------------------
------
+
 <div id=Lizenz></div><BR>
 
 ## Lizenz:
 
 Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License](https://github.com/JLuetzen/WebcamWidgetsSylt/blob/main/LICENSE)
+
+
+[Zurück zum Seitenanfang](#Top)
+
+----------------------------------------------------
+<div id="Datenschutz-Erklärung"></div><BR>
+
+## Datenschutz-Erklärung:
+
+Hier ist der Link zur [Datenschutz-Erklärung](https://wwsylt.live/datenschutz/dsgvo.html)
