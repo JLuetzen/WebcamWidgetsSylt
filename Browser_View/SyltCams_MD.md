@@ -90,7 +90,9 @@ only the Cams... purely Sylt
 [![IMG](https://list.nordwind-ev.de/preview-list-hafen.jpg)](https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr5806_0)
 [https://www.list-sylt.de](https://www.list-sylt.de)
 
-
-
 <BR>
 [back](https://wwsylt.live/#InstantView)
+<BR>
+<BR>
+<a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz-Erklärung</a>
+<a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
