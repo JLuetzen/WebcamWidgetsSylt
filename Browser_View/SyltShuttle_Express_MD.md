@@ -71,5 +71,5 @@ only the Cams... purely Sylt - Transportation
 
 <BR>
 <BR>
-<a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz-Erklärung</a>
+<a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz-Erklärung</a><BR>
 <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
