@@ -44,7 +44,7 @@ switch (myFilename) {
 	// *****************************
 
 
-	case ("WWS_CamAmRing_GrandPrixStrecke"):
+	case ("WWS_CamsAmRing_GrandPrixStrecke"):
 		CamFamily = "- Teaser Nürburgring -";
 		GitHubCamFile = "Cams_am_Ring.txt";
 		sourceURL = "https://wwsylt.live";
@@ -56,7 +56,7 @@ switch (myFilename) {
 	break;
 
 
-	case ("WWS_CamAmRing_ZufahrtNordschleife"):
+	case ("WWS_CamsAmRing_ZufahrtNordschleife"):
 		CamFamily = "- Teaser Nürburgring -";
 		GitHubCamFile = "Cams_am_Ring.txt";
 		sourceURL = "https://wwsylt.live";
