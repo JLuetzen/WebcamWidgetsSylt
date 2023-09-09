@@ -1,0 +1,2 @@
+Nürburgring Grand Prix-Strecke;https://www.nuerburgring.de/;50.332991;6.945462;https://live-image.panomax.com/cams/2835/recent_reduced.jpg;https://panorama.nuerburgring.de/nordschleife-start
+Nürburgring Zufahrt Nordschleife;https://www.nuerburgring.de/;50.332991;6.945462;https://live-image.panomax.com/cams/2527/recent_reduced.jpg;https://nuerburgring.panomax.com/grand-prix
