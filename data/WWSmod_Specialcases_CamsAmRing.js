@@ -307,6 +307,12 @@ switch ( camLocation ) {
 		console.log("Kochelsee oder Surfcam gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case("Nürburgring Grand Prix-Strecke")
+	case ("Nürburgring Zufahrt Nordschleife"):
+		customLogoName = "WWS_Logo_CamsAmRing.png";
+		console.log("Nürburgring gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	default:
 		customLogoName = "noCustomLogo"
 		console.log("kein CustomLogoName");
