@@ -15,8 +15,8 @@ const GitHubMasterScriptFile = "WWS_Master_singles_CamsAmRing"
 // var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,localWidgetfile+".js");
 //
 // WWS_CamAmRing
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_CamAmRing_GrandPrixStrecke.js");
-var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_CamAmRing_ZufahrtNordschleife.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_CamsAmRing_GrandPrixStrecke.js");
+var scriptfile = await copyFile(GitHubMasterScriptFile+".js",GitHubDataPath,"WWS_CamsAmRing_ZufahrtNordschleife.js");
 
 
 Script.complete();
