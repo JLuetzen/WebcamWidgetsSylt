@@ -46,7 +46,7 @@
 		timestamp = lastrefresh.string(actualdate);
 		time = timestamp.substr(-5);
 
-/*
+
 switch ( camProvider ) {
 
 	case ("https://www.addicted-sports.com") :
@@ -238,7 +238,7 @@ switch ( camProvider ) {
 
 } // Ende switch
 
-*/
+
 
 //
 // Ab hier gehts um das Custom logo
