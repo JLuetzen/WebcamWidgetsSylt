@@ -685,6 +685,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 -->
 ----------------------------------------------------
 <div id="Nerd-Version"></div><BR>
+
 ### 18.06.2022: iPhone Nerd Version
 
 Warum eine Nerd-Version?
