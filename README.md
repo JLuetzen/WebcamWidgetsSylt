@@ -387,6 +387,7 @@ Die Firma Livespotting hat einen Blog-Eintrag zu diesem Projekt veröffentlicht:
 ![Livespotting_Blog_Eintrag](images/livestreaming-open-source-app-sylt.jpg "livestreaming-open-source-app-sylt")
 
 
+<!-- 
 ------------------------------------------------
 
 ### 2,99 € für die Kaffeedose
@@ -398,6 +399,8 @@ Wenn Euch die Widgets gefallen, würde ich mich über einen Einwurf in meine Kaf
 
 
 Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [kliffkieker67@gmail.com](mailto:kliffkieker67@gmail.com).
+
+-->
 
 ------------------------------------------------
 
