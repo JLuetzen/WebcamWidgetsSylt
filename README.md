@@ -604,10 +604,12 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 - [A. Konarski](http://www.konarski-wuppertal.de/andreaskw/Javascript.html)
 
 
+<!-- 
 ------------------------------------------------
 #### Hashtags:
 #sylt #sychtig #syltliebe #kampensylt #einflirtfürsleben #syltfähre
 #webcamwidgets #webcamwidgetssylt
+-->
 
 [Zurück zum Seitenanfang](#Top)
 
@@ -636,6 +638,7 @@ Diese Neuigkeit wurde im heutigen Newsletter erwähnt und die Website [https://w
 Die Panorama-Cam in der Friesenkapelle Wenningstedt ist neu mit aufgenommen.
 Arbeiten an einem GitBook zur Dokumentation sind begonnen.
 
+<!---
 ----------------------------------------------------
 ### 13.03.2023: Für alle Android- und PC-Benutzer
 Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Einfach dem Link ... folgen
@@ -644,11 +647,13 @@ Für alle Android- und PC-Benutzer wurde eine Browser-Lösung bereitgestellt. Ei
 ### 28.08.2022: Sonnenauf- und Untergangszeiten angepasst
 Die Berechnung der Sonnenauf- und Untergangszeiten wurde von "Bürgerliche Dämmerung" umgestellt auf Sonnenauf- und Untergang, so wie sie zB in Wetter-Apps für den Standort angegeben werden.
 
+-->
 ----------------------------------------------------
 ### 14.08.2022: Livespotting Coast Cams Version verfügbar
 Seit heute gibt es die aktuell 58 Coast Cams bei Livespotting auch als Widget. Dazu die den Kurzbefehl der iPhone Nerd Version (s.a. weiter unten) laden und ausführen. Dadurch werden die Ur-Scripte der Nerd-Version aufs iPhone kopiert, auch das neue Script für die Livespotting Coast Cams.<BR>
 Diese Coast-Cams stecken im Script "WWS_Livespotting_Coast". Viel Spaß damit!<BR>
 
+<!--
 ----------------------------------------------------
 ### 10.08.2022: Neue Script-Version: Widget zeigt Update Hinweis
 Die Widgets sind so erweitert, dass bei Verfügbarkeit einer neuen Version im Widget ein Hinweis zum Updaten dargestellt wird.
@@ -677,6 +682,7 @@ Der Fehler wird jetzt abgefangen und sollte nicht mehr auftreten.
 Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeiten verfügbar sind. <br>
 <img src="images/Sunset_api_displayedtext.jpeg" title="Sunset_api_didplayedtext" width="300"><br>    
 
+-->
 ----------------------------------------------------
 <div id="Nerd-Version"></div><BR>
 ### 18.06.2022: iPhone Nerd Version
@@ -697,8 +703,8 @@ Daher die "Singles"-Version oben, für jede Cam gibt es genau ein Script mit ein
 Wer es eher etwas aufgeräumt in seinem Scriptable Folder auf dem iCloud Drive mag, kann diese Version hier verwenden.     
 Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" nicht verändern und nur den Wert von "Parameter" mit einer Zahl ab 1 füllen, bis das Maximum erreicht wurde (steht im Widget).
 
-Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit. Da steht noch etwas anderes zu "When interacting", aber dieser Wert kann so stehen bleiben.
-
+<!-- Im Gist ist das auch noch einmal erklärt. [HIER](https://gist.github.com/JLuetzen/c30ec199e664938198e8f38e16a2aed6) stehts bereit. Da steht noch etwas anderes zu "When interacting", aber dieser Wert kann so stehen bleiben.
+-->
 
 <table class="center">
   <tr>
@@ -717,6 +723,7 @@ Der Kurzbefehl <b>Update WWSylt</b> kopiert die Scripte für diese Nerd-Version 
 - WWS_Surfcams_Bayern
 - WWS_Livespotting_Coast
 
+<!--
 ------------------------------------------------
 ### 17.06.2022: Einführung von Kurzbefehlen für erleichtertes Einrichten und Updaten
 Erleichterte Installation durch einen iPhone Kurzbefehl. Der lädt das Update-Script und das wiederum speichert die Scripts für die Widgets wie benötigt. Das machts extrem leicht, die Widgets zu nutzen. Das Einrichten der Widgets (Homescreen drücken, bis die Symbole wackeln,...) muss erst einmal weiter von Hand gemacht werden. Aber wer weiß schon was iOS 16 kann oder ob ich nicht doch einmal eine App in den Store bringe.. ;-)
@@ -779,6 +786,8 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 
 [Zurück zum Seitenanfang](#Top)
+
+-->
 
 ------------------------------------------------
 
