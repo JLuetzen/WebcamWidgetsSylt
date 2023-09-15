@@ -712,6 +712,7 @@ Beim Einrichten der Widgets auf dem Homescreen dann den Wert "When Interacting" 
   </tr>
 </table>
 
+<!--
 **Update 09.07.2023**
 
 Der Kurzbefehl <b>Update WWSylt</b> kopiert die Scripte für diese Nerd-Version auf das iPhone in die Scriptable App. Folgende Scripte stehen dann für diese Version in Scriptable zur Verfügung:
