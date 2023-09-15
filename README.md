@@ -408,11 +408,10 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 
 <img src="https://user-images.githubusercontent.com/76537507/125843823-b743bf3d-b305-4e16-9646-dd337ec3472e.jpeg" title="Aufkleber" height="400" />
 
-Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
-
+<!-- Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
+-->
 Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie. Sie halten ca. 2 Jahre, wie ich jetzt festgestellt habe.
 
-Versand erfolgt allerdings nur innerhalb Deutschlands.
 
 [Zurück zum Seitenanfang](#Top)
 
