@@ -7,8 +7,22 @@
 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
-<!--- Opt Out Datenschutz.org -->
+<!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
 <script>
+var gaProperty = 'G-Q6GZV3PF0L';
+var disableStr = 'ga-disable-' + gaProperty;
+if (document.cookie.indexOf(disableStr + '=true') > -1) {
+	window[disableStr] = true;
+}
+
+function gaOptout() {
+	document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	window[disableStr] = true;
+}
+
+</script>
+
+<!---  <script>
 	var gaProperty = 'G-Q6GZV3PF0L';
 	var disableStr = 'ga-disable-' + gaProperty;
 	if (document.cookie.indexOf(disableStr + '=true') > -1) {
@@ -19,8 +33,9 @@
 	path=/';
 	window[disableStr] = true;
 	}
-</script>
+</script> -->
 <!--- ENDE Opt Out Datenschutz.org -->
+
 <!--- {% include google-analytics.html %}  --->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
 <script>
