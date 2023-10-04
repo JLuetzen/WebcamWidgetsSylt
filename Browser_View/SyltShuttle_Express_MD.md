@@ -7,7 +7,15 @@
 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
-  {% include google-analytics.html %}
+<!--- {% include google-analytics.html %}  --->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q6GZV3PF0L');
+</script>
 
 </head>
 

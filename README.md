@@ -8,7 +8,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
-{% include google-analytics.html %}  
+<!--- {% include google-analytics.html %}  --->
 
 <!-- Start cookieyes banner -->
 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
