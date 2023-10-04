@@ -1,8 +1,7 @@
 <head>
 
-
-  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
   <script src="../script.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
 
 <!-- Start cookieyes banner -->
 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
