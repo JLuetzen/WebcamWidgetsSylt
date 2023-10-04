@@ -8,9 +8,19 @@
 <!-- End cookieyes banner -->
 
 <!--- Opt Out Datenschutz.org -->
-<script><br />var gaProperty = ‚G-Q6GZV3PF0L‘;<br />var disableStr = ‚ga-disable-‚ + gaProperty;<br />if (document.cookie.indexOf(disableStr + ‚=true‘) > -1) {<br />window[disableStr] = true;<br />}<br />function gaOptout() {<br />document.cookie = disableStr + ‚=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/‘;<br />window[disableStr] = true;<br />}<br /></script>
+<script>
+	var gaProperty = 'G-Q6GZV3PF0L';
+	var disableStr = 'ga-disable-' + gaProperty;
+	if (document.cookie.indexOf(disableStr + '=true') > -1) {
+	window[disableStr] = true;
+	}
+	function gaOptout() {
+	document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC;
+	path=/';
+	window[disableStr] = true;
+	}
+</script>
 <!--- ENDE Opt Out Datenschutz.org -->
-
 <!--- {% include google-analytics.html %}  --->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
 <script>
