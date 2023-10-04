@@ -3,15 +3,6 @@
 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
-
-<!-- Google Tag Manager -->
-<!--- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MQL9P9RH');</script> --->‚‚
-<!-- End Google Tag Manager -->
-
   <link rel="stylesheet" type="text/css" href="../stylesheet.css">
   <script src="../script.js" type="text/javascript"></script>
   {% include google-analytics.html %}
@@ -21,11 +12,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        crossorigin="anonymous"></script>
 
 </head>
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQL9P9RH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 <div id="progress-bar"></div>
 
