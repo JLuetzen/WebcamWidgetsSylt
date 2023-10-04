@@ -1,16 +1,15 @@
 <head>
+
+
+  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
+  <script src="../script.js" type="text/javascript"></script>
+
 <!-- Start cookieyes banner -->
 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
-  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
-  <script src="../script.js" type="text/javascript"></script>
   {% include google-analytics.html %}
 
-  <!--- adSense Verknüpfung --->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
-       crossorigin="anonymous"></script>
-       
 </head>
 
 <div id="progress-bar"></div>

@@ -11,8 +11,8 @@
 
 {% include google-analytics.html %}  
 
-<!-- Start cookieyes banner --> 
-<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script> 
+<!-- Start cookieyes banner -->
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
@@ -23,13 +23,6 @@
 
   gtag('config', 'G-Q6GZV3PF0L');
 </script>
-
-<!--- Google adSense Abschnitt allgemein --->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
-     crossorigin="anonymous"></script>
-
-<!--- Google adSense Abschnitt Ausgleich von Werbeumsatz --->
-<script async src="https://fundingchoicesmessages.google.com/i/pub-6322012356239211?ers=1" nonce="n4bX-ijz441N4FV_9S7ubA"></script><script nonce="n4bX-ijz441N4FV_9S7ubA">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 
 </head>
 
