@@ -8,42 +8,27 @@
 <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
-<!--- {% include google-analytics.html %}  --->
-
 <!-- Start cookieyes banner -->
 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
 <!-- End cookieyes banner -->
 
 <!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
 <script>
-var gaProperty = 'G-Q6GZV3PF0L';
-var disableStr = 'ga-disable-' + gaProperty;
-if (document.cookie.indexOf(disableStr + '=true') > -1) {
-	window[disableStr] = true;
-}
-
-function gaOptout() {
-	document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-	window[disableStr] = true;
-}
-
-</script>
-
-<!---  <script>
 	var gaProperty = 'G-Q6GZV3PF0L';
 	var disableStr = 'ga-disable-' + gaProperty;
 	if (document.cookie.indexOf(disableStr + '=true') > -1) {
-	window[disableStr] = true;
+		window[disableStr] = true;
 	}
-	function gaOptout() {
-	document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC;
-	path=/';
-	window[disableStr] = true;
-	}
-</script> -->
-<!--- ENDE Opt Out Datenschutz.org -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
+	function gaOptout() {
+		document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+		window[disableStr] = true;
+	}
+</script>
+
+<!--- Google Analytics --->
+{% include google-analytics.html %}
+<!--- <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6GZV3PF0L"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -51,6 +36,7 @@ function gaOptout() {
 
   gtag('config', 'G-Q6GZV3PF0L', {'anonymize_ip': true});
 </script>
+-->
 
 </head>
 
