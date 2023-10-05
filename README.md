@@ -9,11 +9,13 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!-- Start cookieyes banner -->
-<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script>
+{% include cookieyes.html %}
+<!--- <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/0af915704dddabe75ee7f732/script.js"></script> --->
 <!-- End cookieyes banner -->
 
 <!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
-<script>
+{% include optout.html %}
+<!---<script>
 	var gaProperty = 'G-Q6GZV3PF0L';
 	var disableStr = 'ga-disable-' + gaProperty;
 	if (document.cookie.indexOf(disableStr + '=true') > -1) {
@@ -25,6 +27,7 @@
 		window[disableStr] = true;
 	}
 </script>
+--->
 
 <!--- Google Analytics --->
 {% include google-analytics.html %}
