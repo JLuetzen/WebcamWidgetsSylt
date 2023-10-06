@@ -17,6 +17,9 @@
 <!--- Google Analytics --->
 {% include google-analytics.html %}
 
+<!--- Google AdSense --->
+{% include google-adsense.html %}
+
 </head>
 
 <div id="progress-bar"></div>
