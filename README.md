@@ -31,7 +31,7 @@
 
 # Webcam Widgets Sylt -  live auf dem iPhone
 
-<marquee>27.09.23 Script not found .. dieser Fehler ist behoben mit der Scriptable App Version 1.7.8.</marquee><BR>
+<marquee>21.10.2023 Ich kämpfe damit, diese Seite bei adSense durch das Freigabeverfahren zu bringen. Wer kann helfen?</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
