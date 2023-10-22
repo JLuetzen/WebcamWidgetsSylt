@@ -43,8 +43,6 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
 
 <iframe width="350" height="197" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!--- {% include youtubePlayer.html id="xDe2LnULC7Y?si=sAVapWwk-IQWPzTs" %}--->
-
 <BR>
 
 -----
