@@ -39,9 +39,9 @@
 Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
 Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
-Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: [https://youtu.be/xDe2LnULC7Y](https://youtu.be/xDe2LnULC7Y)
+Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
 
-{% include youtubePlayer.html id="xDe2LnULC7Y" %}
+<iframe width="350" height="197" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <BR>
 
