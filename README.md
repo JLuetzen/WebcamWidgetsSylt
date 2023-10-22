@@ -41,7 +41,7 @@ Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
 
 Wie das genau auf dem Smartphone aussieht, zeigt dieses Video: 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="350" height="197" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {% include youtubePlayer.html id="xDe2LnULC7Y?si=sAVapWwk-IQWPzTs" %}
 
