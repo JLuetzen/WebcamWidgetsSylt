@@ -39,7 +39,7 @@
 
 <div id="navbar">
 <a class="active" href="https://wwsylt.live/#Top">Home</a>
-<a href="https://wwsylt.live/#NewsUpdates">News & Updates</a>
+<a href="https://wwsylt.live/#NewsUpdates">News</a>
 <!---  <a href="javascript:void(0)">Contact</a>--->
 <!---  <a style="float:right" class="active" href="#about">About</a>-->
   <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
