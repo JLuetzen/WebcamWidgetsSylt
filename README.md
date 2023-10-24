@@ -1,7 +1,11 @@
 
 <head>
 
-<script src="script.js" type="text/javascript"></script>
+<script src="scripts/scrollbarscript.js" type="text/javascript"></script>
+<script src="scripts/navbarscript.js" type="text/javascript"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
@@ -30,6 +34,17 @@
 
 
 # Webcam Widgets Sylt -  live auf dem iPhone
+
+<div id="navbar">
+  <a class="active" href="javascript:void(0)">Home</a>
+  <a href="javascript:void(0)">News & Updates</a>
+<!---  <a href="javascript:void(0)">Contact</a>--->
+<!---  <a style="float:right" class="active" href="#about">About</a>-->
+  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
+  <a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+
+</div>
+
 
 <marquee>21.10.2023 Ich kämpfe damit, diese Seite bei adSense durch das Freigabeverfahren zu bringen. Wer kann helfen?</marquee><BR>
 

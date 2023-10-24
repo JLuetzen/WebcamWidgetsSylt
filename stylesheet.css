@@ -1,3 +1,4 @@
+/* keine Ahnung mehr, wofuer...*/
 .center {
   margin-left: auto;
   margin-right: auto;
@@ -29,5 +30,44 @@ img[src*='#right'] {
         right: 0px;
     }
 
+/* Navbar */
+/* https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
 
+  #navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
 
+  #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  #navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  #navbar a.active {
+    background-color: #1C6EAE;
+    color: white;
+  }
+
+  .content {
+    padding: 16px;
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky + .content {
+    padding-top: 60px;
+  }
