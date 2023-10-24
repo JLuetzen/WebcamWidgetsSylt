@@ -1,53 +1,49 @@
 
 <head>
 
-<script src="scripts/scrollbarscript.js" type="text/javascript"></script>
+  <script src="scripts/scrollbarscript.js" type="text/javascript"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
 
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <!-- Start cookieyes banner -->
+  {% include cookieyes.html %}
 
+  <!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
+  {% include optout.html %}
 
-<link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+  <!--- Google Analytics --->
+  {% include google-analytics.html %}
 
-<!-- Start cookieyes banner -->
-{% include cookieyes.html %}
-
-<!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
-{% include optout.html %}
-
-<!--- Google Analytics --->
-{% include google-analytics.html %}
-
-<!--- Google AdSense --->
-{% include google-adsense.html %}
+  <!--- Google AdSense --->
+  {% include google-adsense.html %}
 
 </head>
 
 <div id="progress-bar"></div>
-
-<div id="Top"></div><BR><BR>
+<div id="Top"></div>
+<div id="navbar">
+  <a class="active" href="https://wwsylt.live/#Top">Home</a>
+  <a href="https://wwsylt.live/#NewsUpdates">News</a>
+  <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
+  <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+  <!---  <a href="javascript:void(0)">Contact</a>--->
+  <!---  <a style="float:right" class="active" href="#about">About</a>-->
+  <!---  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
+  <a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+  --->
+</div><BR><BR>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
-
-# Webcam Widgets Sylt -  live auf dem iPhone
-
-<div id="navbar">
-<a class="active" href="https://wwsylt.live/#Top">Home</a>
-<a href="https://wwsylt.live/#NewsUpdates">News</a>
-<a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
-<a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
-<!---  <a href="javascript:void(0)">Contact</a>--->
-<!---  <a style="float:right" class="active" href="#about">About</a>-->
-<!---  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
-<a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
---->
-</div>
+# Webcam Widgets Sylt
 
 <br>
 <marquee>23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
@@ -589,7 +585,7 @@ Aber immerhin, ich finde, das sieht super aus:
 ### 08.06.2023: Neu: List
 Seit heute sind auch die Webcams der Gemeinde List auf Sylt eingebunden.  
 Das sind List Weststrand und List Hafen.
-Zudem konnten wir uns für die Friesenkapelle Wenningstedt auf das Logo verständigen. 
+Zudem konnten wir uns für die Friesenkapelle Wenningstedt auf das Logo verständigen.
 
 ----------------------------------------------------
 ### 06.06.2023: Neu: Hörnum Weststrand
