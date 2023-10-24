@@ -39,15 +39,18 @@
 
 <div id="navbar">
 <a class="active" href="https://wwsylt.live/#Top">Home</a>
-<a href="https://wwsylt.live/#NewsUpdates">News</a>
+<a href="https://wwsylt.live/#NewsUpdates">News & Updates</a>
+<a href="javascript:void(0)">    </a>
+<a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
+<a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
 <!---  <a href="javascript:void(0)">Contact</a>--->
 <!---  <a style="float:right" class="active" href="#about">About</a>-->
-  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
-  <a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
-
+<!---  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
+<a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+--->
 </div>
 
-
+<br>
 <marquee>21.10.2023 Ich kämpfe damit, diese Seite bei adSense durch das Freigabeverfahren zu bringen. Wer kann helfen?</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -75,8 +78,8 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
 * [Danke an meine Unterstützer](#Danksagung)  
 * [News and Updates](#NewsUpdates)
 * [Lizenz](#Lizenz)
-* [Datenschutz-Erklärung](#Datenschutz-Erklärung)
-* [Impressum](#Impressum)
+* <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+* <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
 
 
