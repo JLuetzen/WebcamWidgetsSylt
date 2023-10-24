@@ -5,7 +5,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" type="text/css" href="/_css/stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
