@@ -1,0 +1,8 @@
+SPO Badestelle Ording;https://www.st-peter-ording.de/;54.33407291501411;8.6034750572371;https://wtvpict.feratel.com/picture/38/3240.jpeg?design=noxdesign;http://webtv.feratel.com/webtv/?design=v4&cam=3240
+SPO Erlebnispromenade;https://www.st-peter-ording.de/;54.309830550170226;8.609622955831174;https://wtvpict.feratel.com/picture/38/3242.jpeg?design=noxdesign;http://webtv.feratel.com/webtv/?cam=3242&design=v3
+SPO Küstenpanorama;https://www.st-peter-ording.de/;54.31062862153412;8.619541326995574;https://cdn.livespotting.com/vpu/b43p0ebl/324j8hxo.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_10baz
+Büsum Perlebucht;https://www.buesum.de/;54.135765616385655;8.84352086134381;https://cdn.livespotting.com/vpu/tw0xvqm0/bc49630p.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_9a44c
+Büsum Hauptstrand;https://www.buesum.de/;54.12797065647242;8.85686753307092;https://cdn.livespotting.com/vpu/tw0xvqm0/8wxtwuru.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_e0b60
+Büsumer Deichhausen;https://www.buesumer-deichhausen-nordsee.de/;54.13495552484945;8.889408457993737;https://cdn.livespotting.com/vpu/9dvhd3wf/aetm7sg6.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=aetm7sg6
+Greetsiel Hafen;https://www.greetsiel.de;53.5021455217749;7.099510674056873;https://cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_78664
+Bardolino Color Hotel;https://www.colorhotel.it;45.542837;10.725371;https://www.foto-webcam.eu/webcam/bardolino/;https://www.foto-webcam.eu/webcam/bardolino/
