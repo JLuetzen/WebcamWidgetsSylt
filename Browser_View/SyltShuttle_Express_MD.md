@@ -1,7 +1,7 @@
 <head>
 
-  <script src="../script.js" type="text/javascript"></script>
-  <link rel="stylesheet" type="text/css" href="../stylesheet.css">
+  <script src="_scripts/scrollbarscript.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="_css/stylesheet.css">
 
 <!-- Start cookieyes banner -->
   	{% include cookieyes.html %}
