@@ -784,4 +784,4 @@ Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_D
 Hier ist der Link zum <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
 
-<script src="scripts/navbarscript.js" type="text/javascript"></script>
+<script src="_scripts/navbarscript.js" type="text/javascript"></script>
