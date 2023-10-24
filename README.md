@@ -1,11 +1,11 @@
 
 <head>
 
-  <script src="/_scripts/scrollbarscript.js" type="text/javascript"></script>
+  <script src="/scripts/scrollbarscript.js" type="text/javascript"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 
 
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
@@ -784,4 +784,4 @@ Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_D
 Hier ist der Link zum <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
 
-<script src="_scripts/navbarscript.js" type="text/javascript"></script>
+<script src="scripts/navbarscript.js" type="text/javascript"></script>
