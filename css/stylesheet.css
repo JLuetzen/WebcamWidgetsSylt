@@ -55,7 +55,7 @@ img[src*='#right'] {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 8px 12px;
     text-decoration: none;
     font-size: 12px;
   }
@@ -76,7 +76,7 @@ img[src*='#right'] {
 
   .sticky {
     position: fixed;
-    top: 0;
+    top: 6;
     width: 100%;
   }
 
