@@ -30,7 +30,7 @@
 
 <div id="progress-bar"></div>
 
-<div id="Top"></div><BR>
+<div id="Top"></div><BR><BR>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
@@ -50,7 +50,7 @@
 </div>
 
 <br>
-<marquee>21.10.2023 Ich kämpfe damit, diese Seite bei adSense durch das Freigabeverfahren zu bringen. Wer kann helfen?</marquee><BR>
+<marquee>23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -65,7 +65,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
 <BR>
 
 -----
-<div id="Inhalt"></div><BR>
+<div id="Inhalt"></div><BR><BR>
 
 ## Inhalt
 * [Mit einem Script zu allen Cams](#EinsfuerAlles)  
@@ -83,7 +83,7 @@ Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
 
 
 -----
-<div id="EinsfuerAlles"></div><BR>
+<div id="EinsfuerAlles"></div><BR><BR>
 
 ## Mit einem Script zu allen Cams
 Das deutlich verbesserte Script der 2. Generation hat folgende Features:
@@ -209,7 +209,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="UebersichtKurzbefehle"></div><BR>
+<div id="UebersichtKurzbefehle"></div><BR><BR>
 
 ## Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen      
 
@@ -280,7 +280,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="InstantView"></div><BR>
+<div id="InstantView"></div><BR><BR>
 
 ## Sofort-Ansicht im Browser - für Androiden und PC-Benutzer
 <br>
@@ -299,7 +299,7 @@ Extra-Seite:
 
 ------------------------------------------------
 -----
-<div id="WeitereHinweise"></div><BR>
+<div id="WeitereHinweise"></div><BR><BR>
 
 ## Weitere Hinweise
 
@@ -375,7 +375,7 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 ------------------------------------------------
 -----
-<div id="ListederCams"></div><BR>
+<div id="ListederCams"></div><BR><BR>
 
 ## Liste der Cams
 
@@ -454,7 +454,7 @@ Diese Webcams sind eingebunden:
 
 
 ------------------------------------------------
-<div id="LivespottingWebcamsCoast"></div><BR>
+<div id="LivespottingWebcamsCoast"></div><BR><BR>
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
 In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams von [https://livespotting.tv](https://livespotting.tv) der Kategorie "Coast" eingebunden:
@@ -525,7 +525,7 @@ Die Einrichtung ist [hier](#Nerd-Version) beschrieben. Das aufzurufende Script h
 
 ------------------------------------------------
 -----
-<div id="Daswillichauch"></div><BR>
+<div id="Daswillichauch"></div><BR><BR>
 
 ## "Das will ich auch haben..."
 
@@ -540,7 +540,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=Danksagung></div><BR>
+<div id=Danksagung></div><BR><BR>
 
 ## Danke an meine Unterstützer:
 
@@ -573,9 +573,18 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=NewsUpdates></div><BR>
+<div id=NewsUpdates></div><BR><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 24.10.2023: Widgets auf dem Desktop
+Mit MacOS Sonoma (14.0) kann man sich die Widgets auf den Desktop holen. Einfach rechte Maustaste -> Widgets.
+Die weitere Einrichtung erfolgt wie auch auf dem iPhone.
+Einzige Einschränkung: Ich habe es noch nicht geschafft, bei Klick auf ein Widget den Live-Stream der Cam auf dem Mac zu sehen.
+Aber immerhin, ich finde, das sieht super aus:
+
+![WidgetsAufMac](images/WidgetsAufMac.jpeg "Die Widgets auf dem Mac")
+
 ----------------------------------------------------
 ### 08.06.2023: Neu: List
 Seit heute sind auch die Webcams der Gemeinde List auf Sylt eingebunden.
@@ -642,7 +651,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 
 -->
 ----------------------------------------------------
-<div id="Nerd-Version"></div><BR>
+<div id="Nerd-Version"></div><BR><BR>
 
 ### 18.06.2022: iPhone Nerd Version
 
@@ -752,7 +761,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 ------------------------------------------------
 
-<div id=Lizenz></div><BR>
+<div id=Lizenz></div><BR><BR>
 
 ## Lizenz:
 
@@ -762,7 +771,7 @@ Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License]
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Datenschutz-Erklärung"></div><BR>
+<div id="Datenschutz-Erklärung"></div><BR><BR>
 
 ## Datenschutz-Erklärung:
 
@@ -772,7 +781,7 @@ Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_D
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Impressum"></div><BR>
+<div id="Impressum"></div><BR><BR>
 
 ## Impressum:
 
