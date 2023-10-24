@@ -40,7 +40,6 @@
 <div id="navbar">
 <a class="active" href="https://wwsylt.live/#Top">Home</a>
 <a href="https://wwsylt.live/#NewsUpdates">News</a>
-<a href="javascript:void(0)">    </a>
 <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
 <!---  <a href="javascript:void(0)">Contact</a>--->
