@@ -578,18 +578,18 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 ## News and Updates:
 ----------------------------------------------------
 ### 24.10.2023: Widgets auf dem Desktop
-Mit MacOS Sonoma (14.0) kann man sich die Widgets auf den Desktop holen. Einfach rechte Maustaste -> Widgets.
-Die weitere Einrichtung erfolgt wie auch auf dem iPhone.
-Einzige Einschränkung: Ich habe es noch nicht geschafft, bei Klick auf ein Widget den Live-Stream der Cam auf dem Mac zu sehen.
+Mit MacOS Sonoma (14.0) kann man sich die Widgets auf den Desktop holen. Einfach rechte Maustaste -> Widgets.   
+Die weitere Einrichtung erfolgt wie auch auf dem iPhone.   
+Einzige Einschränkung: Ich habe es noch nicht geschafft, bei Klick auf ein Widget den Live-Stream der Cam auf dem Mac zu sehen.  
 Aber immerhin, ich finde, das sieht super aus:
 
 ![WidgetsAufMac](images/WidgetsAufMac.jpeg "Die Widgets auf dem Mac")
 
 ----------------------------------------------------
 ### 08.06.2023: Neu: List
-Seit heute sind auch die Webcams der Gemeinde List auf Sylt eingebunden.
+Seit heute sind auch die Webcams der Gemeinde List auf Sylt eingebunden.  
 Das sind List Weststrand und List Hafen.
-Zudem konnten wir uns für die Friesenkapelle Wenningstedt auf das Logo verständigen.
+Zudem konnten wir uns für die Friesenkapelle Wenningstedt auf das Logo verständigen. 
 
 ----------------------------------------------------
 ### 06.06.2023: Neu: Hörnum Weststrand
