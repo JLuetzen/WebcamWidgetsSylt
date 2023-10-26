@@ -51,10 +51,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Einleitung
-Hier ist eine Sammlung von Webcam Widgets von Sylt. Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen und eben nicht nur das App-Symbol.
-Diese hier zeigen Bilder von WebCams auf der wundervollen Nordsee-Insel Sylt.
+**Herzlich willkommen** bei den Webcam Widgets Sylt.  
 
-Wie das genau auf dem Smartphone aussieht, zeigt dieses Video:
+Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
+Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf Sylt und mit einem Klick geht es dann zum Livestream.
+Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in List auf Sylt und auf Röm in Havneby.
+
+Aber nicht nur von Sylt. Ein paar Überraschungen sind weiter unten zu finden.
+Die Einrichtung ist kinderleicht und bei Problemen bin ich per Mail erreichbar.
+Das war seit 2020 erst zweimal nötig.
+
+Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses Video (In den News ist auch ein Hinweis, wie sie auf dem Mac aussehen):
 
 <iframe width="350" height="197" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
