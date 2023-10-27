@@ -1,2 +1,6 @@
-DEBUG;dev
-RELEASE;data
+{
+  "configs": [
+	{"DEBUG" : "dev"},
+	{"RELEASE" : "data"},
+  ]
+}
