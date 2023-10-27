@@ -1,6 +1,4 @@
-{
-  "configs": [
-	{"DEBUG" : "dev"},
-	{"RELEASE" : "data"},
-  ]
-}
+[
+	{"config": "DEBUG", "repo": "dev"},
+	{"config": "RELEASE", "repo": "data"}
+]
