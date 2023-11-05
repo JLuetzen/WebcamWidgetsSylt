@@ -1,4 +1,4 @@
 [
-	{"config": "DEBUG", "repo": "dev"},
-	{"config": "RELEASE", "repo": "data"}
+	{"config": "DEBUG", "repo": "dev", "camsmaster": "Cams_Master.json"},
+	{"config": "RELEASE", "repo": "data", "camsmaster": "Cams_Master.json"}
 ]
