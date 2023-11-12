@@ -46,12 +46,12 @@
 # Webcam Widgets Sylt
 
 <br>
-<marquee>23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
+<marquee>12.11.2023 Die Bilder der Cams auf dem Lockscreen... ein Kurzbefehl macht's möglich ..,,, Demnächst hier verfügbar     23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Einleitung
-**Herzlich willkommen** bei den Webcam Widgets Sylt.  
+**Herzlich willkommen** bei den **Webcam Widgets Sylt**.  
 
 Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
 Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf Sylt und mit einem Klick geht es dann zum Livestream.
@@ -71,7 +71,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 <div id="Inhalt"></div><BR><BR>
 
 ## Inhalt
-* [Mit einem Script zu allen Cams](#EinsfuerAlles)  
+* [Features & Functions](#EinsfuerAlles)  
 * [Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen](#UebersichtKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)   
@@ -88,12 +88,12 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 -----
 <div id="EinsfuerAlles"></div><BR><BR>
 
-## Mit einem Script zu allen Cams
-Das deutlich verbesserte Script der 2. Generation hat folgende Features:
+## Features & Functions
+Folgende Features werden geboten:
 
-* Vereinfachtes Einrichten durch **Kurzbefehl**, dazu den Kurzbefehl unten ausführen
+* Sehr leichtes Einrichten auf dem iPhone wie in **Der Ablauf in in 3 Schritten** beschrieben
 * Automatische Updates
-* Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
+* aktuelle Sonnenaufgangs- und Sonnenuntergangszeiten (im Widget rechts unten)
 * Nennung der Website, die die WebCam bereitstellt (im Widget rechts unten)
 * erleichterte Erweiterung um neue WebCams ohne Neu-Installation
 * Bessere Benutzerunterstützung bei fehlerhafter Einrichtung
