@@ -46,7 +46,7 @@
 # Webcam Widgets Sylt
 
 <br>
-<marquee>12.11.2023 Die Bilder der Cams auf dem Lockscreen... ein Kurzbefehl macht's möglich ..,,, Demnächst hier verfügbar     23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
+<marquee>19.11.2023 Die Bilder der Cams auf dem Lockscreen... ein Kurzbefehl macht's möglich ..,,, **JETZT** hier verfügbar     23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -74,7 +74,8 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * [Features & Functions](#EinsfuerAlles)  
 * [Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen](#UebersichtKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
-* [Weitere Hinweise](#WeitereHinweise)   
+* [Weitere Hinweise](#WeitereHinweise)
+* [Auf dem Sperrbildschirm / Lockscreen](#Lockscreen)
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
 * [Danke an meine Unterstützer](#Danksagung)  
@@ -372,6 +373,52 @@ Und wenn es irgendwo hakt, bei Fragen oder Problemen bin ich hier erreichbar: [k
 <!-- Ich gebe diese Aufkleber weg für 1,50 € pro Stück plus Porto (90 ct) , wenn Ihr den Betrag in die Paypal Kaffeedose einzahlt und mir per eMail Bescheid gebt.
 -->
 Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Folie. Sie halten ca. 2 Jahre, wie ich jetzt festgestellt habe.
+
+
+[Zurück zum Seitenanfang](#Top)
+
+------------------------------------------------
+-----
+<div id="Lockscreen"></div><BR><BR>
+
+## Für den Sperrbildschirm / Lockscreen
+
+Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.
+Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln.  
+
+<table class="center">
+  <tr>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/ead01a28b17c49578fa57bc5bf804117"><img src="images/WWS_Shortcut_Lockscreen.jpeg" title="Link zum Lockscreen-Kurzbefehl zum Installieren" height="200"></a></td>
+  </tr>
+</table>
+
+### Kurze Anleitung für die Einrichtung des Lockscreens:
+* Auf den Lockscreen tippen, bis ein neuer Lockscreen eingerichtet werden kann
+* rechts unten auf das blaue Pluszeichen tippen
+* in der oberen Reihe das 3. Symbol von rechts auswählen: "Zufällige Fotos"
+* Auswahl von "Album" und rechts "Favoriten", Album "WWS" wählen ("Personen", "Haustiere", "Natur" und "Städte" werden automatisch abgewählt)
+* "Häufigkeit der zufälligen Wiedergabe" stelle ich auf "Per Tippen"
+* Unten in blau "Album verwenden"
+* rechts oben auf "Hinzufügen", das iPhone speichert die Einstellungen
+* "Als Hintergrundbildpaar festlegen", dann noch einmal auf den Bildschirm tippen, um die Einrichtung des neuen Lockcreens abzuschliessen
+* durch Tippen auf den Sperrbildschirm das gewünschte Bild für den Hintergrund auswählen.
+
+
+### Kurze Anleitung für das _Update_ des Lockscreens:
+* den Kurzbefehl ausführen, um die neuen Bilder zu laden
+* Auf den Lockscreen tippen, bis ein neuer Lockscreen eingerichtet werden kann
+* auf dem aktuellen Lockscreen bleiben und "Anpassen" tippen
+* links auf den Sperrbildschirm tippen
+* unten links auf das Ordnersymbol tippen
+* auf "Abbrechen" tippen, weil das Album "WWS" schon ausgewählt ist
+* recht oben auf "Fertig" tippen
+* das iPhone speichert die Einstellungen, dann noch einmal auf den Bildschirm tippen, um die Änderung abzuschliessen
+* durch Tippen auf den Sperrbildschirm das gewünschte Bild für den Hintergrund auswählen.
+
+***Achtung**
+Das funktioniert aktuell nur mit iPhones, denn die Bilder werden auf das iPhone-Bildschirmformat 9:19,6 zugeschnitten
+Falls das jemand auf einem iPad ausprobieren möchte, müssten im Kurzbefehl die Aktionen "Bild zuschneiden" gelöscht werden.
+
 
 
 [Zurück zum Seitenanfang](#Top)
