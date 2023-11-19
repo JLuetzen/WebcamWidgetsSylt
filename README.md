@@ -383,14 +383,16 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 ## Für den Sperrbildschirm / Lockscreen
 
-Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.
-Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln.  
+Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.<BR>   
+Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln. <BR><BR>  
 
 <table class="center">
   <tr>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/ead01a28b17c49578fa57bc5bf804117"><img src="images/WWS_Shortcut_Lockscreen.jpeg" title="Link zum Lockscreen-Kurzbefehl zum Installieren" height="200"></a></td>
   </tr>
 </table>
+
+<BR>  
 
 ### Kurze Anleitung für die Einrichtung des Lockscreens:
 * Auf den Lockscreen tippen, bis ein neuer Lockscreen eingerichtet werden kann
@@ -415,8 +417,8 @@ Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem ne
 * das iPhone speichert die Einstellungen, dann noch einmal auf den Bildschirm tippen, um die Änderung abzuschliessen
 * durch Tippen auf den Sperrbildschirm das gewünschte Bild für den Hintergrund auswählen.
 
-***Achtung**
-Das funktioniert aktuell nur mit iPhones, denn die Bilder werden auf das iPhone-Bildschirmformat 9:19,6 zugeschnitten
+**Achtung**
+Das funktioniert aktuell nur mit iPhones, denn die Bilder werden auf das iPhone-Bildschirmformat 9:19,6 zugeschnitten.  
 Falls das jemand auf einem iPad ausprobieren möchte, müssten im Kurzbefehl die Aktionen "Bild zuschneiden" gelöscht werden.
 
 
