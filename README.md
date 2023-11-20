@@ -75,7 +75,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * [Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen](#UebersichtKurzbefehle)  
 * [Sofort-Ansicht im Browser - für Androiden und PC-Benutzer](#InstantView)
 * [Weitere Hinweise](#WeitereHinweise)
-* [Auf dem Sperrbildschirm / Lockscreen](#Lockscreen)
+* [Auf dem Sperrbildschirm / Lockscreen / Apple Watch](#Lockscreen)
 * [Liste der Cams](#ListederCams)   
 * ["Das will ich auch haben"](#Daswillichauch)
 * [Danke an meine Unterstützer](#Danksagung)  
@@ -381,10 +381,11 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 -----
 <div id="Lockscreen"></div><BR><BR>
 
-## Für den Sperrbildschirm / Lockscreen
+## Für den Sperrbildschirm / Lockscreen /Apple Watch
 
 Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.<BR>   
-Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln. <BR><BR>  
+Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln. <BR>
+Dieses Album kann natürlich auch mit der Apple Watch synchronisiert werden, damit man ein Zifferblatt mit den Bildern erstellen kann.<BR><BR>  
 
 <table class="center">
   <tr>
@@ -417,9 +418,40 @@ Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem ne
 * das iPhone speichert die Einstellungen, dann noch einmal auf den Bildschirm tippen, um die Änderung abzuschliessen
 * durch Tippen auf den Sperrbildschirm das gewünschte Bild für den Hintergrund auswählen.
 
-**Achtung**
+**Achtung**<BR>
 Das funktioniert aktuell nur mit iPhones, denn die Bilder werden auf das iPhone-Bildschirmformat 9:19,6 zugeschnitten.  
 Falls das jemand auf einem iPad ausprobieren möchte, müssten im Kurzbefehl die Aktionen "Bild zuschneiden" gelöscht werden.
+
+### Apple Watch
+Damit man die Cams als Zifferblatt auf der Apple Watch hat:
+* in der Watch App auf dem iPhone auf "Meine Watch", "Fotos"
+* "Fotosynchronisierung" aktivieren
+* dann "Album synchronisieren" und das Album "WWS" wählen
+
+Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
+**iPhone**<BR>
+* weiter in der Watch App, wechseln zu "Zifferblätter
+* herunterscrollen zu "Fotos"
+* Inhalt: Album, "WWS" auswählen
+* mit "Hinzufügen" an die Apple Watch senden
+
+**Apple Watch**<BRY>
+* lang auf den Screen tippen, bis die Zifferblätter erzeugt werden können
+* auf das Plus-Zeichen für ein neues Zifferblatt
+* nach unten scrollen zu "Fotos", rechts auf das Pluszeichen
+* die weiteren Eigenschaften festlegen
+<BR><BR>
+
+<table class="center">
+  <tr>
+    <td text align="center"><img src="images/AppleWatch_1.jpeg" title="Cams auf der AppleWatch" height="200"></td>
+  </tr>
+  <tr>
+    <td text align="center"><img src="images/AppleWatch_2.jpeg" title="Cams auf der AppleWatch" height="200"></td>
+  </tr>
+</table>
+
+
 
 
 
