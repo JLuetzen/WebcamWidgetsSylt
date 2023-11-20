@@ -385,6 +385,10 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.<BR>   
 Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln. <BR>
+
+<iframe width="350" height="197" src="https://youtu.be/1gHR29VnlLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<BR>
 Dieses Album kann natürlich auch mit der Apple Watch synchronisiert werden, damit man ein Zifferblatt mit den Bildern erstellen kann.<BR><BR>  
 
 <table class="center">
