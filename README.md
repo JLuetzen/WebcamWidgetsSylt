@@ -381,7 +381,7 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 -----
 <div id="Lockscreen"></div><BR><BR>
 
-## Für den Sperrbildschirm / Lockscreen /Apple Watch
+## Für den Sperrbildschirm / Lockscreen / Apple Watch
 
 Für den Sperrbildschirm gibt es einen Kurzbefehl, der die aktuellen Vorschaubilder der Cams auf dem iPhone in einem neuen Album "WWS" speichert.<BR>   
 Danach stellt man den Hintergrund vom Sperrbildschirm auf die Fotos in diesem neuen Album um und kann so durch die Cam-Bilder wechseln. <BR>
@@ -444,14 +444,10 @@ Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
 
 <table class="center">
   <tr>
-    <td text align="center"><img src="images/AppleWatch_1.jpeg" title="Cams auf der AppleWatch" height="200"></td>
-  </tr>
-  <tr>
-    <td text align="center"><img src="images/AppleWatch_2.jpeg" title="Cams auf der AppleWatch" height="200"></td>
+    <td text align="center"><a href="images/AppleWatch_1.jpeg"><img src="images/AppleWatch_1.jpeg" title="Sylt-Shuttle"></a></td>
+    <td text align="center"><a href="images/AppleWatch_2.jpeg"><img src="images/AppleWatch_2.jpeg" title="FRS-Syltfähre"></a></td>
   </tr>
 </table>
-
-
 
 
 
