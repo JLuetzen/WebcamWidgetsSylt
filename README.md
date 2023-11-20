@@ -87,7 +87,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 
 
 -----
-<div id="EinsfuerAlles"></div><BR><BR>
+<div id="EinsfuerAlles"></div><BR><BR><BR>
 
 ## Features & Functions
 Folgende Features werden geboten:
@@ -213,7 +213,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="UebersichtKurzbefehle"></div><BR><BR>
+<div id="UebersichtKurzbefehle"></div><BR><BR><BR>
 
 ## Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen      
 
@@ -284,7 +284,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="InstantView"></div><BR><BR>
+<div id="InstantView"></div><BR><BR><BR>
 
 ## Sofort-Ansicht im Browser - für Androiden und PC-Benutzer
 <br>
@@ -303,7 +303,7 @@ Extra-Seite:
 
 ------------------------------------------------
 -----
-<div id="WeitereHinweise"></div><BR><BR>
+<div id="WeitereHinweise"></div><BR><BR><BR>
 
 ## Weitere Hinweise
 
@@ -379,7 +379,7 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 ------------------------------------------------
 -----
-<div id="Lockscreen"></div><BR><BR>
+<div id="Lockscreen"></div><BR><BR><BR>
 
 ## Für den Sperrbildschirm / Lockscreen / Apple Watch
 
@@ -429,8 +429,9 @@ Damit man die Cams als Zifferblatt auf der Apple Watch hat:
 * dann "Album synchronisieren" und das Album "WWS" wählen
 
 Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
+<BR>
 **iPhone**<BR>
-* weiter in der Watch App, wechseln zu "Zifferblätter
+* weiter in der Watch App, wechseln zu "Zifferblätter"
 * herunterscrollen zu "Fotos"
 * Inhalt: Album, "WWS" auswählen
 * mit "Hinzufügen" an die Apple Watch senden
@@ -439,7 +440,8 @@ Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
 * lang auf den Screen tippen, bis die Zifferblätter erzeugt werden können
 * auf das Plus-Zeichen für ein neues Zifferblatt
 * nach unten scrollen zu "Fotos", rechts auf das Pluszeichen
-* die weiteren Eigenschaften festlegen
+* die weiteren Eigenschaften festlegen und
+* Einrichtung Zifferblatt beenden, Zifferblatt auswählen
 <BR><BR>
 
 <table class="center">
@@ -455,7 +457,7 @@ Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
 
 ------------------------------------------------
 -----
-<div id="ListederCams"></div><BR><BR>
+<div id="ListederCams"></div><BR><BR><BR>
 
 ## Liste der Cams
 
@@ -534,7 +536,7 @@ Diese Webcams sind eingebunden:
 
 
 ------------------------------------------------
-<div id="LivespottingWebcamsCoast"></div><BR><BR>
+<div id="LivespottingWebcamsCoast"></div><BR><BR><BR>
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
 In Zusammenarbeit mit [https://www.livespotting.com](https://www.livespotting.com) sind diese Webcams von [https://livespotting.tv](https://livespotting.tv) der Kategorie "Coast" eingebunden:
@@ -605,7 +607,7 @@ Die Einrichtung ist [hier](#Nerd-Version) beschrieben. Das aufzurufende Script h
 
 ------------------------------------------------
 -----
-<div id="Daswillichauch"></div><BR><BR>
+<div id="Daswillichauch"></div><BR><BR><BR>
 
 ## "Das will ich auch haben..."
 
@@ -620,7 +622,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=Danksagung></div><BR><BR>
+<div id=Danksagung></div><BR><BR><BR>
 
 ## Danke an meine Unterstützer:
 
@@ -653,7 +655,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=NewsUpdates></div><BR><BR>
+<div id=NewsUpdates></div><BR><BR><BR>
 
 ## News and Updates:
 ----------------------------------------------------
@@ -731,7 +733,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 
 -->
 ----------------------------------------------------
-<div id="Nerd-Version"></div><BR><BR>
+<div id="Nerd-Version"></div><BR><BR><BR>
 
 ### 18.06.2022: iPhone Nerd Version
 
@@ -841,7 +843,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 ------------------------------------------------
 
-<div id=Lizenz></div><BR><BR>
+<div id=Lizenz></div><BR><BR><BR>
 
 ## Lizenz:
 
@@ -851,7 +853,7 @@ Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License]
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Datenschutz-Erklärung"></div><BR><BR>
+<div id="Datenschutz-Erklärung"></div><BR><BR><BR>
 
 ## Datenschutz-Erklärung:
 
@@ -861,7 +863,7 @@ Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_D
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Impressum"></div><BR><BR>
+<div id="Impressum"></div><BR><BR><BR>
 
 ## Impressum:
 
