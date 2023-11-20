@@ -429,7 +429,7 @@ Damit man die Cams als Zifferblatt auf der Apple Watch hat:
 * dann "Album synchronisieren" und das Album "WWS" wählen
 
 Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
-<BR>
+<BR><BR>
 **iPhone**<BR>
 * weiter in der Watch App, wechseln zu "Zifferblätter"
 * herunterscrollen zu "Fotos"
