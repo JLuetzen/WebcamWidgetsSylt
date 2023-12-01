@@ -48,7 +48,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -59,7 +59,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -70,7 +70,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -81,7 +81,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -92,7 +92,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -103,7 +103,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -114,7 +114,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -125,7 +125,7 @@ switch (myFilename) {
 		CamFamily = "Urlaubsziele CSML";
 		GitHubCamFile = "Cams_CSML-Edition.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -142,7 +142,7 @@ switch (myFilename) {
 		CamFamily = "ERROR";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "Du hast da was vergessen";
