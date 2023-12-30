@@ -48,7 +48,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -59,7 +59,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -70,7 +70,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -81,7 +81,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -92,7 +92,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -103,7 +103,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -114,7 +114,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -125,7 +125,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -136,7 +136,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -147,7 +147,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -158,7 +158,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -169,7 +169,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -180,7 +180,7 @@ switch (myFilename) {
 		CamFamily = "Surfcams Bayern";
 		GitHubCamFile = "Surfcams_Bayern.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "";
@@ -197,7 +197,7 @@ switch (myFilename) {
 		CamFamily = "ERROR";
 		GitHubCamFile = "Cams_Sylt.txt";
 		sourceURL = "https://wwsylt.live";
-		GitHubLogoName = 'WWS_Logo_NY.png';
+		GitHubLogoName = 'WWS_Logo_XMS.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
 		hinweistext = "Du hast da was vergessen";
