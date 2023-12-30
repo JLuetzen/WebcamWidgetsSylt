@@ -245,65 +245,65 @@ switch ( camProvider ) {
 switch ( camLocation ) {
 
 	case ("Kampen Quermarkenfeuer"):
-		customLogoName = "WWS_Logo_Kampen_XMS.png";
+		customLogoName = "WWS_Logo_Kampen_NY.png";
 		console.log("Kampen Quermarkenfeuer gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kampen Hotel Rungholt"):
-		customLogoName = "WWS_Logo_Rungholt_XMS.png";
+		customLogoName = "WWS_Logo_Rungholt_NY.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 
 	case ("Westerland Promenade ISTS"):
-		customLogoName = "WWS_Logo_Westerland_1_weiss_XMS.png";
+		customLogoName = "WWS_Logo_Westerland_1_weiss_NY.png";
 		console.log("Westerland Promenade gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
 	case ("Rantum ISTS"):
-		customLogoName = "WWS_Logo_Westerland_1_weiss_XMS.png";
+		customLogoName = "WWS_Logo_Westerland_1_weiss_NY.png";
 		console.log("Rantum gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
 	case ("Hörnum"):
 	case ("Hörnum Weststrand"):
-		customLogoName = "WWS_Logo_Hoernum_XMS.png";
+		customLogoName = "WWS_Logo_Hoernum_NY.png";
 		console.log("Hörnum gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Sansibar"):
-		customLogoName = "WWS_Logo_Sansibar2_XMS.png";
+		customLogoName = "WWS_Logo_Sansibar2_NY.png";
 		console.log("Sansibar gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
 	case ("Anleger Havneby/Rømø"):
 	case ("Anleger List/Sylt"):
 	case ("Anleger List/Sylt -  Zoom"):
-		customLogoName = "WWS_Logo_FRSSyltfaehre_11_XMS.png";
+		customLogoName = "WWS_Logo_FRSSyltfaehre_11_NY.png";
 		console.log("Anleger List/Sylt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Friesenkapelle Wenningstedt"):
-		customLogoName = "WWS_Wenningstedt_Kirche_XMS.png";
+		customLogoName = "WWS_Wenningstedt_Kirche_NY.png";
 		console.log("Friesenkapelle Wenningstedt gefunden, CustomLogoName: " + customLogoName + " . ");
 	break
 
 	case ("Wenningstedt Haus am Kliff"):
 	case ("Wenningstedt Berthin-Bleeg-Straße"):
 	case ("Wenningstedt Risgap"):
-		customLogoName = "WWS_Logo_Wenningstedt_1_W_XMS.png";
+		customLogoName = "WWS_Logo_Wenningstedt_1_W_NY.png";
 		console.log("Wenningstedt Haus am Kliff gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("List Weststrand"):
 	case ("List Hafen"):
-		customLogoName = "WWS_Logo_List_3_XMS.png";
+		customLogoName = "WWS_Logo_List_3_NY.png";
 		console.log("List gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
 	case ("Kochelsee") :
 //	case ("Surfcam Sylt"):
-		customLogoName = "WWS_Logo_Eastern2022_XMS.png";
+		customLogoName = "WWS_Logo_NY.png";
 		console.log("Kochelsee oder Surfcam gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
