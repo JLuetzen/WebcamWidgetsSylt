@@ -46,7 +46,7 @@
 # Webcam Widgets Sylt
 
 <br>
-<marquee>01.12.2023 Ab sofort im Advent zeigen wir ein Weihnachts-Logo, ChatGPT hat geholfen... 19.11.2023 Die Bilder der Cams auf dem Lockscreen... ein Kurzbefehl macht's möglich ..,,, **JETZT** hier verfügbar     23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
+<marquee>19.11.2023 Die Bilder der Cams auf dem Lockscreen und auf der AppleWatch... ein Kurzbefehl macht's möglich ..,,, **JETZT** hier verfügbar     23.10.2023 Die Widgets auf dem Desktop  ---  mit dem Mac ist das möglich ---- steht in den News  </marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
