@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # Webcam Widgets Sylt
 
 <br>
-<marquee>27.01.24  Hallo Sylter, die Biike rückt näher.. wer eine Biike-Webcam aufstellt, meldet Euch! Dann baue ich die hier in die Widgets ein ... Als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
+<marquee>Als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
