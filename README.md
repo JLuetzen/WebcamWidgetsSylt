@@ -13,6 +13,9 @@
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 
+  <!-- Start cookieyes Custom Consent Mode -->
+  {% include CustomConsentMode.html %}
+
   <!-- Start cookieyes banner -->
   {% include cookieyes.html %}
 
