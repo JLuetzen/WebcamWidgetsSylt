@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_includes/
+Disallow: /_SIC/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /data/
+Disallow: /dev/
+Disallow: /images/
+Disallow: /scripts/
+
+Sitemap: https://wwsylt.live/sitemap.xml
