@@ -111,8 +111,8 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
 * <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
-<!--- Sovrn affiliate --->
-[affiliate link zu www.list-sylt.de](https://sovrn.co/1ksa7oy)
+<!--- Sovrn affiliate
+[affiliate link zu www.list-sylt.de](https://sovrn.co/1ksa7oy) --->
 
 -----
 <div id="EinsfuerAlles"></div><BR><BR><BR>
