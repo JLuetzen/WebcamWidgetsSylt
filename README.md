@@ -37,6 +37,9 @@
   <!--- Google AdSense --->
   {% include google-adsense.html %}
 
+  <!--- Monetag --->
+  <meta name="monetag" content="77adcc26192a8a81ab1f06c474a6f403">
+
 </head>
 
 <!-- Google Tag Manager (noscript) -->
