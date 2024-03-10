@@ -112,7 +112,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
 <!--- Sovrn affiliate --->
-https://sovrn.co/1ksa7oy
+[affiliate link zu www.list-sylt.de](https://sovrn.co/1ksa7oy)
 
 -----
 <div id="EinsfuerAlles"></div><BR><BR><BR>
