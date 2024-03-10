@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # Webcam Widgets Sylt
 
 <br>
-<marquee>Als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
+<marquee>Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -78,10 +78,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 **Herzlich willkommen** bei den **Webcam Widgets Sylt**.  
 
 Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
-Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf Sylt und mit einem Klick geht es dann zum Livestream.
-Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in List auf Sylt und auf Röm in Havneby.
+Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf [Sylt](https://sovrn.co/gn4dpcc) und mit einem Klick geht es dann zum Livestream.
+Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in [List auf Sylt](https://sovrn.co/1ksa7oy) und auf Röm in Havneby.
 
-Aber nicht nur von Sylt. Ein paar Überraschungen sind weiter unten zu finden.
+Aber nicht nur von [Sylt](https://sovrn.co/gn4dpcc). Ein paar Überraschungen sind weiter unten zu finden.
 Die Einrichtung ist kinderleicht und bei Problemen bin ich per Mail erreichbar.
 Das war seit 2020 erst zweimal nötig.
 
