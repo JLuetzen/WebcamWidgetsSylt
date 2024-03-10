@@ -91,6 +91,9 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 
 <BR>
 
+<!--- Sovrn --->
+<script type="text/javascript" src="https://ap.lijit.com/www/delivery/fpi.js?z=1211426&width=468&height=60"></script>
+
 -----
 <div id="Inhalt"></div><BR><BR>
 
