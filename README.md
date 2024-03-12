@@ -78,10 +78,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 **Herzlich willkommen** bei den **Webcam Widgets Sylt**.  
 
 Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
-Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf <a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">Sylt</a> und mit einem Klick geht es dann zum Livestream.
-Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in <a href="https://sovrn.co/1ksa7oy" target="_blank" rel="noopener noreferrer">List auf Sylt</a> und auf Röm in Havneby.
+Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf <a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">**Sylt**</a> und mit einem Klick geht es dann zum Livestream.
+Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in <a href="https://sovrn.co/1ksa7oy" target="_blank" rel="noopener noreferrer">**List auf Sylt**</a> und auf Röm in Havneby.
 
-Aber nicht nur von <a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">Sylt</a>. Ein paar Überraschungen sind weiter unten zu finden.
+Aber nicht nur von <a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">**Sylt**</a>. Ein paar Überraschungen sind weiter unten zu finden.
 Die Einrichtung ist kinderleicht und bei Problemen bin ich per Mail erreichbar.
 Das war seit 2020 erst zweimal nötig.
 
