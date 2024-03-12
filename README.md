@@ -87,7 +87,7 @@ Das war seit 2020 erst zweimal nötig.
 
 Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses Video (In den News ist auch ein Hinweis, wie sie auf dem Mac aussehen):
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/xDe2LnULC7Y?si=dLbc-yeqfPV7fT31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!--- vorher: 350 x 197 --->
 <BR>
 
