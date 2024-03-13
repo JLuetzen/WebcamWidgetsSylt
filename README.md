@@ -67,8 +67,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
+
+
+
 <!--- Former H1 Tag # --->
 ## Webcam Widgets Sylt
+
+**Herzlich willkommen** bei den **Webcam Widgets Sylt**.  
+Webcam Widgets Sylt ist eine App für den HomeScreen vom iPhone, die Live-Bilder und Live-Streams von der wundervollen Nordsee-Insel Sylt und von anderen Locations zeigt. Zu sehen sind unter anderem die Bilder der WebCam vom Hotel Rungholt in Kampen, vom Quermarkenfeuer bei Kliffende (sobald es wieder funktioniert), von der Autoverladung am Autozug Sylt-Shuttle und von den Fähr-Anlegern der frs-Syltfähre. <BR>
+Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an der Fähre los ist. Und wer noch warten muss, kann sich mit Live-Streams vom Strand die Wartezeit verkürzen. Die WebCam-Bilder können auf den Homescreen gelegt werden oder über Kurzbefehle einzeln aufgerufen werden.
+
 
 <br>
 <marquee>Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
@@ -76,7 +84,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Einleitung
-**Herzlich willkommen** bei den **Webcam Widgets Sylt**.  
 
 Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
 Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf **<a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">Sylt</a>** und mit einem Klick geht es dann zum Livestream.
