@@ -883,7 +883,9 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 ## Blog: Der Kliffkieker
 
-Ich habe mich entschlossen, einen Blog zu schreiben und darin zum Einen die Änderungen und Erweiterungen der Webcam Widgets darzustellen und zum Anderen den durchaus steinigen Weg zu beschreiben, den man gehen muss, um Werbung auf der Site zum Laufen zu bringen. Oder Affiliate Links. Das ist ... interessant. Mehr dazu aber dann im [Blog: Der Kliffkieker](https://derkliffkieker.blogspot.com)
+Ich habe mich entschlossen, einen Blog zu schreiben und darin zum Einen die Änderungen und Erweiterungen der Webcam Widgets darzustellen und zum Anderen den durchaus steinigen Weg zu beschreiben, den man gehen muss, um Werbung auf der Site zum Laufen zu bringen. Oder Affiliate Links. Das ist ... interessant. <BR>
+Mehr dazu aber dann im [Blog: Der Kliffkieker](https://derkliffkieker.blogspot.com)
+<BR><BR>
 Und...jaaaa ich weiß... da ist noch nicht viel drin. Weiß ich.
 
 
