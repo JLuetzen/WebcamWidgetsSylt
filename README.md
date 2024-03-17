@@ -85,10 +85,10 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 ## Einleitung
 
 Widgets, das sind kleine Apps, die Informationen direkt auf dem Homescreen vom Smartphone darstellen.
-Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf **<a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">Sylt</a>** und mit einem Klick geht es dann zum Livestream.
-Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in **<a href="https://sovrn.co/1ksa7oy" target="_blank" rel="noopener noreferrer">List auf Sylt</a>** und auf Röm in Havneby.
+Die **Webcam Widgets Sylt** nun zeigen Live-Vorschaubilder der interessantesten Webcams auf **Sylt** und mit einem Klick geht es dann zum Livestream.
+Dazu gehören neben praktisch sämtlichen Webcams der Westküste vom Ellenbogen bis zur Odde auch die Webcams vom Autozug in Westerland und Niebüll als auch die Bilder der frs-Syltfähre in **List auf Sylt** und auf Röm in Havneby.
 
-Aber nicht nur von **<a href="https://sovrn.co/gn4dpcc" target="_blank" rel="noopener noreferrer">Sylt</a>**. Ein paar Überraschungen sind weiter unten zu finden.
+Aber nicht nur von **Sylt**. Ein paar Überraschungen sind weiter unten zu finden.
 Die Einrichtung ist kinderleicht und bei Problemen bin ich per Mail erreichbar.
 Das war seit 2020 erst zweimal nötig.
 
@@ -98,8 +98,6 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 <!--- vorher: 350 x 197 --->
 <BR>
 
-<!--- Sovrn --->
-<script type="text/javascript" src="https://ap.lijit.com/www/delivery/fpi.js?z=1211426&width=468&height=60"></script>
 
 -----
 <div id="Inhalt"></div><BR><BR>
@@ -118,8 +116,6 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
 * <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
 
-<!--- Sovrn affiliate
-[affiliate link zu www.list-sylt.de](https://sovrn.co/1ksa7oy) --->
 
 -----
 <div id="EinsfuerAlles"></div><BR><BR><BR>
