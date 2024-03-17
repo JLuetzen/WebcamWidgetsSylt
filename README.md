@@ -112,6 +112,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 * ["Das will ich auch haben"](#Daswillichauch)
 * [Danke an meine Unterstützer](#Danksagung)  
 * [News and Updates](#NewsUpdates)
+* [Blog: Der Kliffkieker](#Blog)
 * [Lizenz](#Lizenz)
 * <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
 * <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
@@ -875,6 +876,18 @@ Ihr werdet sehen, das ist alles sehr einfach.
 [Zurück zum Seitenanfang](#Top)
 
 -->
+
+------------------------------------------------
+
+<div id=Blog></div><BR><BR><BR>
+
+## Blog: Der Kliffkieker
+
+Ich habe mich entschlossen, einen Blog zu schreiben und darin zum Einen die Änderungen und Erweiterungen der Webcam Widgets darzustellen und zum Anderen den durchaus steinigen Weg zu beschreiben, den man gehen muss, um Werbung auf der Site zum Laufen zu bringen. Oder Affiliate Links. Das ist ... interessant. Mehr dazu aber dann im [Blog: Der Kliffkieker](https://derkliffkieker.blogspot.com)
+Und...jaaaa ich weiß... da ist noch nicht viel drin. Weiß ich.
+
+
+[Zurück zum Seitenanfang](#Top)
 
 ------------------------------------------------
 
