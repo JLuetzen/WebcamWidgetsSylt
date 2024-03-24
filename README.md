@@ -886,7 +886,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 ------------------------------------------------
 
-<div id=Blog></div><BR><BR><BR>
+<div id=Blog></div><BR><BR><BR><BR><BR><BR>
 
 ## Blog: Der Kliffkieker
 
