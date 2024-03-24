@@ -78,7 +78,7 @@ Webcam Widgets Sylt ist eine App für den HomeScreen vom iPhone, die Live-Bilder
 Zu sehen sind unter anderem die Bilder der WebCam vom Hotel Rungholt in Kampen, vom Quermarkenfeuer bei Kliffende (sobald es wieder funktioniert), von der Autoverladung am Autozug Sylt-Shuttle und von den Fähr-Anlegern der frs-Syltfähre. <BR>
 Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an der Fähre los ist. Und wer noch warten muss, kann sich mit Live-Streams vom Strand die Wartezeit verkürzen. Die WebCam-Bilder können auf den Homescreen gelegt werden oder über Kurzbefehle einzeln aufgerufen werden.<br><BR>
 
-<marquee>24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kamoen und Rantum wieder online und damit auch hier wieder ansehbar. 17.3.24  Jetzt neu mit <a href="https://derkliffkieker.blogspot.com">Blog: Der Kliffkieker</a>  24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
+<marquee>24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kampen und Rantum wieder online und damit auch hier wieder ansehbar. 17.3.24  Jetzt neu mit <a href="https://derkliffkieker.blogspot.com">Blog: Der Kliffkieker</a>  24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
