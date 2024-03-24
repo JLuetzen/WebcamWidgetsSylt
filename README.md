@@ -41,9 +41,9 @@
   <!--- Google AdSense --->
   {% include google-adsense.html %}
 
-
-
 </head>
+<!--- =========================================================================================================================== --->
+
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQL9P9RH"
@@ -55,7 +55,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="Top"></div>
 <div id="navbar">
   <a class="active" href="https://wwsylt.live/#Top">Home</a>
+  <a href="https://wwsylt.live/#EinsfuerAlles">Features & Functions</a>
+  <a href="https://wwsylt.live/#UebersichtKurzbefehle">Anleitung</a>
+  <a href="https://wwsylt.live/#InstantView">Cams</a>
+  <a href="https://wwsylt.live/#WeitereHinweise">Interesantes</a>
+  <a href="https://wwsylt.live/#Lockscreen">Apple Watch und Mac</a>
+  <a href="https://wwsylt.live/#EinsfuerAlles">Features & Functions</a>  
   <a href="https://wwsylt.live/#NewsUpdates">News</a>
+  <a href="https://wwsylt.live/#Blog">Blog</a>
   <a href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
   <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
   <!---  <a href="javascript:void(0)">Contact</a>--->
