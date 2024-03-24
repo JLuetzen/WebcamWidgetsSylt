@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!---  <a style="float:right" href="https://wwsylt.live/impressum/Impressum.html" target="_blank" rel="noopener noreferrer">Impressum</a>
   <a style="float:right" href="https://wwsylt.live/datenschutz/WWS_Datenschutz_DE.html" target="_blank" rel="noopener noreferrer">Datenschutz</a>
   --->
-</div><BR><BR>
+</div><BR>
 
 ![image](images/IMG_0184_corrected_20210403_Banner_Logo.jpg "Banner-List-Ellenbogen")
 
@@ -107,7 +107,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 
 
 -----
-<div id="Inhalt"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Inhalt"></div><BR><BR><BR><BR><BR><BR>
 
 ## Inhalt
 * [Features & Functions](#EinsfuerAlles)  
@@ -126,7 +126,7 @@ Wie genau die **Webcam Widgets Sylt** auf dem Smartphone aussehen, zeigt dieses 
 
 
 -----
-<div id="EinsfuerAlles"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="EinsfuerAlles"></div><BR><BR><BR><BR><BR><BR>
 
 ## Features & Functions
 Folgende Features werden geboten:
@@ -252,7 +252,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="UebersichtKurzbefehle"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="UebersichtKurzbefehle"></div><BR><BR><BR><BR><BR><BR>
 
 ## Kurzbefehle und Anleitungen zur Einrichtung auf dem Homescreen      
 
@@ -323,7 +323,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 
 ------------------------------------------------
 -----
-<div id="InstantView"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="InstantView"></div><BR><BR><BR><BR><BR><BR>
 
 ## Sofort-Ansicht im Browser - für Androiden und PC-Benutzer
 <br>
@@ -342,7 +342,7 @@ Extra-Seite:
 
 ------------------------------------------------
 -----
-<div id="WeitereHinweise"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="WeitereHinweise"></div><BR><BR><BR><BR><BR><BR>
 
 ## Weitere Hinweise
 
@@ -418,7 +418,7 @@ Die Aufkleber sind rund, 7 cm Durchmesser, weiße Schrift auf transparenter Foli
 
 ------------------------------------------------
 -----
-<div id="Lockscreen"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Lockscreen"></div><BR><BR><BR><BR><BR><BR>
 
 ## Für den Sperrbildschirm / Lockscreen / Apple Watch
 
@@ -500,7 +500,7 @@ Es geht danach weiter auf dem iPhone oder auf der Apple Watch:
 
 ------------------------------------------------
 -----
-<div id="ListederCams"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="ListederCams"></div><BR><BR><BR><BR><BR><BR>
 
 ## Liste der Cams
 
@@ -579,7 +579,7 @@ Diese Webcams sind eingebunden:
 
 
 ------------------------------------------------
-<div id="LivespottingWebcamsCoast"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="LivespottingWebcamsCoast"></div><BR><BR><BR><BR><BR><BR>
 
 ### Livespotting Webcams Coast (Stand 29.08.2022)
 
@@ -651,7 +651,7 @@ Die Einrichtung ist [hier](#Nerd-Version) beschrieben. Das aufzurufende Script h
 
 ------------------------------------------------
 -----
-<div id="Daswillichauch"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Daswillichauch"></div><BR><BR><BR><BR><BR><BR>
 
 ## "Das will ich auch haben..."
 
@@ -666,7 +666,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=Danksagung></div><BR><BR><BR><BR><BR><BR><BR>
+<div id=Danksagung></div><BR><BR><BR><BR><BR><BR>
 
 ## Danke an meine Unterstützer:
 
@@ -699,7 +699,7 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 
 ------------------------------------------------
 -----
-<div id=NewsUpdates></div><BR><BR><BR>
+<div id=NewsUpdates></div><BR><BR><BR><BR><BR><BR>
 
 ## News and Updates:
 ----------------------------------------------------
@@ -777,7 +777,7 @@ Im Bild wird im Fall erneuter Probleme der Hinweis eingeblendet, dass keine Zeit
 
 -->
 ----------------------------------------------------
-<div id="Nerd-Version"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Nerd-Version"></div><BR><BR><BR><BR><BR><BR>
 
 ### 18.06.2022: iPhone Nerd Version
 
@@ -887,7 +887,7 @@ Ihr werdet sehen, das ist alles sehr einfach.
 
 ------------------------------------------------
 
-<div id=Blog></div><BR><BR><BR><BR><BR><BR><BR>
+<div id=Blog></div><BR><BR><BR><BR><BR><BR>
 
 ## Blog: Der Kliffkieker
 
@@ -901,7 +901,7 @@ Und...jaaaa ich weiß... da ist noch nicht viel drin. Weiß ich.
 
 ------------------------------------------------
 
-<div id=Lizenz></div><BR><BR><BR><BR><BR><BR><BR>
+<div id=Lizenz></div><BR><BR><BR><BR><BR><BR>
 
 ## Lizenz:
 
@@ -911,7 +911,7 @@ Dieses Projekt ist lizensiert nach der [BSD 3-Clause "New" or "Revised" License]
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Datenschutz-Erklärung"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Datenschutz-Erklärung"></div><BR><BR><BR><BR><BR><BR>
 
 ## Datenschutz-Erklärung:
 
@@ -921,7 +921,7 @@ Hier ist der Link zur <a href="https://wwsylt.live/datenschutz/WWS_Datenschutz_D
 [Zurück zum Seitenanfang](#Top)
 
 ----------------------------------------------------
-<div id="Impressum"></div><BR><BR><BR><BR><BR><BR><BR>
+<div id="Impressum"></div><BR><BR><BR><BR><BR><BR>
 
 ## Impressum:
 
