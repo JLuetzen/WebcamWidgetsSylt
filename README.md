@@ -13,7 +13,8 @@
 <meta name="monetag" content="b0464bbcebdb37a8a59a84c226e10e20">
 <!---   <script src="https://alwingulla.com/88/tag.min.js" data-zone="50185" async data-cfasync="false"></script> --->
 <!---   <script src="https://alwingulla.com/88/tag.min.js" data-zone="75363" async data-cfasync="false"></script> --->
-
+<!--- Golden Tag --->
+  <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://zovidree.com/tag.min.js',7659990,document.body||document.documentElement)</script>
 
 
 
