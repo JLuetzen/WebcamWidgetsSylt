@@ -34,7 +34,10 @@ brauchst Du nicht mehr auszuprobieren! --->
   {% include optout.html %}
 
   <!--- Google Analytics --->
-  {% include google-analytics.html %}
+  <!--- {% include google-analytics.html %} --->
+  <!--- Google adSense Sniplet --->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
+       crossorigin="anonymous"></script>
 
   <!--- Google AdSense --->
   {% include google-adsense.html %}
