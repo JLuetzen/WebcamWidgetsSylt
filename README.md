@@ -3,6 +3,7 @@
 
   <script src="/scripts/scrollbarscript.js" type="text/javascript"></script>
 
+  <meta name="google-adsense-account" content="ca-pub-6322012356239211">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--- Monetag ... Schrott... damit geht das Cookie Consent nicht mehr
@@ -38,6 +39,8 @@ brauchst Du nicht mehr auszuprobieren! --->
   <!--- Google adSense Sniplet --->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
        crossorigin="anonymous"></script>
+
+
 
   <!--- Google AdSense --->
   {% include google-adsense.html %}

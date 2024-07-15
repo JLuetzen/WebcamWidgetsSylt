@@ -1,5 +1,6 @@
 <head>
 
+  <meta name="google-adsense-account" content="ca-pub-6322012356239211">
   <script src="scripts/scrollbarscript.js" type="text/javascript"></script>
   <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 
