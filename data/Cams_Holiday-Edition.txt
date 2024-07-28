@@ -6,4 +6,4 @@ Büsum Hauptstrand;https://www.buesum.de/;54.12797065647242;8.85686753307092;htt
 Büsumer Deichhausen;https://www.buesumer-deichhausen-nordsee.de/;54.13495552484945;8.889408457993737;https://cdn.livespotting.com/vpu/9dvhd3wf/aetm7sg6.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=aetm7sg6
 Greetsiel Hafen;https://www.greetsiel.de;53.5021455217749;7.099510674056873;https://cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_78664
 Bardolino Color Hotel;https://www.colorhotel.it;45.542837;10.725371;https://www.foto-webcam.eu/webcam/bardolino/;https://www.foto-webcam.eu/webcam/bardolino/
-Insel Poel;https://insel-poel.de;53,99201;11,37341;https://www.insel-poel.de/bilder/webcam/webcam.jpg;https://www.insel-poel.de/webcam.php
+Insel Poel;https://insel-poel.de;53.99201;11.37341;https://www.insel-poel.de/bilder/webcam/webcam.jpg;https://www.insel-poel.de/webcam.php
