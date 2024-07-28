@@ -301,7 +301,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
 <table width="900">
   <tr>
     <th></th>
-    <th>Urlaubsziele</th>
+    <th>Urlaubsziele Weltweit</th>
     <th>Surfcams Bayern</th>
   </tr>
   <tr>
