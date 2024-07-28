@@ -306,12 +306,12 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   </tr>
   <tr>
     <td text align="center" width="20%">Kurzbefehle zum <BR>Update der Scripte</td>
-    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/5901046100dd4b01aaed0481b8a0049e" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto"  src="images/WWS_Shortcut_Urlaubsziele.jpg" width="200" /></a></td>
+    <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/b234d6913789411abcfe1ac239799bfe" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto"  src="images/WWS_Shortcut_UrlaubszieleCSML.jpg" width="200" /></a></td>
     <td text align="center" width="40%"><a href="https://www.icloud.com/shortcuts/b58e3f131aac4e49881b4439919ed6e6" target="_blank" rel="noopener"><img  style="display: block; margin-left: auto; margin-right: auto" src="images/WWS_Shortcut_Surfcams_Bayern.jpg" width="200" /></a></td>
   </tr>
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/ab05fd481adb4829b5abd1ba4c2c799c" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_Urlaubsziele_Weltweit.jpg" width="120" /></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/9635a87a0cbe42eca8d513f7f8a43e90" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_UrlaubszieleCSML.jpg" width="120" /></a></td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
   </tr>
   <tr>
@@ -320,7 +320,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
       1. Einmal lange auf den HomeScreen tippen, bis die Icons wackeln. Dann über das Plus-Zeichen oben ein neues Widget erstellen.<BR>
       2. <b>Scriptable</b> auswählen, die <i>mittlere</i> Widget-Größe auswählen und <b>Add Widget</b> antippen.<BR>
       3. Neues Widget antippen führt zu den Einstellungen<BR>
-      4. Unter "Script" das neue Script auswählen, zB <i>WWS_Buesum_Hauptstrand</i>, fertig<BR>
+      4. Unter "Script" das neue Script auswählen, zB <i>WWS_CSML_Buesum_Hauptstrand</i>, fertig<BR>
     </td>  
   </tr>    
 </table>
@@ -821,7 +821,7 @@ Der Kurzbefehl <b>Update WWSylt</b> kopiert die Scripte für diese Nerd-Version 
 - WWS_Syltcams
 - WWS_Syltfaehre
 - WWS_Syltshuttle
-- WWS-Holiday-Edition (formerly as: WWS_CSML-Edition)
+- WWS_CSML-Edition
 - WWS_Surfcams_Bayern
 - WWS_Livespotting_Coast
 

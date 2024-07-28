@@ -44,9 +44,9 @@ switch (myFilename) {
 	// *****************************
 
 
-	case ("WWS_CSML_SPO_Badestelle_Ording"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_SPO_Badestelle_Ording"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -55,9 +55,9 @@ switch (myFilename) {
 		param = "1";
 	break;
 
-	case ("WWS_CSML_SPO_Erlebnispromenade"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_SPO_Erlebnispromenade"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -66,9 +66,9 @@ switch (myFilename) {
 		param = "2";
 	break;
 
-	case ("WWS_CSML_SPO_Kuestenpanorama"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_SPO_Kuestenpanorama"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -77,9 +77,9 @@ switch (myFilename) {
 		param = "3";
 	break;
 
-	case ("WWS_CSML_Buesum_Perlebucht"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_Buesum_Perlebucht"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -88,9 +88,9 @@ switch (myFilename) {
 		param = "4";
 	break;
 
-	case ("WWS_CSML_Buesum_Hauptstrand"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_Buesum_Hauptstrand"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -99,9 +99,9 @@ switch (myFilename) {
 		param = "5";
 	break;
 
-	case ("WWS_CSML_Buesumer_Deichhausen"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_Buesumer_Deichhausen"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -110,9 +110,9 @@ switch (myFilename) {
 		param = "6";
 	break;
 
-	case ("WWS_CSML_Greetsiel_Hafen"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_Greetsiel_Hafen"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -121,9 +121,9 @@ switch (myFilename) {
 		param = "7";
 	break;
 
-	case ("WWS_CSML_Gardasee Color Hotel"):
-		CamFamily = "Urlaubsziele CSML";
-		GitHubCamFile = "Cams_CSML-Edition.txt";
+	case ("WWS_Gardasee Color Hotel"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
 		sourceURL = "https://wwsylt.live";
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
@@ -131,6 +131,18 @@ switch (myFilename) {
 		hinweistext = "";
 		param = "8";
 	break;
+
+	case ("WWS_Insel Poel"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "9";
+	break;
+
 
 
 	// *****************************
