@@ -157,7 +157,7 @@ switch (myFilename) {
 		GitHubLogoName = 'WWS_Logo.png';
 		GitHubErrorPic = 'Error_Parameter.png';
 		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
-		hinweistext = "Du hast da was vergessen";
+		hinweistext = "Urlaubsziele: nix gefunden, Du hast da was vergessen";
 		param = "1"
 	}
 
