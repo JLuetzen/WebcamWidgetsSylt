@@ -89,7 +89,7 @@ Webcam Widgets Sylt ist eine App für den HomeScreen vom iPhone, die Live-Bilder
 Zu sehen sind unter anderem die Bilder der WebCam vom Hotel Rungholt in Kampen, vom Quermarkenfeuer bei Kliffende (sobald es wieder funktioniert), von der Autoverladung am Autozug Sylt-Shuttle und von den Fähr-Anlegern der frs-Syltfähre. <BR>
 Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an der Fähre los ist. Und wer noch warten muss, kann sich mit Live-Streams vom Strand die Wartezeit verkürzen. Die WebCam-Bilder können auf den Homescreen gelegt werden oder über Kurzbefehle einzeln aufgerufen werden.<br><BR>
 
-<!--- <marquee>24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kampen und Rantum wieder online und damit auch hier wieder ansehbar. 17.3.24  Jetzt neu mit <a href="https://derkliffkieker.blogspot.com">Blog: Der Kliffkieker</a>  24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
+<!--- <marquee>28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kampen und Rantum wieder online und damit auch hier wieder ansehbar. 17.3.24  Jetzt neu mit <a href="https://derkliffkieker.blogspot.com">Blog: Der Kliffkieker</a>  24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
 --->
 
 <marquee>YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>   24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kampen und Rantum wieder online und damit auch hier wieder ansehbar.    24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
@@ -570,7 +570,7 @@ Diese Seen sind eingebunden:
 
 ------------------------------------------------
 
-### Urlaubsziele (Stand 07.08.2022)
+### Urlaubsziele Weltweit (Stand 28.07.2024)
 
 Webcams im Norden und Süden...
 
@@ -583,6 +583,7 @@ Diese Webcams sind eingebunden:
 * Büsum Deichhausen
 * Greetsiel
 * Hotel Color Bardolino
+* Insel Poel Hafen Timmendorf
 
 
 ------------------------------------------------
@@ -709,6 +710,10 @@ Wenn Ihr Webcams habt, die ich Euch in Widgets einbinden soll oder für die ich 
 <div id=NewsUpdates></div><BR><BR><BR><BR><BR><BR>
 
 ## News and Updates:
+----------------------------------------------------
+### 28.07.2024: neue Cam: Insel Poel - Hafen Timmendorf
+Die Kategorie **Urlaubsziele Weltweit** ist seit heute erweitert um die Webcam am Hafen von Timmendorf auf der Insel Poel. Wenn man auf das eingerichtete Widget tippt, öffnet sich wie gewohnt die Website mit dem Cam-Bild. In diesem Fall ist das kein Livestream, sondern das aktuelle Bild, das alle 5 min neu aufgenommen wird.
+
 ----------------------------------------------------
 ### 24.10.2023: Widgets auf dem Desktop
 Mit MacOS Sonoma (14.0) kann man sich die Widgets auf den Desktop holen. Einfach rechte Maustaste -> Widgets.   
