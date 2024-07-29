@@ -92,7 +92,10 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 <!--- <marquee>24.03.24  Erfreulicherweise sind die Webcams an den Stränden von Kampen und Rantum wieder online und damit auch hier wieder ansehbar. 17.3.24  Jetzt neu mit <a href="https://derkliffkieker.blogspot.com">Blog: Der Kliffkieker</a>  24.10.23 NEU: Auch verfügbar als Widget auf dem iPhone, als Lockscreen Hintergrund, auf der AppleWatch und auf dem Mac</marquee><BR>
 --->
 
-<marquee>28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>/marquee><BR>
+<marquee>
+28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
+</marquee>
+<BR>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjluetzen.github.io%2FWebCamWidgetsSylt%2F&count_bg=%230277BD&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=Besucher&edge_flat=false)](https://hits.seeyoufarm.com)
 
