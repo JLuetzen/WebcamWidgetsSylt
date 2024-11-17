@@ -7,6 +7,5 @@ Disallow: /data/
 Disallow: /dev/
 Disallow: /images/
 Disallow: /scripts/
-Disallow: /WFG20241010/
 
 Sitemap: https://wwsylt.live/sitemap.xml
