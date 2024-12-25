@@ -1,6 +1,12 @@
 <!--- here wo go --->
 <head>
 
+<!--- Google adSense Sniplet --->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
+
+  crossorigin="anonymous"></script>
+
+
   <script src="/scripts/scrollbarscript.js" type="text/javascript"></script>
 
   <meta name="google-adsense-account" content="ca-pub-6322012356239211">
@@ -36,14 +42,12 @@ brauchst Du nicht mehr auszuprobieren! --->
 
   <!--- Google Analytics --->
   <!--- {% include google-analytics.html %} --->
-  <!--- Google adSense Sniplet --->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
-       crossorigin="anonymous"></script>
 
 
 
-  <!--- Google AdSense --->
+  <!--- Google AdSense
   {% include google-adsense.html %}
+  --->
 
 </head>
 <!--- =========================================================================================================================== --->
