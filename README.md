@@ -3,7 +3,6 @@
 
 <!--- Google adSense Sniplet --->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6322012356239211"
-
   crossorigin="anonymous"></script>
 
 
@@ -97,7 +96,7 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 --->
 
 <marquee>
-28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
+25.12.2024 Frohe Weihnachten Euch allen! 28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
 </marquee>
 <BR>
 
