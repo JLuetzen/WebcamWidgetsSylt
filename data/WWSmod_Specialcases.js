@@ -138,7 +138,8 @@ switch ( camProvider ) {
 
 				var myJS = `
 				(function() {
-				var x = document.querySelector('.webcamimage').src
+				// var x = document.querySelector('.webcamimage').src
+				var x = document.querySelector("img#currentimage.wc-img.bigimg").src
 				 completion(x);
 				return;
 				})();
