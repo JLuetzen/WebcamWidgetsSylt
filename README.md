@@ -96,7 +96,7 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 --->
 
 <marquee>
-25.12.2024 Frohe Weihnachten Euch allen! 28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
+16.01.25 Die WebCam in der Prienavera am Chiemsee wieder im Widget. 25.12.2024 Frohe Weihnachten Euch allen! 28.07.2024  In der Kategorie "Urlaubsziele Weltweit" ist neu die Cam am Hafen von Timmendorf auf der Insel Poel himnzugekommen.  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
 </marquee>
 <BR>
 
