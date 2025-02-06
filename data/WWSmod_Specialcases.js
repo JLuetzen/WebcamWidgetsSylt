@@ -302,6 +302,11 @@ switch ( camLocation ) {
 		console.log("List gefunden, CustomLogoName: " + customLogoName + " . ");
 	break;
 
+	case ("Kampen Golfclub Sylt"):
+		customLogoName = "WWS_Logo_Golfclub_inline_2.png";
+		console.log("Golfclub gefunden, CustomLogoName: " + customLogoName + " . ");
+	break;
+
 	case ("Kochelsee") :
 //	case ("Surfcam Sylt"):
 		customLogoName = "WWS_Logo.png";
