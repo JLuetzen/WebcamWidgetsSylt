@@ -7,3 +7,4 @@ Büsumer Deichhausen;https://www.buesumer-deichhausen-nordsee.de/;54.13495552484
 Greetsiel Hafen;https://www.greetsiel.de;53.5021455217749;7.099510674056873;https://cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=LS_78664
 Bardolino Color Hotel;https://www.colorhotel.it;45.542837;10.725371;https://www.foto-webcam.eu/webcam/bardolino/;https://www.foto-webcam.eu/webcam/bardolino/
 Insel Poel;https://insel-poel.de;53.99201;11.37341;https://www.insel-poel.de/bilder/webcam/webcam.jpg;https://www.insel-poel.de/webcam.php
+Stockholm Gamla Stan;http://www.webbkameror.se/;59.31972;18.07348;http://185.102.215.186/current/5445copyright!!/slussen_2_live.jpg;https://www.webcams-skandinavien.de/Schweden/Cam-Stockholm-Gamla-Stan.php

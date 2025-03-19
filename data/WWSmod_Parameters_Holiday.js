@@ -143,7 +143,16 @@ switch (myFilename) {
 		param = "9";
 	break;
 
-
+	case ("WWS_Stockholm Gamla Stan"):
+		CamFamily = "Urlaubsziele Weltweit";
+		GitHubCamFile = "Cams_Holiday-Edition.txt";
+		sourceURL = "https://wwsylt.live";
+		GitHubLogoName = 'WWS_Logo.png';
+		GitHubErrorPic = 'Error_Parameter.png';
+		GitHubSpecialCaseFile = 'WWSmod_Specialcases';
+		hinweistext = "";
+		param = "10";
+	break;
 
 	// *****************************
 	// Default
