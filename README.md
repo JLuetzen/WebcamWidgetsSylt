@@ -335,7 +335,7 @@ Die wesentlichen Neuerungen sind, falls es interessiert, weiter unten genannt.
   <tr>
     <td text align="center">Kurzbefehl für <BR>Cam-Menue 3.1</td>
     <td text align="center"><a href="https://www.icloud.com/shortcuts/ab05fd481adb4829b5abd1ba4c2c799c" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_Urlaubsziele_Weltweit.jpg" width="120" /></a></td>
-    <td text align="center"><a href="https://www.icloud.com/shortcuts/562b9b2a3dff43a5b687a3faa3da6e03" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
+    <td text align="center"><a href="https://www.icloud.com/shortcuts/d3fb54b7023a4698a4f7de7f8989c28e" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto" src="images/SC_SurfcamsBayern.jpg" width="120" /></a></td>
   </tr>
   <tr>
     <td text align="center" width="20%">Anleitung für<BR>den Homescreen</td>
