@@ -23,7 +23,7 @@ brauchst Du nicht mehr auszuprobieren! --->
 
   <!-- Start cookieyes Custom Consent Mode -->
   {% include CustomConsentMode.html %}
-xx
+
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -38,7 +38,7 @@ xx
 
   <!--- Opt Out https://blog.hubspot.de/marketing/google-analytics-deaktivieren bzw. Datenschutz.org -->
   {% include optout.html %}
-
+xxx
   <!--- Google Analytics --->
   <!--- {% include google-analytics.html %} --->
 
