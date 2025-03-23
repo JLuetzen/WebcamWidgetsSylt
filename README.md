@@ -607,6 +607,7 @@ Diese Webcams sind eingebunden:
 * Greetsiel
 * Hotel Color Bardolino
 * Insel Poel Hafen Timmendorf
+* Stockholm Gamla Stan
 
 
 ------------------------------------------------
