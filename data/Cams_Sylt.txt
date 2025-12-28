@@ -7,9 +7,9 @@ Rantum ISTS;https://www.insel-sylt.de/;54.84841039611982;8.287760832809381;https
 Sansibar;https://www.sansibar.de;54.81466340907194;8.285084670384071;https://cdn.livespotting.com/vpu/r70utrec/o3tazsiz.jpg;https://player.livespotting.com/?alias=6nnbhf60&ch=o3tazsiz
 Kampen Golfclub Sylt;https://www.golfclubsylt.de;54.942142;8.336588;https://www.golfclubsylt.de;https://www.golfclubsylt.de/webcam.html
 Friesenkapelle Wenningstedt;https://friesenkapelle.de/;54.93997;8.32765;https://live-image.panomax.com/cams/3558/recent_reduced.jpg;https://sylt.panomax.com/friesenkapelle-dorfteich
-Wenningstedt Haus am Kliff;https://www.wenningstedt.de;54.93707;8.31600;https://wenningstedt.nordwind-ev.de/preview-haus-am-kliff.jpg;https://www.wenningstedt.de/service/webcams/webcam-haus-am-kliff
-Wenningstedt Berthin-Bleeg-Straße;https://www.wenningstedt.de;54.93863;8.31668;https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg;https://www.wenningstedt.de/service/webcams/webcam-berthin-bleeg-strasse
-Wenningstedt Risgap;https://www.wenningstedt.de;54.93579;8.31504;https://wenningstedt.nordwind-ev.de/preview-risgap.jpg;https://www.wenningstedt.de/service/webcams/webcam-risgap
+Wenningstedt Haus am Kliff;https://www.wenningstedt.de;54.93707;8.31600;https://wenningstedt.nordwind-ev.de/preview-haus-am-kliff.jpg;https://webcam.nordwind-ev.de/iframe.php?key=TsEB%2Bbcsw8pBMlROJ7pSN2Zy4l0j5Tv%2Fym1nJT0EOrU%3D
+Wenningstedt Berthin-Bleeg-Straße;https://www.wenningstedt.de;54.93863;8.31668;https://wenningstedt.nordwind-ev.de/preview-berthin-bleeg-strasse.jpg;https://webcam.nordwind-ev.de/iframe.php?key=ERdz%2BhWlz7ptpfk30N9uTrVOXIlgzi%2BzjIVgkYllJjhHXVM%3D
+Wenningstedt Risgap;https://www.wenningstedt.de;54.93579;8.31504;https://wenningstedt.nordwind-ev.de/preview-risgap.jpg;https://webcam.nordwind-ev.de/iframe.php?key=ERdz%2BhWlz7ptpfk30N9uTtoS1hy8xrzLCNQUtfEkhqlHXVM%3D=
 Hörnum Weststrand;https://www.hoernum.de;54.7529359010815;8.2786923137715;https://cdn.livespotting.com/vpu/bgh4pz4b/28eljrrx.jpg;https://player.livespotting.com?alias=w5l40qk4&ch=28eljrrx
-List Weststrand;https://www.list-sylt.de/;55.03645;8.38654;https://list.nordwind-ev.de/preview-list.jpg;https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr62240_0
-List Hafen;https://www.list-sylt.de/;55.01686;8.43937;https://list.nordwind-ev.de/preview-list-hafen.jpg;https://www.list-sylt.de/service/webcams#cmppreviewrootcmpr5806_0
+List Weststrand;https://www.list-sylt.de/;55.03645;8.38654;https://list.nordwind-ev.de/preview-list.jpg;https://www.sylt.de/webcams/list-webcam-weststrand
+List Hafen;https://www.list-sylt.de/;55.01686;8.43937;https://list.nordwind-ev.de/preview-list-hafen.jpg;https://www.sylt.de/webcams/list-webcam-hafen
