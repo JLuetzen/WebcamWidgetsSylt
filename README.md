@@ -96,7 +96,7 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 --->
 
 <marquee>
-28.12.2025 Anpassung einiger WebSie Links, damit der LiveStream wieder direkt starten kann   18.03.2025 Neue Holiday WebCam: Stockholm mit Blick auf Gamla Stan. Einfach den Update Kurzbefehl ausführen  YouTube Videos <a href="https://youtu.be/t6gC9xvid7A">Einmal um den Christian</a> , <a href="https://youtu.be/NhPwCeApwRE">Sunset List Weststrand</a> , <a href="https://youtu.be/-DxgRaRe2l0">Quermarkenfeuer Kampen</a> , <a href="https://luetzenmedia.mypixieset.com">Syltbilder und andere</a>
+01.11.2026 Einige Webseiten sind aktuell leider nicht für die Widgets nutzbar: Surfcam Sylt: Seite ist neugestaltet, Vorschaubild wird gerade neu abgestimmt. Sansibar: Webcam nicht mehr auf Website, Nachfrage läuft. Golfclub: Website offline wegen PHP Threat. 
 </marquee>
 <BR>
 
