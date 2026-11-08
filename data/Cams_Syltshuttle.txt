@@ -1,6 +1,7 @@
-Autoverladung Niebüll 1;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_1.jpg
-Autoverladung Niebüll 2;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_2.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_2.jpg
-Autoverladung Niebüll 3;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg;https://www.autozug-sylt.de/webcam/niebuell/webcam_img_3.jpg
-WESTERLAND 1;https://www.autozug-sylt.de;54.904908201967274;8.312990242016715;https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg;https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg
-WESTERLAND 2;https://www.vosssylt.de/webcam-papierhaus/;54.904908201967274;8.312990242016715;https://paw14.de/WebCam_Voss_Papierhaus_Richtung_Sky/Voss2.jpg;https://paw14.de/WebCam_Voss_Papierhaus_Richtung_Sky/Voss2.jpg
-WESTERLAND 3;https://sylter-freizeit-team.de;54.904908201967274;8.312990242016715;https://sylter-freizeit-team.de/webcamWE.jpg;https://sylter-freizeit-team.de/webcamWE.jpg
+Autoverladung Niebüll 1;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam-images/niebuell_wb1_small.jpg;https://www.autozug-sylt.de/webcam-images/niebuell_wb1_small.jpg
+Autoverladung Niebüll 2;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam-images/niebuell_wb2_med.jpg;https://www.autozug-sylt.de/webcam-images/niebuell_wb2_med.jpg
+Autoverladung Niebüll 3;https://www.autozug-sylt.de;54.78061135195138;8.841174091966655;https://www.autozug-sylt.de/webcam-images/niebuell_wb3_small.jpg;https://www.autozug-sylt.de/webcam-images/niebuell_wb3_small.jpg
+WESTERLAND 1 PKW Terminal;https://www.autozug-sylt.de;54.904908201967274;8.312990242016715;https://www.autozug-sylt.de/webcam-images/westerland_pkw_big.jpg;https://www.autozug-sylt.de/webcam/westerland/61382/webcam_img_big.jpg
+WESTERLAND 2 Industrieweg;https://www.autozug-sylt.de;54.904908201967274;8.312990242016715;https://www.autozug-sylt.de/webcam-images/westerland_industrie_small.jpg;https://www.autozug-sylt.de/webcam-images/westerland_industrie_small.jpg
+WESTERLAND 3 Voss;https://www.vosssylt.de/page/webcam;54.904908201967274;8.312990242016715;https://www.autozug-sylt.de/webcam-images/voss_small.jpg;https://www.autozug-sylt.de/webcam-images/voss_small.jpg
+WESTERLAND 4 Autoverladung; https://sylter-freizeit-team.de;54.904908201967274;8.312990242016715;https://sylter-freizeit-team.de/webcamWE.jpg;https://sylter-freizeit-team.de/webcamWE.jpg

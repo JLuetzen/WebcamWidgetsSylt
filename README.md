@@ -96,7 +96,7 @@ Bei der An- oder Abreise kann man sehen, wie viel an der Autoverladung oder an d
 --->
 
 <marquee>
-01.11.2026 Einige Webseiten sind aktuell leider nicht für die Widgets nutzbar: Surfcam Sylt: Seite ist neugestaltet, Vorschaubild wird gerade neu abgestimmt. Sansibar: Webcam nicht mehr auf Website, Nachfrage läuft. Golfclub: Website offline wegen PHP Threat. 
+08.11.2026 Die Webcams vom Autozug in Niebüll sind ab Montag, 9.11.26, wieder sichtbar. -- 01.11.2026 Einige Webseiten sind aktuell leider nicht für die Widgets nutzbar: Surfcam Sylt: Seite ist neugestaltet, Vorschaubild wird gerade neu abgestimmt. Sansibar: Webcam nicht mehr auf Website, Nachfrage läuft. Golfclub: Website offline wegen PHP Threat. 
 </marquee>
 <BR>
 
